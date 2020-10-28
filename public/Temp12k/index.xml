@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Temp12ks on lipdverse</title>
+    <link>https://lipdverse.org/temp12k/</link>
+    <description>Recent content in Temp12ks on lipdverse</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://lipdverse.org/temp12k/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>M39008_3.Eynaud.2009</title>
+      <link>https://lipdverse.org/temp12k/1_0_1/m39008_3.eynaud.2009/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lipdverse.org/temp12k/1_0_1/m39008_3.eynaud.2009/</guid>
+      <description>#M39008_3.Eynaud.2009
+Metadata Download LiPD file
+Edit LiPD file
+Download paleoData only (csv)
+Download chronData only (csv)
+Report an issue (include dataset name)
+root archiveType: MarineSediment originalDataUrl: 10.1594/PANGAEA.738148 lipdVersion: 1.3   pub pub1 author: list(list(name = &amp;quot;Eynaud, Fr̩d̩rique; de Abreu, L̼cia; Voelker, Antje; Sch̦nfeld, Joachim; Salgueiro, Emilia; Turon, Jean-Louis; Penaud, Aur̩lie; Toucanne, Samuel; Naughton, Filipa; S nchez Go̱i, Mar _a Fernanda; Malaiz̩, Bruno; Cacho, Isabel&amp;quot;)) citeKey: Z2466U3P journal: Geochemistry, Geophysics, Geosystems volume: 10 title: Position of the Polar Front along the western Iberian margin during key cold episodes of the last 45 ka  pub2   geo latitude: 36.</description>
+    </item>
+    
+  </channel>
+</rss>

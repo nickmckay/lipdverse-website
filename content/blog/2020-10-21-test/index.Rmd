@@ -1,0 +1,19 @@
+---
+title: test
+author: Nick McKay
+date: '2020-10-21'
+slug: []
+categories: [project]
+tags: [tutorial]
+---
+
+$\delta^{18}O$
+
+$x \le y$
+
+```{r}
+plot(5+5,7)
+```
+
+
+test

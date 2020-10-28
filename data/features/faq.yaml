@@ -1,0 +1,5 @@
+weight: 5
+name: "FAQ"
+icon: "far fa-question"
+url: "/faq"
+description: "Answers to frequently asked questions"

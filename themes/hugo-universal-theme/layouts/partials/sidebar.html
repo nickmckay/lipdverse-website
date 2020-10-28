@@ -1,0 +1,10 @@
+{{ partial "widgets/search.html" . }}
+
+{{ if .Params.toc }}
+    {{ .TableOfContents }}
+{{ end }}
+
+
+{{ partial "widgets/categories.html" . }}
+
+{{ partial "widgets/tags.html" . }}

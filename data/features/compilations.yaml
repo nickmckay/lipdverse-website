@@ -1,0 +1,5 @@
+weight: 1
+name: "Data compilations"
+icon: "fas fa-database"
+url: "/project"
+description: "Connect with paleoscience compilation datasets built on the Linked PaleoData framework"

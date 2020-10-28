@@ -1,0 +1,5 @@
+weight: 3
+name: "Centralized"
+icon: "fas fa-warehouse"
+url: ""
+description: "A centralized warehouse and repository for all LiPD datasets, to help simplify data access and reduce redundancy"

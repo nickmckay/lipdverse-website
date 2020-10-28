@@ -1,0 +1,5 @@
+weight: 4
+name: "Tutorials and news"
+icon: "fas fa-chalkboard-teacher"
+url: "/blog"
+description: "Tutorials, examples and blog posts showing how LiPD data are used in paleoscience research, and other news"

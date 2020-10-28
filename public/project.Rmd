@@ -1,0 +1,74 @@
+---
+title: "LiPDverse"
+output: 
+  flexdashboard::flex_dashboard:
+    vertical_layout: scroll
+    theme: bootstrap
+    source_code: embed
+    orientation: rows
+---
+
+#LiPDverse
+
+Data Compilations {.sidebar}
+-------------------------------------
+**Data Compilations**
+
+---
+
+**Temperature 12k**
+
+[LiPDverse](http://lipdverse.org/Temp12k/current_version/)
+
+[Publication](https://doi.org/10.1038/s41597-020-0445-3)
+
+[Long-term archival (NOAA WDS Paleo)](https://www.ncdc.noaa.gov/paleo-search/study/27330)
+
+---
+
+**PalMod**
+
+[LiPDverse](http://lipdverse.org/PalMod/current_version/)
+
+[Publication](https://www.earth-syst-sci-data-discuss.net/essd-2019-223/)
+
+[Long-term archival (Pangaea)](https://doi.pangaea.de/10.1594/PANGAEA.908831)
+
+---
+
+**iso2k**
+
+[LiPDverse](http://lipdverse.org/iso2k/current_version/)
+
+[Publication](https://www.earth-syst-sci-data-discuss.net/essd-2020-5/)
+
+---
+
+**PAGES 2k Temperature**
+
+[LiPDverse](http://lipdverse.org/Pages2kTemperature/current_version/)
+
+[Publication](https://www.nature.com/articles/sdata201788)
+
+[Long-term archival (NOAA WDS Paleo)](https://www.ncdc.noaa.gov/paleo-search/study/21171)
+
+---
+
+**Global Holocene**
+
+This is simply all of the Holocene-timescale datasets formatted into LiPD, including Temperature 12k and more. 
+
+[LiPDverse](http://lipdverse.org/globalHolocene/current_version/)
+
+Row {.tabset .tabset-fade}
+-----------------------------------------------------------------------
+Welcome to the LiPDverse. This website exists to: 
+
+1. Help connect you with paleoscience compilation datasets built on in the Linked PaleoData framework.
+2. Visualize, access and edit LiPD datasets easily and flexibly
+3. Be a centralized warehouse and repository for all LiPD datasets, to help simplify data access and reduce redundancy. *This third goal is still aspirational, and very much a work in progress*
+
+At present, the websites available here are simple, and not built on a modern web framework. We hope to continue to improve and build out this resource, and [your suggestions and requests are very welcome.](https://github.com/nickmckay/LiPDverse/issues) For now, we hope you find this useful. 
+
+
+

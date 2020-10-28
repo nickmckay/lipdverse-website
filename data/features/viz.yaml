@@ -1,0 +1,5 @@
+weight: 2
+name: "Visualization"
+icon: "fas fa-chart-area"
+url: ""
+description: "Visualize, access and edit LiPD datasets easily and flexibly"

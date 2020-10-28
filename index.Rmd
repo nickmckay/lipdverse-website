@@ -1,0 +1,11 @@
+---
+site: blogdown:::blogdown_site
+title: test
+---
+Welcome to the LiPDverse. This website exists to: 
+
+1. Help connect you with paleoscience compilation datasets built on in the Linked PaleoData framework.
+2. Visualize, access and edit LiPD datasets easily and flexibly
+3. Be a centralized warehouse and repository for all LiPD datasets, to help simplify data access and reduce redundancy. *This third goal is still aspirational, and very much a work in progress*
+
+At present, the websites available here are simple, and not built on a modern web framework. We hope to continue to improve and build out this resource, and [your suggestions and requests are very welcome.](https://github.com/nickmckay/LiPDverse/issues) For now, we hope you find this useful. 
