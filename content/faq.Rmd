@@ -11,43 +11,68 @@ output:
     toc: true
 ---
 
-## 1. What is LiPD?
+## 1. What is LiPD?{#what}
 
 Linked Paleo Data (LiPD) is a community data framework being designed to simplify the sharing, reuse and analysis of paleoclimate data. By combining a flexible, hierarchical data container with linked data concepts, LiPD lets paleoscientists spend less time wrangling data, and more time doing science.
 
 If you're interested in the technical details of LiPD, check out our description [here](https://cp.copernicus.org/articles/12/1093/2016/cp-12-1093-2016-discussion.html#discussion)
 
-## 2. Why LiPD?
+## 2. Why LiPD?{#why}
 
-LiPD provides a flexible data structure natively designed to hold any paleogeoscientific dataset, along with it's metadata. This includes both *observed* data (e.g. Mg/Ca) and *modelled or infelled* data (e.g. Temperature). It also includes both *paleo* data (e.g. $\delta^{18}O$) and *chron* data (e.g. $^{14}C$), and their models. This means that all the data and metadata you might need to analyze one or more paleorecords is nicely organized and structured, which makes it easy to design, share and reuse reproducible workflows. 
+LiPD provides a flexible data structure natively designed to hold any paleogeoscientific dataset, along with it's metadata. This includes both *observed* data (e.g. Mg/Ca) and *modelled or inferred* data (e.g. Temperature). It also includes both *paleo* data (e.g. $\delta^{18}O$) and *chron* data (e.g. $^{14}C$), and their models. This means that all the data and metadata you might need to analyze one or more paleorecords is nicely organized and structured, which makes it easy to design, share and reuse reproducible workflows. 
 
 Inevitably, putting data into a structured format will take longer that just throwing them into an Excel spreadsheet. 
 This is especially true when you're first familiarizing yourself with LiPD. 
 But the initial investment will payoff each time you use, plot, map or analyze that dataset. 
 Furthermore, the data you formatted are now ready for analysis using hte powerful tools available in [geoChronR](http://nickmckay.github.io/GeoChronR) and [pyleoclim](https://linkedearth.github.io/Pyleoclim_util/).
 
+## 3. Where can I find LiPD datasets?{#where}
 
+This is what lipdverse.org is all about! Check out the [projects](/project) and browse through the thousands of datasets that are already formatted and ready for analysis.
 
-## 3. How do I do I get my data into LiPD?
+## 4. Is LiPDverse a long-term data repository?{#long-term}
 
-Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
+**No**. LiPDverse should not be considered, as is not designed, to serve as a repository for long-term archival. Rather, LiPDverse is a "value-added" service that provides easy access to and visualization for LiPD-formatted data that should be additionally be stored at a community-recognized long-term archival center.  [NOAA's World Data Service for Paleoclimatology](https://www.ncdc.noaa.gov/data-access/paleoclimatology-data), [Pangaea](http://pangaea.de), and [Neotoma](neotomadb.org) are broadly recognized and well-suited for paleogeoscientific data.
 
-## 4. How do I contribute data to a compilation?
+Importantly, partial interoperability between LiPD and these repositories exists. You can convert a LiPD file into a WDS-Paleo format for submission and archival at [lipd.net/playground](http://lipd.net/playground). For data stored at Neotoma, you can use R to convert Neotoma datasets to LiPD files using the [neotoma2lipd converter](https://github.com/nickmckay/neotoma2lipd/), so if your data are well suited for Neotoma consider submitting your data there and then exporting to LiPD with this tool. We continue to work towards more interoperability with LiPD and long-term repositories. 
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
+## 5. How do I do I get my data into LiPD?{#format}
 
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
-* Vestibulum auctor dapibus neque.
+If you have a dataset that's not already formatted in LiPD, the easiest way to create a LiPD file is at http://lipd.net. There you'll find information about how to use the [LiPD playground](http://lipd.net/playground) to create or edit files. If you'd like to see an example of the playground in action, you can find a tutorial [on youtube](https://www.youtube.com/watch?v=rHZ1oZXmF84&feature=youtu.be&ab_channel=LiPDManager).
 
-## 5. How do I showcase my research that uses LiPD data on lipdverse.org?
+## 6. How do I contribute data to lipdverse and/or into a project?{#contribute}
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
+Once you've created a LiPD file, you may want to add it to a project compilation or to the LiPDverse more broadly.If so, great! A major goal of LiPDverse is to promote the reuse and dissemination of data and avoid wasting time on data wrangling and formatting. Note that the LiPDverse only hosts LiPD datasets that have an accompanying peer-reviewed publication that describes the data and how they should be interpreted. 
 
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
-* Vestibulum auctor dapibus neque.
+To add your data to the lipdverse, load the dataset into the [LiPD playground](http://lipd.net/playground), check for completion and validation, then select "upload to the LiPDverse". If you think the data are appropriate for a project compilation, check the details for the submission process in the [project pages](/project) - typically they'll lay out the criteria and ask you to use the playground upload process. Following submission your data will undergo a format validation check (e.g., file structure, publication metadata, compilation criteria), and then be added to the LiPDverse on the next update.
+
+## 7. How do I give appropriate credit to the original studies behind these data and project compilations?{#credit}
+
+Figuring out how to give credit to original studies, especially for very large syntheses that look at data from hundreds of studies, is and ongoing challenge in our community (and many others), and there is not yet an ideal or even preferred solution. Here are our recommendations, in order of preference:
+
+1. If possible, cite each paper connected to a dataset *that was analyzed* in your study. If this is too many citations for your journal, look into if the journal allows data citations.
+
+2. If (1) would result in more references than allowed by the journal, and if the bulk of the datasets are included in a [project compilation](/project), then cite the publications describing the compilations for those datasets, and cite those not included in a compilation individually. Because the majority of datasets on LiPDverse are included in at least one compilation, this solution should work for the vast majority of studies. 
+
+We recognize that both of these options present challenges, and are refining and testing tools that will use the publication metadata in the LiPD files to generate custom bibliographies. We also continue to explore non-traditional ways of tracking data use and crediting contributors. 
+
+## 8. How do I give credit to LiPDverse?{#credit-lipdverse}
+
+If your publication uses data from the LiPDverse for data analysis, please cite and acknowledge LiPD and the data source for reproducibility.
+
+The preferred citation for LiPD is:
+
+McKay, N.P., and J. Emile-Geay (2016), Technical note: The Linked Paleo Data framework – a common tongue for paleoclimatology, Climate of the Past, 12, 1093–1100
+
+Please include the following or similar text in the acknowledgments:
+
+“The LiPD datasets used in this study were obtained from the LiPDverse (http://www.lipdverse.org). The work of data contributors, data compilation project members, and data stewards is gratefully acknowledged.”
+
+## 9. How do I showcase my research that uses LiPD data on lipdverse.org?{#showcase}
+
+An important component of LiPDverse are tutorials and examples that highlight reproducible scientific workflows. If you have a published, or unpublished analysis that uses LiPDverse data, **we are very interested in highlighting that on lipdverse.org**. lipdverse.org works natively with RMarkdown, so that's the easiest way to prepare your research for posting on the website. If you work in python and can present your research as a Jupyter Notebook, that's another possibility. Either way if you're interested, [please get in touch with us](/contact).  
+
 
 ---
 
-> In case you haven't found the answer for your question please feel free to contact us, our customer support will be happy to help you.
+> In case you haven't found the answer for your question please [let us know](/contact)
