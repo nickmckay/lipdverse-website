@@ -4,7 +4,7 @@ title: PAGES 2k Temperature
 author: Pages 2k Consortium
 date: '2017-07-11'
 slug: []
-categories: [project]
+categories: [projects]
 tags: []
 ---
 {{< figure src="/project/Pages2k/datacoverage.png" title="PAGES 2k Data Coverage" width="100%" link="http://lipdverse.org/Pages2kTemperature/current_version/">}}

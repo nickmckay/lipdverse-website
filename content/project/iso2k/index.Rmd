@@ -1,0 +1,49 @@
+---
+banner: /img/banners/iso2k-logo.jpg
+title: Iso2k
+author: Konecky et al.
+date: '2020-09-23'
+slug: []
+categories: [projects]
+tags: []
+---
+
+## Introduction
+The Iso2k database compiled the stable oxygen ($\delta^{18}O$) and hydrogen ($\delta^{2}H$) isotopic compositions of environmental waters such as precipitation, seawater, lake water, and soil and groundwater, as recorded in a variety of natural archives, including glaciers, ground ice, cave formations, corals, sclerosponges, mollusk shells, tree wood, lake sediments, and marine sediments. This is a dynamic compilation, meaning that new datasets that meet the criteria for inclusion can be added and included in subsequent versions. See the [criteria](#criteria) and [data submission](#data-sub) sections below for details.
+
+![Iso2k data coverage](/img/iso2k-datacoverage.png){width=100% height=100%}
+
+## [Data](http://lipdverse.org/iso2k/current_version/)
+
+Data access and LiPDverse visualizations are [available here](http://lipdverse.org/iso2k/current_version/).
+
+## [Publication](https://essd.copernicus.org/articles/12/2261/2020/)
+ 
+ A data descriptor for the compilation was published in Earth System Science Data and is [available here](https://essd.copernicus.org/articles/12/2261/2020/). 
+
+
+## Criteria for inclusion {#criteria}
+
+The complete criteria for inclusion are described in the [manuscript](https://essd.copernicus.org/articles/12/2261/2020/), but in short: To be included in the Iso2k compilation, a dataset must meet several criteria:
+
+1. **Water isotope datasets** Only $\delta^{18}O$ or $\delta^{2}H$ that have a demonstrated relation with isotopic compositions of environmental waters. Few of the datasets are meaningfully compared with instrumental observations, so this demonstration of temperature sensitivity is typically based on accepted understanding of the proxy systems. 
+
+2. **Record resolution and duration** For annually or sub-annually banded archives (corals, shells, sclerosponges, tree wood, varved lake and marine sediments, and glacier ice), the minimum record duration for inclusion in the database is 30 years. For all other archives (speleothems, non-varved lake and marine sediments), records must have a minimum duration of 200 years and contain at least five data points during the CE.
+
+4. **Chronological accuracy** Records from annually banded archives must be either cross-dated or layer-counted; records from non-annually banded archives must have at least one age control point near both the oldest and youngest portions of the record, with one additional age control point somewhere near the middle required for records longer than 1000 years. 
+
+5. **Peer-review** To qualify for inclusion in the database, isotope records must be published in a peer-reviewed journal.
+
+## Adding data to this compilation {#data-sub}
+
+If you're interested in adding a dataset to Iso2k compilation, whether it's a new study you're involved with, or an older record that was previously overlooked or unavailable, follow these steps:
+
+1. Check that the data meet the criteria for inclusion in the study
+2. If the dataset is not already formatted as a LiPD file, please do so using the interactive web tool at [LiPD.net](http://lipd.net/playground), and download the resulting file
+3. Upload the data to the [lipd.net playground](http://lipd.net/playground), check that the file validates, then click the "submit to LiPDverse" button. In the form, note that you'd like the dataset to be included in the Iso2k compilation.
+
+For more information, take a look at the [frequently asked questions](/faq#format).
+ 
+## [Long-term archival](https://doi.org/10.25921/57j8-vs18)
+
+The Iso2k data are archived at the World Data Center for Paleoclimatology, and are [available here](https://doi.org/10.25921/57j8-vs18).

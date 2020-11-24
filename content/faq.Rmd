@@ -75,4 +75,4 @@ An important component of LiPDverse are tutorials and examples that highlight re
 
 ---
 
-> In case you haven't found the answer for your question please [let us know](/contact)
+> If you haven't found the answer for your question please [let us know](/contact)

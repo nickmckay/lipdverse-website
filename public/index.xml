@@ -6,16 +6,7 @@
     <description>Recent content on lipdverse</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 22 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://lipdverse.org/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Pages2k</title>
-      <link>https://lipdverse.org/project/pages2k/</link>
-      <pubDate>Thu, 22 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://lipdverse.org/project/pages2k/</guid>
-      <description>test</description>
-    </item>
-    
+    <lastBuildDate>Wed, 21 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://lipdverse.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>test</title>
       <link>https://lipdverse.org/blog/2020/10/21/2020-10-21-test/</link>
@@ -25,6 +16,38 @@
       <description>\(\delta^{18}O\)
 \(x \le y\)
 plot(5+5,7) test</description>
+    </item>
+    
+    <item>
+      <title>Iso2k</title>
+      <link>https://lipdverse.org/project/iso2k/</link>
+      <pubDate>Wed, 23 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://lipdverse.org/project/iso2k/</guid>
+      <description>Introduction The iso2k database was compiled to facilitate the study of multidecadal- to millennial-scale changes in climate over the past 12,000 years. This is a dynamic compilation, meaning that new datasets that meet the criteria for inclusion can be added and included in subsequent versions. See the criteria and data submission sections below for details.
+!(Iso2k data coverage)[img/iso2k-datacoverage.png]
+ Data Data access and LiPDverse visualizations are available here.
+ Publication A data descriptor for the compilation was published in Scientific Data and is available here.</description>
+    </item>
+    
+    <item>
+      <title>Temperature 12k</title>
+      <link>https://lipdverse.org/project/temp12k/</link>
+      <pubDate>Tue, 14 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://lipdverse.org/project/temp12k/</guid>
+      <description>Introduction The Temperature 12k database was compiled to facilitate the study of multidecadal- to millennial-scale changes in climate over the past 12,000 years. This is a dynamic compilation, meaning that new datasets that meet the criteria for inclusion can be added and included in subsequent versions. See the criteria and data submission sections below for details.
+ PAGES 2k Data Coverage   Data Data access and LiPDverse visualizations are available here.</description>
+    </item>
+    
+    <item>
+      <title>PAGES 2k Temperature</title>
+      <link>https://lipdverse.org/project/pages2k/pages2k/</link>
+      <pubDate>Tue, 11 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://lipdverse.org/project/pages2k/pages2k/</guid>
+      <description>PAGES 2k Data Coverage   Introduction One of the products of Phase Two of the Pages2k project was this curated data product of temperature reconstructions for the past 2000 years. This is a dynamic compilation, meaning that new datasets that meet the criteria for inclusion can be added and included in subsequent versions. See the criteria and data submission sections below for details.
+Data Data access and LiPDverse visualizations are available here.</description>
     </item>
     
     <item>
@@ -83,15 +106,6 @@ We&amp;rsquo;ll start with creating a new site with a very basic template.</desc
     </item>
     
     <item>
-      <title>Temp12k</title>
-      <link>https://lipdverse.org/project/temp12k/</link>
-      <pubDate>Wed, 24 Jun 2015 13:50:46 +0200</pubDate>
-      
-      <guid>https://lipdverse.org/project/temp12k/</guid>
-      <description>test tetst</description>
-    </item>
-    
-    <item>
       <title>Contact</title>
       <link>https://lipdverse.org/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -106,24 +120,7 @@ We&amp;rsquo;ll start with creating a new site with a very basic template.</desc
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://lipdverse.org/faq/</guid>
-      <description>1. What is LiPD? Linked Paleo Data (LiPD) is a community data framework being designed to simplify the sharing, reuse and analysis of paleoclimate data. By combining a flexible, hierarchical data container with linked data concepts, LiPD lets paleoscientists spend less time wrangling data, and more time doing science.
-If you’re interested in the technical details of LiPD, check out our description here
- 2. Why LiPD? LiPD provides a flexible data structure natively designed to hold any paleogeoscientific dataset, along with it’s metadata.</description>
-    </item>
-    
-    <item>
-      <title>M39008_3.Eynaud.2009</title>
-      <link>https://lipdverse.org/temp12k/1_0_1/m39008_3.eynaud.2009/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://lipdverse.org/temp12k/1_0_1/m39008_3.eynaud.2009/</guid>
-      <description>#M39008_3.Eynaud.2009
-Metadata Download LiPD file
-Edit LiPD file
-Download paleoData only (csv)
-Download chronData only (csv)
-Report an issue (include dataset name)
-root archiveType: MarineSediment originalDataUrl: 10.1594/PANGAEA.738148 lipdVersion: 1.3   pub pub1 author: list(list(name = &amp;quot;Eynaud, Fr̩d̩rique; de Abreu, L̼cia; Voelker, Antje; Sch̦nfeld, Joachim; Salgueiro, Emilia; Turon, Jean-Louis; Penaud, Aur̩lie; Toucanne, Samuel; Naughton, Filipa; S nchez Go̱i, Mar _a Fernanda; Malaiz̩, Bruno; Cacho, Isabel&amp;quot;)) citeKey: Z2466U3P journal: Geochemistry, Geophysics, Geosystems volume: 10 title: Position of the Polar Front along the western Iberian margin during key cold episodes of the last 45 ka  pub2   geo latitude: 36.</description>
+      <description>1. What is LiPD? 2. Why LiPD? 3. Where can I find LiPD datasets? 4. Is LiPDverse a long-term data repository? 5. How do I do I get my data into LiPD? 6. How do I contribute data to lipdverse and/or into a project? 7. How do I give appropriate credit to the original studies behind these data and project compilations? 8. How do I give credit to LiPDverse?</description>
     </item>
     
     <item>

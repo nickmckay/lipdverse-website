@@ -6,16 +6,7 @@
     <description>Recent content in project on lipdverse</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 22 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://lipdverse.org/categories/project/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Pages2k</title>
-      <link>https://lipdverse.org/project/pages2k/</link>
-      <pubDate>Thu, 22 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://lipdverse.org/project/pages2k/</guid>
-      <description>test</description>
-    </item>
-    
+    <lastBuildDate>Wed, 21 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://lipdverse.org/categories/project/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>test</title>
       <link>https://lipdverse.org/blog/2020/10/21/2020-10-21-test/</link>
@@ -25,15 +16,6 @@
       <description>\(\delta^{18}O\)
 \(x \le y\)
 plot(5+5,7) test</description>
-    </item>
-    
-    <item>
-      <title>Temp12k</title>
-      <link>https://lipdverse.org/project/temp12k/</link>
-      <pubDate>Wed, 24 Jun 2015 13:50:46 +0200</pubDate>
-      
-      <guid>https://lipdverse.org/project/temp12k/</guid>
-      <description>test tetst</description>
     </item>
     
   </channel>

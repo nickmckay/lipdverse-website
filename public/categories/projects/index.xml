@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>projects on lipdverse</title>
+    <link>https://lipdverse.org/categories/projects/</link>
+    <description>Recent content in projects on lipdverse</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 23 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://lipdverse.org/categories/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Iso2k</title>
+      <link>https://lipdverse.org/project/iso2k/</link>
+      <pubDate>Wed, 23 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://lipdverse.org/project/iso2k/</guid>
+      <description>Introduction The iso2k database was compiled to facilitate the study of multidecadal- to millennial-scale changes in climate over the past 12,000 years. This is a dynamic compilation, meaning that new datasets that meet the criteria for inclusion can be added and included in subsequent versions. See the criteria and data submission sections below for details.
+!(Iso2k data coverage)[img/iso2k-datacoverage.png]
+ Data Data access and LiPDverse visualizations are available here.
+ Publication A data descriptor for the compilation was published in Scientific Data and is available here.</description>
+    </item>
+    
+    <item>
+      <title>Temperature 12k</title>
+      <link>https://lipdverse.org/project/temp12k/</link>
+      <pubDate>Tue, 14 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://lipdverse.org/project/temp12k/</guid>
+      <description>Introduction The Temperature 12k database was compiled to facilitate the study of multidecadal- to millennial-scale changes in climate over the past 12,000 years. This is a dynamic compilation, meaning that new datasets that meet the criteria for inclusion can be added and included in subsequent versions. See the criteria and data submission sections below for details.
+ PAGES 2k Data Coverage   Data Data access and LiPDverse visualizations are available here.</description>
+    </item>
+    
+    <item>
+      <title>PAGES 2k Temperature</title>
+      <link>https://lipdverse.org/project/pages2k/pages2k/</link>
+      <pubDate>Tue, 11 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://lipdverse.org/project/pages2k/pages2k/</guid>
+      <description>PAGES 2k Data Coverage   Introduction One of the products of Phase Two of the Pages2k project was this curated data product of temperature reconstructions for the past 2000 years. This is a dynamic compilation, meaning that new datasets that meet the criteria for inclusion can be added and included in subsequent versions. See the criteria and data submission sections below for details.
+Data Data access and LiPDverse visualizations are available here.</description>
+    </item>
+    
+  </channel>
+</rss>
