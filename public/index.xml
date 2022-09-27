@@ -6,7 +6,25 @@
     <description>Recent content on lipdverse</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 21 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://lipdverse.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 16 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://lipdverse.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Welcome the LiPDverse</title>
+      <link>https://lipdverse.org/blog/2021/07/16/2021-07-16-welcome-the-lipdverse/</link>
+      <pubDate>Fri, 16 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://lipdverse.org/blog/2021/07/16/2021-07-16-welcome-the-lipdverse/</guid>
+      <description>Welcome to the LiPDverse! LiPDverse has been around for awhile now, but we’ve redesigned the website, added a blog, and did a bit more, so if even if you’re a regular, this looks a bit new.</description>
+    </item>
+    
+    <item>
+      <title>Welcome the LiPDverse</title>
+      <link>https://lipdverse.org/post/2021-07-16-welcome-the-lipdverse/</link>
+      <pubDate>Fri, 16 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://lipdverse.org/post/2021-07-16-welcome-the-lipdverse/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>test</title>
       <link>https://lipdverse.org/blog/2020/10/21/2020-10-21-test/</link>
@@ -24,10 +42,7 @@ plot(5+5,7) test</description>
       <pubDate>Wed, 23 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>https://lipdverse.org/project/iso2k/</guid>
-      <description>Introduction The iso2k database was compiled to facilitate the study of multidecadal- to millennial-scale changes in climate over the past 12,000 years. This is a dynamic compilation, meaning that new datasets that meet the criteria for inclusion can be added and included in subsequent versions. See the criteria and data submission sections below for details.
-!(Iso2k data coverage)[img/iso2k-datacoverage.png]
- Data Data access and LiPDverse visualizations are available here.
- Publication A data descriptor for the compilation was published in Scientific Data and is available here.</description>
+      <description>Introduction The Iso2k database compiled the stable oxygen (\(\delta^{18}O\)) and hydrogen (\(\delta^{2}H\)) isotopic compositions of environmental waters such as precipitation, seawater, lake water, and soil and groundwater, as recorded in a variety of natural archives, including glaciers, ground ice, cave formations, corals, sclerosponges, mollusk shells, tree wood, lake sediments, and marine sediments. This is a dynamic compilation, meaning that new datasets that meet the criteria for inclusion can be added and included in subsequent versions.</description>
     </item>
     
     <item>

@@ -13,10 +13,7 @@
       <pubDate>Wed, 23 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>https://lipdverse.org/project/iso2k/</guid>
-      <description>Introduction The iso2k database was compiled to facilitate the study of multidecadal- to millennial-scale changes in climate over the past 12,000 years. This is a dynamic compilation, meaning that new datasets that meet the criteria for inclusion can be added and included in subsequent versions. See the criteria and data submission sections below for details.
-!(Iso2k data coverage)[img/iso2k-datacoverage.png]
- Data Data access and LiPDverse visualizations are available here.
- Publication A data descriptor for the compilation was published in Scientific Data and is available here.</description>
+      <description>Introduction The Iso2k database compiled the stable oxygen (\(\delta^{18}O\)) and hydrogen (\(\delta^{2}H\)) isotopic compositions of environmental waters such as precipitation, seawater, lake water, and soil and groundwater, as recorded in a variety of natural archives, including glaciers, ground ice, cave formations, corals, sclerosponges, mollusk shells, tree wood, lake sediments, and marine sediments. This is a dynamic compilation, meaning that new datasets that meet the criteria for inclusion can be added and included in subsequent versions.</description>
     </item>
     
     <item>

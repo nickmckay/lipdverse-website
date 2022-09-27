@@ -1,0 +1,10 @@
+---
+title: Welcome the LiPDverse
+author: Nick McKay
+date: '2021-07-16'
+slug: []
+categories: []
+tags: []
+---
+
+Welcome to the LiPDverse! LiPDverse has been around for awhile now, but we've redesigned the website, added a blog, and did a bit more, so if even if you're a regular, this looks a bit new.

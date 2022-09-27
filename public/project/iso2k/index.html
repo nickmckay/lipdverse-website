@@ -18,7 +18,7 @@
   
   <meta name="description" content="Site template made by devcows using hugo">
 
-  <meta name="generator" content="Hugo 0.76.5" />
+  <meta name="generator" content="Hugo 0.85.0" />
 
   
   <link href='//fonts.googleapis.com/css?family=Roboto:400,100,100italic,300,300italic,500,700,800' rel='stylesheet' type='text/css'>
@@ -214,40 +214,43 @@
 
 <div id="introduction" class="section level2">
 <h2>Introduction</h2>
-<p>The iso2k database was compiled to facilitate the study of multidecadal- to millennial-scale changes in climate over the past 12,000 years. This is a dynamic compilation, meaning that new datasets that meet the criteria for inclusion can be added and included in subsequent versions. See the <a href="#criteria">criteria</a> and <a href="#data-sub">data submission</a> sections below for details.</p>
-<p>!(Iso2k data coverage)[img/iso2k-datacoverage.png]</p>
+<p>The Iso2k database compiled the stable oxygen (<span class="math inline">\(\delta^{18}O\)</span>) and hydrogen (<span class="math inline">\(\delta^{2}H\)</span>) isotopic compositions of environmental waters such as precipitation, seawater, lake water, and soil and groundwater, as recorded in a variety of natural archives, including glaciers, ground ice, cave formations, corals, sclerosponges, mollusk shells, tree wood, lake sediments, and marine sediments. This is a dynamic compilation, meaning that new datasets that meet the criteria for inclusion can be added and included in subsequent versions. See the <a href="#criteria">criteria</a> and <a href="#data-sub">data submission</a> sections below for details.</p>
+<div class="figure">
+<img src="/img/iso2k-datacoverage.png" alt="Iso2k data coverage" style="width:100.0%;height:100.0%" />
+<p class="caption">Iso2k data coverage</p>
+</div>
 </div>
 <div id="data" class="section level2">
 <h2><a href="http://lipdverse.org/iso2k/current_version/">Data</a></h2>
 <p>Data access and LiPDverse visualizations are <a href="http://lipdverse.org/iso2k/current_version/">available here</a>.</p>
 </div>
 <div id="publication" class="section level2">
-<h2><a href="https://www.nature.com/articles/s41597-020-0445-3">Publication</a></h2>
-<p>A data descriptor for the compilation was published in Scientific Data and is <a href="https://www.nature.com/articles/s41597-020-0445-3">available here</a>.</p>
+<h2><a href="https://essd.copernicus.org/articles/12/2261/2020/">Publication</a></h2>
+<p>A data descriptor for the compilation was published in Earth System Science Data and is <a href="https://essd.copernicus.org/articles/12/2261/2020/">available here</a>.</p>
 </div>
 <div id="criteria" class="section level2">
 <h2>Criteria for inclusion</h2>
-<p>The complete criteria for inclusion are described in the <a href="https://www.nature.com/articles/sdata201788">Scientific Data Descriptor</a>, but in short: To be included in the iso2k compilation, a dataset must meet several criteria:</p>
+<p>The complete criteria for inclusion are described in the <a href="https://essd.copernicus.org/articles/12/2261/2020/">manuscript</a>, but in short: To be included in the Iso2k compilation, a dataset must meet several criteria:</p>
 <ol style="list-style-type: decimal">
-<li><p><strong>Water isotope datasets</strong> Only <span class="math inline">\(\delta^{18}O\)</span> that have a demonstrated relation with temperature were included. Because most of the paleotemperature time series are not sufficiently resolved temporally to meaningfully compare with instrumental-based observations, this demonstration of temperature sensitivity is typically based on accepted understanding of the proxy systems.</p></li>
+<li><p><strong>Water isotope datasets</strong> Only <span class="math inline">\(\delta^{18}O\)</span> or <span class="math inline">\(\delta^{2}H\)</span> that have a demonstrated relation with isotopic compositions of environmental waters. Few of the datasets are meaningfully compared with instrumental observations, so this demonstration of temperature sensitivity is typically based on accepted understanding of the proxy systems.</p></li>
 <li><p><strong>Record resolution and duration</strong> For annually or sub-annually banded archives (corals, shells, sclerosponges, tree wood, varved lake and marine sediments, and glacier ice), the minimum record duration for inclusion in the database is 30 years. For all other archives (speleothems, non-varved lake and marine sediments), records must have a minimum duration of 200 years and contain at least five data points during the CE.</p></li>
-<li><p><strong>Chronological accuracy</strong> We selected records that are supported by age control points with minimum spacing of 3000 years over the record duration or within the past 12,000 years. Records with gaps longer than 3000 years were accepted in data-poor regions, or for sequences that are supported by a relatively high frequency of ages (typically five or more over the Holocene).</p></li>
-<li><p><strong>Peer-review</strong> Only records described in manuscripts that have undergone peer-review are considered for selection. For new records, a dataset can be admitted upon acceptance of the paper – it is not necessary to wait for full publication.</p></li>
+<li><p><strong>Chronological accuracy</strong> Records from annually banded archives must be either cross-dated or layer-counted; records from non-annually banded archives must have at least one age control point near both the oldest and youngest portions of the record, with one additional age control point somewhere near the middle required for records longer than 1000 years.</p></li>
+<li><p><strong>Peer-review</strong> To qualify for inclusion in the database, isotope records must be published in a peer-reviewed journal.</p></li>
 </ol>
 </div>
 <div id="data-sub" class="section level2">
 <h2>Adding data to this compilation</h2>
-<p>If you’re interested in adding a dataset to iso2k compilation, whether it’s a new study you’re involved with, or an older record that was previously overlooked or unavailable, follow these steps:</p>
+<p>If you’re interested in adding a dataset to Iso2k compilation, whether it’s a new study you’re involved with, or an older record that was previously overlooked or unavailable, follow these steps:</p>
 <ol style="list-style-type: decimal">
 <li>Check that the data meet the criteria for inclusion in the study</li>
 <li>If the dataset is not already formatted as a LiPD file, please do so using the interactive web tool at <a href="http://lipd.net/playground">LiPD.net</a>, and download the resulting file</li>
-<li>Upload the data to the <a href="http://lipd.net/playground">lipd.net playground</a>, check that the file validates, then click the “submit to LiPDverse” button. In the form, note that you’d like the dataset to be included in the iso2k compilation.</li>
+<li>Upload the data to the <a href="http://lipd.net/playground">lipd.net playground</a>, check that the file validates, then click the “submit to LiPDverse” button. In the form, note that you’d like the dataset to be included in the Iso2k compilation.</li>
 </ol>
 <p>For more information, take a look at the <a href="/faq#format">frequently asked questions</a>.</p>
 </div>
 <div id="long-term-archival" class="section level2">
-<h2><a href="http://www.ncdc.noaa.gov/paleo/study/27330">Long-term archival</a></h2>
-<p>The Temeperature 12k data are archived at the World Data Center for Paleoclimatology, and are <a href="http://www.ncdc.noaa.gov/paleo/study/27330">available here</a>.</p>
+<h2><a href="https://doi.org/10.25921/57j8-vs18">Long-term archival</a></h2>
+<p>The Iso2k data are archived at the World Data Center for Paleoclimatology, and are <a href="https://doi.org/10.25921/57j8-vs18">available here</a>.</p>
 </div>
 
                         </div>
@@ -307,6 +310,19 @@ hljs.initHighlightingOnLoad();
                 
                 <div class="item same-height-row clearfix">
                     <div class="image same-height-always">
+                        <a href="https://lipdverse.org/blog/2021/07/16/2021-07-16-welcome-the-lipdverse/">
+                          
+                            <img src="/img/placeholder.png" class="img-responsive" alt="Welcome the LiPDverse">
+                          
+                        </a>
+                    </div>
+                    <div class="name same-height-always">
+                        <h5><a href="https://lipdverse.org/blog/2021/07/16/2021-07-16-welcome-the-lipdverse/">Welcome the LiPDverse</a></h5>
+                    </div>
+                </div>
+                
+                <div class="item same-height-row clearfix">
+                    <div class="image same-height-always">
                         <a href="https://lipdverse.org/blog/2020/10/21/2020-10-21-test/">
                           
                             <img src="/img/placeholder.png" class="img-responsive" alt="test">
@@ -354,19 +370,6 @@ hljs.initHighlightingOnLoad();
                     </div>
                     <div class="name same-height-always">
                         <h5><a href="https://lipdverse.org/blog/2015/08/03/hugo-is-for-lovers/">Hugo is for lovers</a></h5>
-                    </div>
-                </div>
-                
-                <div class="item same-height-row clearfix">
-                    <div class="image same-height-always">
-                        <a href="https://lipdverse.org/blog/2015/07/23/2015-07-23-r-rmarkdown/">
-                          
-                            <img src="/img/placeholder.png" class="img-responsive" alt="Hello R Markdown">
-                          
-                        </a>
-                    </div>
-                    <div class="name same-height-always">
-                        <h5><a href="https://lipdverse.org/blog/2015/07/23/2015-07-23-r-rmarkdown/">Hello R Markdown</a></h5>
                     </div>
                 </div>
                 
