@@ -1,9 +1,0 @@
----
-title: Temp12k
-author: Nick McKay
-date: '2020-10-22'
-slug: []
-categories: []
-tags: []
----
-assa

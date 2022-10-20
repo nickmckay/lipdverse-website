@@ -67,12 +67,26 @@ Despite how far we've come in the past decade, in many ways we're just starting 
 \
 \
 \
+![Dave Edge](/img/heiser200.jpg)
+
+### Dave Edge
+
+**Northern Arizona University**
+
+*School of Earth and Sustainability*
+
+[Email](mailto:david.edge@nau.edu)
+
+[Github](http://github.com/DaveEdge1)
+\
+\
+\
 ![Chris Heiser](/img/heiser200.jpg)
 
 ### Chris Heiser
 
-**Lead Technical Developer**
+**Lead Technical Developer (2015-2019)**
 
-[Email](mailto:heiser@usc.edu)
+[Email](mailto:heiser@nau.edu)
 
 [Github](http://github.com/chrismheiser)
