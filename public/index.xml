@@ -6,41 +6,26 @@
     <description>Recent content on lipdverse</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 20 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://lipdverse.org/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>PalMod</title>
-      <link>https://lipdverse.org/project/2022-10-20-palmod/</link>
-      <pubDate>Thu, 20 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://lipdverse.org/project/2022-10-20-palmod/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>test</title>
-      <link>https://lipdverse.org/post/2022-10-20-test/</link>
-      <pubDate>Thu, 20 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://lipdverse.org/post/2022-10-20-test/</guid>
-      <description>Where does this go?</description>
-    </item>
-    
+    <lastBuildDate>Fri, 21 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://lipdverse.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Welcome the LiPDverse</title>
-      <link>https://lipdverse.org/blog/2021/07/16/2021-07-16-welcome-the-lipdverse/</link>
-      <pubDate>Fri, 16 Jul 2021 00:00:00 +0000</pubDate>
+      <link>https://lipdverse.org/blog/2022/10/21/2022-10-20-welcome-the-lipdverse/</link>
+      <pubDate>Fri, 21 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://lipdverse.org/blog/2021/07/16/2021-07-16-welcome-the-lipdverse/</guid>
-      <description>Welcome to the LiPDverse! LiPDverse has been around for awhile now, but we’ve redesigned the website, added a blog, and did a bit more, so if even if you’re a regular, this looks a bit new.</description>
+      <guid>https://lipdverse.org/blog/2022/10/21/2022-10-20-welcome-the-lipdverse/</guid>
+      <description>Welcome to the LiPDverse! The LiPDverse has been around for awhile now, but we’ve redesigned the website, added a blog, and did a bit more, so if even if you’re a regular, this looks a bit new. So now that you’re here, what should you do?
+1. Explore LiPD datasets We created the LiPDverse exists to be a simple and convenient way of accessing and exploring LiPD-formatted datasets. The primary way of doing this is by exploring the compilation projects hosted here.</description>
     </item>
     
     <item>
-      <title>Welcome the LiPDverse</title>
-      <link>https://lipdverse.org/post/2021-07-16-welcome-the-lipdverse/</link>
-      <pubDate>Fri, 16 Jul 2021 00:00:00 +0000</pubDate>
+      <title>wNAm</title>
+      <link>https://lipdverse.org/project/wnam/</link>
+      <pubDate>Mon, 19 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://lipdverse.org/post/2021-07-16-welcome-the-lipdverse/</guid>
-      <description></description>
+      <guid>https://lipdverse.org/project/wnam/</guid>
+      <description>Introduction The wNAm database is a collection of Holocene temperature, hydroclimate, and circulation records from western North America. This is a dynamic compilation, meaning that new datasets that meet the criteria for inclusion can be added and included in subsequent versions. See the criteria and data submission sections below for details.
+ Data Data access and LiPDverse visualizations are available here.
+ Publication A data descriptor for the compilation was published in Earth System Science Data and is available here.</description>
     </item>
     
     <item>
@@ -50,6 +35,15 @@
       
       <guid>https://lipdverse.org/project/iso2k/</guid>
       <description>Introduction The Iso2k database compiled the stable oxygen (\(\delta^{18}O\)) and hydrogen (\(\delta^{2}H\)) isotopic compositions of environmental waters such as precipitation, seawater, lake water, and soil and groundwater, as recorded in a variety of natural archives, including glaciers, ground ice, cave formations, corals, sclerosponges, mollusk shells, tree wood, lake sediments, and marine sediments. This is a dynamic compilation, meaning that new datasets that meet the criteria for inclusion can be added and included in subsequent versions.</description>
+    </item>
+    
+    <item>
+      <title>PalMod</title>
+      <link>https://lipdverse.org/project/palmod/</link>
+      <pubDate>Mon, 11 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://lipdverse.org/project/palmod/</guid>
+      <description>Introduction The PalMod data compilation is a multi-parameter marine palaeoclimate data synthesis that contains time series spanning 0 to 130,000 years ago. The compilation includes only time series for which a robust chronology based on benthic foraminifera \(\delta^{18}O\) and radiocarbon dating is available. Version 1.0.0 of the data product contains 896 time series from 143 individual sites, each associated with rich metadata, age–depth model ensembles, and information to refine and update the chronologies.</description>
     </item>
     
     <item>
@@ -64,23 +58,12 @@
     
     <item>
       <title>PAGES 2k Temperature</title>
-      <link>https://lipdverse.org/project/pages2k/pages2k/</link>
+      <link>https://lipdverse.org/project/pages2k/</link>
       <pubDate>Tue, 11 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://lipdverse.org/project/pages2k/pages2k/</guid>
+      <guid>https://lipdverse.org/project/pages2k/</guid>
       <description>PAGES 2k Data Coverage   Introduction One of the products of Phase Two of the Pages2k project was this curated data product of temperature reconstructions for the past 2000 years. This is a dynamic compilation, meaning that new datasets that meet the criteria for inclusion can be added and included in subsequent versions. See the criteria and data submission sections below for details.
 Data Data access and LiPDverse visualizations are available here.</description>
-    </item>
-    
-    <item>
-      <title>Hello R Markdown</title>
-      <link>https://lipdverse.org/blog/2015/07/23/2015-07-23-r-rmarkdown/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      
-      <guid>https://lipdverse.org/blog/2015/07/23/2015-07-23-r-rmarkdown/</guid>
-      <description>R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
-You can embed an R code chunk like this:
-summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
     </item>
     
     <item>

@@ -2,65 +2,46 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://lipdverse.org/</loc>
-    <lastmod>2022-10-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lipdverse.org/project/2022-10-20-palmod/</loc>
-    <lastmod>2022-10-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lipdverse.org/post/</loc>
-    <lastmod>2022-10-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lipdverse.org/project/</loc>
-    <lastmod>2022-10-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lipdverse.org/post/2022-10-20-test/</loc>
-    <lastmod>2022-10-20T00:00:00+00:00</lastmod>
+    <loc>https://lipdverse.org/categories/blog/</loc>
+    <lastmod>2022-10-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lipdverse.org/blog/</loc>
-    <lastmod>2021-07-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lipdverse.org/blog/2021/07/16/2021-07-16-welcome-the-lipdverse/</loc>
-    <lastmod>2021-07-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lipdverse.org/post/2021-07-16-welcome-the-lipdverse/</loc>
-    <lastmod>2021-07-16T00:00:00+00:00</lastmod>
+    <lastmod>2022-10-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lipdverse.org/categories/</loc>
-    <lastmod>2020-09-23T00:00:00+00:00</lastmod>
+    <lastmod>2022-10-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lipdverse.org/</loc>
+    <lastmod>2022-10-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lipdverse.org/blog/2022/10/21/2022-10-20-welcome-the-lipdverse/</loc>
+    <lastmod>2022-10-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lipdverse.org/project/</loc>
+    <lastmod>2021-04-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lipdverse.org/categories/projects/</loc>
+    <lastmod>2021-04-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lipdverse.org/project/wnam/</loc>
+    <lastmod>2021-04-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lipdverse.org/project/iso2k/</loc>
     <lastmod>2020-09-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lipdverse.org/categories/projects/</loc>
-    <lastmod>2020-09-23T00:00:00+00:00</lastmod>
+    <loc>https://lipdverse.org/project/palmod/</loc>
+    <lastmod>2020-05-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lipdverse.org/project/temp12k/</loc>
     <lastmod>2020-04-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lipdverse.org/project/pages2k/pages2k/</loc>
+    <loc>https://lipdverse.org/project/pages2k/</loc>
     <lastmod>2017-07-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lipdverse.org/blog/2015/07/23/2015-07-23-r-rmarkdown/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-  </url><url>
-    <loc>https://lipdverse.org/tags/plot/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-  </url><url>
-    <loc>https://lipdverse.org/categories/r/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-  </url><url>
-    <loc>https://lipdverse.org/tags/r-markdown/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-  </url><url>
-    <loc>https://lipdverse.org/tags/regression/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-  </url><url>
-    <loc>https://lipdverse.org/tags/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url><url>
     <loc>https://lipdverse.org/contact/</loc>
   </url><url>
     <loc>https://lipdverse.org/faq/</loc>
+  </url><url>
+    <loc>https://lipdverse.org/tags/</loc>
   </url>
 </urlset>

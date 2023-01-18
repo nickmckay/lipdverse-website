@@ -6,25 +6,15 @@
     <description>Recent content in Blogs on lipdverse</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 16 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://lipdverse.org/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 21 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://lipdverse.org/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Welcome the LiPDverse</title>
-      <link>https://lipdverse.org/blog/2021/07/16/2021-07-16-welcome-the-lipdverse/</link>
-      <pubDate>Fri, 16 Jul 2021 00:00:00 +0000</pubDate>
+      <link>https://lipdverse.org/blog/2022/10/21/2022-10-20-welcome-the-lipdverse/</link>
+      <pubDate>Fri, 21 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://lipdverse.org/blog/2021/07/16/2021-07-16-welcome-the-lipdverse/</guid>
-      <description>Welcome to the LiPDverse! LiPDverse has been around for awhile now, but we’ve redesigned the website, added a blog, and did a bit more, so if even if you’re a regular, this looks a bit new.</description>
-    </item>
-    
-    <item>
-      <title>Hello R Markdown</title>
-      <link>https://lipdverse.org/blog/2015/07/23/2015-07-23-r-rmarkdown/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      
-      <guid>https://lipdverse.org/blog/2015/07/23/2015-07-23-r-rmarkdown/</guid>
-      <description>R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
-You can embed an R code chunk like this:
-summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
+      <guid>https://lipdverse.org/blog/2022/10/21/2022-10-20-welcome-the-lipdverse/</guid>
+      <description>Welcome to the LiPDverse! The LiPDverse has been around for awhile now, but we’ve redesigned the website, added a blog, and did a bit more, so if even if you’re a regular, this looks a bit new. So now that you’re here, what should you do?
+1. Explore LiPD datasets We created the LiPDverse exists to be a simple and convenient way of accessing and exploring LiPD-formatted datasets. The primary way of doing this is by exploring the compilation projects hosted here.</description>
     </item>
     
   </channel>

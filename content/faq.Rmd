@@ -24,7 +24,7 @@ LiPD provides a flexible data structure natively designed to hold any paleogeosc
 Inevitably, putting data into a structured format will take longer that just throwing them into an Excel spreadsheet. 
 This is especially true when you're first familiarizing yourself with LiPD. 
 But the initial investment will payoff each time you use, plot, map or analyze that dataset. 
-Furthermore, the data you formatted are now ready for analysis using hte powerful tools available in [geoChronR](http://nickmckay.github.io/GeoChronR) and [pyleoclim](https://linkedearth.github.io/Pyleoclim_util/).
+Furthermore, the data you formatted are now ready for analysis using the powerful tools available in [geoChronR](http://nickmckay.github.io/GeoChronR) and [pyleoclim](https://linkedearth.github.io/Pyleoclim_util/).
 
 ## 3. Where can I find LiPD datasets?{#where}
 
@@ -34,7 +34,7 @@ This is what lipdverse.org is all about! Check out the [projects](/project) and 
 
 **No**. LiPDverse should not be considered, as is not designed, to serve as a repository for long-term archival. Rather, LiPDverse is a "value-added" service that provides easy access to and visualization for LiPD-formatted data that should be additionally be stored at a community-recognized long-term archival center.  [NOAA's World Data Service for Paleoclimatology](https://www.ncdc.noaa.gov/data-access/paleoclimatology-data), [Pangaea](http://pangaea.de), and [Neotoma](neotomadb.org) are broadly recognized and well-suited for paleogeoscientific data.
 
-Importantly, partial interoperability between LiPD and these repositories exists. You can convert a LiPD file into a WDS-Paleo format for submission and archival at [lipd.net/playground](http://lipd.net/playground). For data stored at Neotoma, you can use R to convert Neotoma datasets to LiPD files using the [neotoma2lipd converter](https://github.com/nickmckay/neotoma2lipd/), so if your data are well suited for Neotoma consider submitting your data there and then exporting to LiPD with this tool. We continue to work towards more interoperability with LiPD and long-term repositories. 
+Importantly, partial interoperability between LiPD and these repositories exists. You can convert a LiPD file into a WDS-Paleo format for submission and archival at [lipd.net/playground](http://lipd.net/playground). For data stored at Neotoma, you can use R to convert Neotoma datasets to LiPD files using the [neotoma2lipd function in lipdR](https://nickmckay.github.io/lipdR/reference/neotoma2lipd.html), so if your data are well suited for Neotoma consider submitting your data there and then exporting to LiPD with this tool. We continue to work towards more interoperability with LiPD and long-term repositories. 
 
 ## 5. How do I do I get my data into LiPD?{#format}
 
@@ -42,7 +42,7 @@ If you have a dataset that's not already formatted in LiPD, the easiest way to c
 
 ## 6. How do I contribute data to lipdverse and/or into a project?{#contribute}
 
-Once you've created a LiPD file, you may want to add it to a project compilation or to the LiPDverse more broadly.If so, great! A major goal of LiPDverse is to promote the reuse and dissemination of data and avoid wasting time on data wrangling and formatting. Note that the LiPDverse only hosts LiPD datasets that have an accompanying peer-reviewed publication that describes the data and how they should be interpreted. 
+Once you've created a LiPD file, you may want to add it to a project compilation or to the LiPDverse more broadly. If so, great! A major goal of LiPDverse is to promote the reuse and dissemination of data and avoid wasting time on data wrangling and formatting. Note that the LiPDverse only hosts LiPD datasets that have an accompanying peer-reviewed publication that describes the data and how they should be interpreted. 
 
 To add your data to the lipdverse, load the dataset into the [LiPD playground](http://lipd.net/playground), check for completion and validation, then select "upload to the LiPDverse". If you think the data are appropriate for a project compilation, check the details for the submission process in the [project pages](/project) - typically they'll lay out the criteria and ask you to use the playground upload process. Following submission your data will undergo a format validation check (e.g., file structure, publication metadata, compilation criteria), and then be added to the LiPDverse on the next update.
 

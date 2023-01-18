@@ -1,5 +1,5 @@
 weight: 6
 name: "Community"
 icon: "fas fa-users"
-url: ""
-description: "Get involved in the LiPDverse by contributing data and code, requesting features, and highlighting your research"
+url: "https://discourse.linked.earth/"
+description: "Get involved in the LiPDverse and the LinkedEarth community! Community members contribute data and code, request features, and share examples of how they use LinkedEarth tools"

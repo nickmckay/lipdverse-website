@@ -1,0 +1,58 @@
+---
+banner: /img/banners/wNAm.png
+title: wNAm
+author: Routson et al.
+date: '2021-04-19'
+slug: []
+categories: [projects]
+tags: []
+---
+
+## Introduction
+
+The wNAm database is a collection of Holocene temperature, hydroclimate, and circulation records from western North America. This is a dynamic compilation, meaning that new datasets that meet the criteria for inclusion can be added and included in subsequent versions. See the [criteria](#criteria) and [data submission](#data-sub) sections below for details.
+
+
+![](/img/wNAm-data.png){width=100% height=100%}
+
+## [Data](http://lipdverse.org/wNAm/current_version/)
+
+Data access and LiPDverse visualizations are [available here](http://lipdverse.org/wNAm/current_version/).
+
+## [Publication](https://essd.copernicus.org/articles/13/1613/2021/)
+
+A data descriptor for the compilation was published in Earth System Science Data and is [available here](https://essd.copernicus.org/articles/13/1613/2021/).
+
+## How to cite this compilation:
+
+Routson, C. C., Kaufman, D. S., McKay, N. P., Erb, M. P., Arcusa, S. H., Brown, K. J., Kirby, M. E., Marsicek, J. P., Anderson, R. S., Jiménez-Moreno, G., Rodysill, J. R., Lachniet, M. S., Fritz, S. C., Bennett, J. R., Goman, M. F., Metcalfe, S. E., Galloway, J. M., Schoups, G., Wahl, D. B., Morris, J. L., Staines-Urías, F., Dawson, A., Shuman, B. N., Gavin, D. G., Munroe, J. S., and Cumming, B. F.: A multiproxy database of western North American Holocene paleoclimate records, Earth Syst. Sci. Data, 13, 1613--1632, <https://doi.org/10.5194/essd-13-1613-2021>, 2021.
+
+## Criteria for inclusion {#criteria}
+
+The complete criteria for inclusion are described in the [Earth System Science Data](https://essd.copernicus.org/articles/13/1613/2021/), but in short: To be included in the wNAm compilation, a dataset must meet several criteria:
+
+1.  **Climate sensitivity** Only those proxy records that have a demonstrated relation with a climate variable were included. Because most of the time series are not sufficiently resolved temporally to meaningfully compare with instrumental-based observations, this demonstration of climate sensitivity is typically based on accepted understanding of the proxy systems.
+
+2.  **Record duration** Records must span a minimum continuous duration of 4000 years anytime within the past 12,000 years.
+
+3.  **Record resolution** The median resolution of must finer than 400 years.
+
+*For some records, the cut-off values for duration and resolution can be relaxed to improve the coverage of the data network.*
+
+4.  **Chronological accuracy** We selected records that are supported by age control points with minimum spacing of 3000 years over the record duration or within the past 12,000 years. Records with gaps longer than 3000 years were accepted in data-poor regions, or for sequences that are supported by a relatively high frequency of ages (typically five or more over the Holocene).
+
+5.  **Peer-review** Only records described in manuscripts that have undergone peer-review are considered for selection. For new records, a dataset can be admitted upon acceptance of the paper -- it is not necessary to wait for full publication.
+
+## Adding data to this compilation {#data-sub}
+
+If you're interested in adding a dataset to wNAm database, whether it's a new study you're involved with, or an older record that was previously overlooked or unavailable, follow these steps:
+
+1.  Check that the data meet the criteria for inclusion in the study
+2.  If the dataset is not already formatted as a LiPD file, please do so using the interactive web tool at [LiPD.net](http://lipd.net/playground), and download the resulting file
+3.  Upload the data to the [lipd.net playground](http://lipd.net/playground), check that the file validates, then click the "submit to LiPDverse" button. In the form, note that you'd like the dataset to be included in the wNAm compilation.
+
+For more information, take a look at the [frequently asked questions](/faq#format).
+
+## [Long-term archival](http://www.ncdc.noaa.gov/paleo/study/30535)
+
+The wNAm data are archived at the World Data Center for Paleoclimatology, and are [available here](http://www.ncdc.noaa.gov/paleo/study/30535).
