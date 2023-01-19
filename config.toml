@@ -120,7 +120,7 @@ paginate = 10
         <br><a href="http://lipd.net">LiPD.net</a>
         <br><a href="http://linked.earth">Linked Earth</a>
         <br><a href="http://nickmckay.github.io/GeoChronR">geoChronR</a>
-        <br><a href="https://linkedearth.github.io/Pyleoclim_util/">pyleoclim</a>
+        <br><a href="https://pyleoclim-util.readthedocs.io/en/master/">pyleoclim</a>
       </p>
       """
 
