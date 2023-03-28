@@ -8,6 +8,15 @@
     <language>en-us</language>
     <lastBuildDate>Fri, 28 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://lipdverse.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Guidelines, tips and tricks for compilation data curation</title>
+      <link>https://lipdverse.org/curation_guidlines/</link>
+      <pubDate>Tue, 28 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://lipdverse.org/curation_guidlines/</guid>
+      <description> Introduction  </description>
+    </item>
+    
+    <item>
       <title>Loading LiPD data in Python</title>
       <link>https://lipdverse.org/blog/2022/10/28/2022-10-28-loading-lipd-data-in-python/</link>
       <pubDate>Fri, 28 Oct 2022 00:00:00 +0000</pubDate>
