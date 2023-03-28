@@ -1,0 +1,652 @@
+---
+title: interpretation_variable
+categories: [vocabulary]
+summary: The phenomenon that drove variability in this measured or inferred variable at the column level
+---
+
+
+# interpretation_variable
+
+The phenomenon that drove variability in this measured or inferred variable at the column level
+
+
+---
+
+
+
+### [C3C4Ratio](#C3C4Ratio){#C3C4Ratio}
+
+
+#### Definition
+TBD
+
+
+*source: TBD*
+
+
+#### Known synonyms
+composition C3-C4 plants
+
+
+#### NOAA PaST Thesaurus term
+<font size="4">This concept doesn't exist on PaST</font>
+
+
+---
+
+
+
+### [circulationIndex](#circulationIndex){#circulationIndex}
+
+
+#### Definition
+a circulation variable that describes or quantifies a climate pattern with identifiable characteristics, specific regional effects, and often oscillatory behavior (Credit: Wikipedia).
+
+
+*source: PaST*
+
+
+#### Known synonyms
+MODE, NAO index
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">circulation index</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=2270) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=2270)
+
+
+---
+
+
+
+### [circulationVariable](#circulationVariable){#circulationVariable}
+
+
+#### Definition
+an earth system variable that describes or quantifies motion and related properties in the atmosphere or ocean.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+changes in monsoon intensity., circulation, Circulation
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">circulation variable</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=4885) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=4885)
+
+
+---
+
+
+
+### [dissolvedOxygen](#dissolvedOxygen){#dissolvedOxygen}
+
+
+#### Definition
+the amount of gaseous oxygen dissolved in water.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+suboxia
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">dissolved oxygen</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=4766) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=4766)
+
+
+---
+
+
+
+### [dust](#dust){#dust}
+
+
+#### Definition
+a bulk geological material that consists of organic or inorganic particles of typically clay and silt size that are transportable by wind.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+DUST
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">dust</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=867) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=867)
+
+
+---
+
+
+
+### [ELA](#ELA){#ELA}
+
+
+#### Definition
+a cryospheric quantity that is the elevation at which the mass balance of an ice sheet or glacier is zero over the year, that is where ablation equals accumulation.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">equilibrium line altitude</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=2303) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=2303)
+
+
+---
+
+
+
+### [evaporation](#evaporation){#evaporation}
+
+
+#### Definition
+the hydroclimatic rate of water transfer to the atmosphere from soil, waterbodies, and canopy interception, excluding transpiration from plants.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+Evaporation
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">evaporation</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=4733) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=4733)
+
+
+---
+
+
+
+### [fire](#fire){#fire}
+
+
+#### Definition
+a data type that includes measurements made to deduce the past history of fire, whether from tree rings, sediment, or other natural archives.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+FIRE
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">fire history</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=115) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=115)
+
+
+---
+
+
+
+### [growingDegreeDays](#growingDegreeDays){#growingDegreeDays}
+
+
+#### Definition
+a temperature index that integrates warmth above a base temperature (usually 10 degrees Celsius) through time.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+GDD
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">growing degree days</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=1386) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=1386)
+
+
+---
+
+
+
+### [hydrologicBalance](#hydrologicBalance){#hydrologicBalance}
+
+
+#### Definition
+TBD
+
+
+*source: TBD*
+
+
+#### Known synonyms
+GW-E, Hydrology, I_E
+
+
+#### NOAA PaST Thesaurus term
+<font size="4">This concept doesn't exist on PaST</font>
+
+
+---
+
+
+
+### [lakeWaterIsotope](#lakeWaterIsotope){#lakeWaterIsotope}
+
+
+#### Definition
+TBD
+
+
+*source: TBD*
+
+
+#### Known synonyms
+lake water and precipitation d2H, lake water d18O, lake water d2H, Liso
+
+
+#### NOAA PaST Thesaurus term
+<font size="4">This concept doesn't exist on PaST</font>
+
+
+---
+
+
+
+### [meltwater](#meltwater){#meltwater}
+
+
+#### Definition
+the ice mass loss from a glacier, ice-cap, ice-sheet, or ice-shelf through phase transformation to liquid water.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+Meltwater
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">ice melt</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=4951) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=4951)
+
+
+---
+
+
+
+### [deleteMe](#deleteMe){#deleteMe}
+
+
+#### Definition
+TBD
+
+
+*source: TBD*
+
+
+#### Known synonyms
+anoxia, Carbonate_ion_concentration, export-productivity, GDGT, Liso/P-E, mixed, Mixed, organic matter source, plant community composition, precipitation d2H + evap, T+ELA
+
+
+#### NOAA PaST Thesaurus term
+<font size="4">This concept doesn't exist on PaST</font>
+
+
+---
+
+
+
+### [effectivePrecipitation](#effectivePrecipitation){#effectivePrecipitation}
+
+
+#### Definition
+the hydroclimate rate that is the difference in rate between precipitation and evaporation at the earth's surface.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+Effective Moisture, M, P_E, P-E, P=E
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">precipitation minus evaporation</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=2312) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=2312)
+
+
+---
+
+
+
+### [precipitation](#precipitation){#precipitation}
+
+
+#### Definition
+the hydroclimatic rate of rain, snow, sleet or hail that falls to the ground.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+P, P_amount, Pmax, Pmin
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">precipitation</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=560) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=560)
+
+
+---
+
+
+
+### [precipitationDeuteriumExcess](#precipitationDeuteriumExcess){#precipitationDeuteriumExcess}
+
+
+#### Definition
+TBD
+
+
+*source: TBD*
+
+
+#### Known synonyms
+precipitation d-excess
+
+
+#### NOAA PaST Thesaurus term
+<font size="4">This concept doesn't exist on PaST</font>
+
+
+---
+
+
+
+### [precipitationIsotope](#precipitationIsotope){#precipitationIsotope}
+
+
+#### Definition
+TBD
+
+
+*source: TBD*
+
+
+#### Known synonyms
+d18O of precipitation, dD, P_isotope, Piso, PISO, precipitation d18O, precipitation d2H, Precipitation Isotope, Source
+
+
+#### NOAA PaST Thesaurus term
+<font size="4">This concept doesn't exist on PaST</font>
+
+
+---
+
+
+
+### [productivity](#productivity){#productivity}
+
+
+#### Definition
+an ecosystem process variable that quantifies the rate of generation of biomass in an ecosystem.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+Algal productivity
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">productivity</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3293) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3293)
+
+
+---
+
+
+
+### [relativeHumidity](#relativeHumidity){#relativeHumidity}
+
+
+#### Definition
+the hydroclimate ratio of water vapor present in air to the amount of water needed to achieve saturation at the local temperature.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+RH, relative humidity
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">relative humidity</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=2314) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=2314)
+
+
+---
+
+
+
+### [salinity](#salinity){#salinity}
+
+
+#### Definition
+a solution property that is the amount of salt dissolved in a body of water.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+S, SSS
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">salinity</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=4396) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=4396)
+
+
+---
+
+
+
+### [seaIce](#seaIce){#seaIce}
+
+
+#### Definition
+a cryospheric quantity that is a measure of the extent to which the ocean surface is covered by sea ice.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+ICE
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">sea ice cover</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=2317) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=2317)
+
+
+---
+
+
+
+### [seasonality](#seasonality){#seasonality}
+
+
+#### Definition
+the specific part of the annual cycle explicitly reconstructed from raw values.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">seasonality</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=5) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=5)
+
+
+---
+
+
+
+### [seawaterIsotope](#seawaterIsotope){#seawaterIsotope}
+
+
+#### Definition
+TBD
+
+
+*source: TBD*
+
+
+#### Known synonyms
+seawater_isotope
+
+
+#### NOAA PaST Thesaurus term
+<font size="4">This concept doesn't exist on PaST</font>
+
+
+---
+
+
+
+### [streamflow](#streamflow){#streamflow}
+
+
+#### Definition
+the hydroclimatic rate of flow of water in streams, rivers, and other channels.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+Q
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">streamflow</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=1396) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=1396)
+
+
+---
+
+
+
+### [sunlight](#sunlight){#sunlight}
+
+
+#### Definition
+a forcing variable that is the radiation from the sun integrated over the whole electromagnetic spectrum and over the entire solar disk. The quantity applies outside the atmosphere, by default at a distance of one astronomical unit from the sun.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+SUN
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">solar irradiance</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=4376) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=4376)
+
+
+---
+
+
+
+### [surfacePressure](#surfacePressure){#surfacePressure}
+
+
+#### Definition
+a pressure variable that is the atmospheric pressure at the earth's surface at a given location and time.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+surface pressure
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">surface pressure</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=4720) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=4720)
+
+
+---
+
+
+
+### [temperature](#temperature){#temperature}
+
+
+#### Definition
+the mean temperature over a particular time period.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+lake water temperature, SST, subT, Surface water temp, T, T_air, T_water, Temperature_water
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">temperature</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=4067) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=4067)
+
+
+---
+
+
+
+### [upwelling](#upwelling){#upwelling}
+
+
+#### Definition
+a circulation index that is a measure of the volume of water upwelling in the ocean.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">Upwelling Index</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=4771) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=4771)
+
+
+---
+
+
+
+### [windSpeed](#windSpeed){#windSpeed}
+
+
+#### Definition
+a velocity variable that is the velocity of wind at some height in the atmosphere.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+W, Wind
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">wind speed</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3413) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3413)
+
+
+---
+

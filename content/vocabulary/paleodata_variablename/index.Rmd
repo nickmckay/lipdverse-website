@@ -1,0 +1,6746 @@
+---
+title: paleoData_variableName
+categories: [vocabulary]
+summary: The name of a measured or inferred variable at the column level.
+---
+
+
+# paleoData_variableName
+
+The name of a measured or inferred variable at the column level.
+
+
+---
+
+
+
+### [accumulation](#accumulation){#accumulation}
+
+
+#### Definition
+a formation rate that is the rate of accumulation of a bulk archive material (e.g., sediment, ice, etc).
+
+
+*source: PaST*
+
+
+#### Known synonyms
+Accumulation rate ice (kg/m2/yr), acc, Accumulation, Ice Accumulation
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">accumulation rate</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=618) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=618)
+
+
+---
+
+
+
+### [ACL](#ACL){#ACL}
+
+
+#### Definition
+a chain length index that is the average number of carbon atoms within organic compound chains in a sample.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+AverageChainLength20to30, AverageChainLength20to32, ACL (27-33), ACL25-35, ACL27-31, ACLC22-30, Average Chain Length
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">average chain length</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=4170) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=4170)
+
+
+---
+
+
+
+### [AET/PET](#AET_PET){#AET_PET}
+
+
+#### Definition
+TBD
+
+
+*source: TBD*
+
+
+#### Known synonyms
+
+
+
+#### NOAA PaST Thesaurus term
+<font size="4">This concept doesn't exist on PaST, yet</font>
+
+
+---
+
+
+
+### [Al/Si](#Al_Si){#Al_Si}
+
+
+#### Definition
+TBD
+
+
+*source: TBD*
+
+
+#### Known synonyms
+ln(Al/Si)
+
+
+#### NOAA PaST Thesaurus term
+<font size="4">This concept doesn't exist on PaST, yet</font>
+
+
+---
+
+
+
+### [age](#age){#age}
+
+
+#### Definition
+the age, either directly measured or inferred, of the midpoint of a sample.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+ageMedian, ageOriginal, ageMedianBacon, agelinInterp, ageBchron, agecopRa, ageDuplicate, ageStalAge, ageBacon, agelinReg, ageOxCal, Age, medianAge, ageEnsemble, ageMarine09, Median cal age, SHCal04Age, age_alt, age_Calibrated, Age_original, ageOther, ageRounded, IntCal09Age, Marine09, varveCountedAgeAD0x2FBC, varveCountedAgeKa
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">age</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=241) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=241)
+
+
+---
+
+
+
+### [age14C](#age14C){#age14C}
+
+
+#### Definition
+an duration unit of years, derived from radiocarbon dating without calibration to actual years.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+c14age, C14age, radiocarbonDatesAD0x2FBC
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">radiocarbon year</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3914) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3914)
+
+
+---
+
+
+
+### [Al](#Al){#Al}
+
+
+#### Definition
+a chemical element with atomic number 13.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+AlProp, Al peak area
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">aluminum</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=774) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=774)
+
+
+---
+
+
+
+### [Al2O3](#Al2O3){#Al2O3}
+
+
+#### Definition
+an inorganic compound that has the chemical formula Al2O3.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+AL2O3
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">aluminum oxide</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=305) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=305)
+
+
+---
+
+
+
+### [ammonium](#ammonium){#ammonium}
+
+
+#### Definition
+an inorganic compound that has the chemical formula NH4(+).
+
+
+*source: PaST*
+
+
+#### Known synonyms
+NH4_
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">ammonium</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=826) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=826)
+
+
+---
+
+
+
+### [amps](#amps){#amps}
+
+
+#### Definition
+an electric current unit which is equal to the constant current which, if maintained in two straight parallel conductors of infinite length, of negligible circular cross-section, and placed 1 m apart in vacuum, would produce between these conductors a force equal to 2 x 10^[-7] newton per meter of length (Credit: Units of measurement ontology).
+
+
+*source: PaST*
+
+
+#### Known synonyms
+Amps
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">ampere</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=1254) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=1254)
+
+
+---
+
+
+
+### [aragonite](#aragonite){#aragonite}
+
+
+#### Definition
+a calcium carbonate with orthorhombic crystal structure.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+Aragonite
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">aragonite</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=1519) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=1519)
+
+
+---
+
+
+
+### [ARM/IRM](#ARM_IRM){#ARM_IRM}
+
+
+#### Definition
+a magnetic ratio of the anhysteretic remanent magnetization to the isothermal remanent magnetization, which can yield a qualitative measure of magnetic grain size (higher values indicating finer grain sizes).
+
+
+*source: PaST*
+
+
+#### Known synonyms
+arm_irm
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">anhysteretic remanent magnetization/isothermal remanent magnetization</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=1790) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=1790)
+
+
+---
+
+
+
+### [ARSTAN](#ARSTAN){#ARSTAN}
+
+
+#### Definition
+a tree ring chronology method that uses Program ARSTAN, developed by Dr. Edward R. Cook at the Tree-Ring Laboratory, Lamont-Doherty Earth Observatory of Columbia University, Palisades, New York (Cook 1985), in its standard configuration but with autoregressive modeling to remove autocorrelation and further reincorporation of the pooled autoregression (persistence) into the resultant chronology.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+ARS
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">ARSTAN chronology method</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=1591) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=1591)
+
+
+---
+
+
+
+### [As](#As){#As}
+
+
+#### Definition
+a chemical element with atomic number 33.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+ppm As
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">arsenic</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=829) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=829)
+
+
+---
+
+
+
+### [ash](#ash){#ash}
+
+
+#### Definition
+TBD
+
+
+*source: TBD*
+
+
+#### Known synonyms
+
+
+
+#### NOAA PaST Thesaurus term
+<font size="4">This concept doesn't exist on PaST, yet</font>
+
+
+---
+
+
+
+### [Ba](#Ba){#Ba}
+
+
+#### Definition
+a chemical element with atomic number 56.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+Ba (ppm), ppm Ba, Ba peak area
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">barium</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=831) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=831)
+
+
+---
+
+
+
+### [Ba/Al](#Ba_Al){#Ba_Al}
+
+
+#### Definition
+the elemental ratio of barium to aluminum.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+ppmBa/%Al
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">barium/aluminum</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=2410) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=2410)
+
+
+---
+
+
+
+### [Ba/Ca](#Ba_Ca){#Ba_Ca}
+
+
+#### Definition
+the elemental ratio of barium to calcium.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+Ba_Ca, BaCa
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">barium/calcium</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=317) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=317)
+
+
+---
+
+
+
+### [Be](#Be){#Be}
+
+
+#### Definition
+a chemical element with atomic number 4.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+ppm Be
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">beryllium</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=833) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=833)
+
+
+---
+
+
+
+### [Ba/Sr](#Ba_Sr){#Ba_Sr}
+
+
+#### Definition
+TBD
+
+
+*source: TBD*
+
+
+#### Known synonyms
+
+
+
+#### NOAA PaST Thesaurus term
+<font size="4">This concept doesn't exist on PaST, yet</font>
+
+
+---
+
+
+
+### [10Be](#10Be){#10Be}
+
+
+#### Definition
+the concentration of a radioactive isotope of beryllium that has 6 neutrons and 4 protons and that is used to reconstruct solar activity and to date ice cores.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">10Be</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=835) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=835)
+
+
+---
+
+
+
+### [BIT](#BIT){#BIT}
+
+
+#### Definition
+an organic compound index that is the abundance of branched tetraethers relative to isoprenoid tetraethers, indicative of the relative amounts of soil organic matter and aquatic organic matter.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+BITindex, BITindex-3pt
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">branched and isoprenoid tetraether index</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=1676) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=1676)
+
+
+---
+
+
+
+### [boron](#boron){#boron}
+
+
+#### Definition
+a chemical element with atomic number 5.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+B
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">boron</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=1188) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=1188)
+
+
+---
+
+
+
+### [Br](#Br){#Br}
+
+
+#### Definition
+a chemical element with atomic number 35.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">bromine</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=1634) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=1634)
+
+
+---
+
+
+
+### [brGDGT-Ia](#brGDGT-Ia){#brGDGT-Ia}
+
+
+#### Definition
+a glycerol dialkyl glycerol tetraether that has branched alkyl chains and that is of bacterial origin.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+brGDGTIa, Ia
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">branched glycerol dialkyl glycerol tetraether</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=1675) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=1675)
+
+
+---
+
+
+
+### [brGDGT-Ib](#brGDGT-Ib){#brGDGT-Ib}
+
+
+#### Definition
+a glycerol dialkyl glycerol tetraether that has branched alkyl chains and that is of bacterial origin.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+brGDGTIb, Ib, br1020, Br1020
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">branched glycerol dialkyl glycerol tetraether</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=1675) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=1675)
+
+
+---
+
+
+
+### [brGDGT-Ic](#brGDGT-Ic){#brGDGT-Ic}
+
+
+#### Definition
+a glycerol dialkyl glycerol tetraether that has branched alkyl chains and that is of bacterial origin.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+Ic
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">branched glycerol dialkyl glycerol tetraether</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=1675) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=1675)
+
+
+---
+
+
+
+### [brGDGT-Id](#brGDGT-Id){#brGDGT-Id}
+
+
+#### Definition
+a glycerol dialkyl glycerol tetraether that has branched alkyl chains and that is of bacterial origin.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+Id
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">branched glycerol dialkyl glycerol tetraether</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=1675) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=1675)
+
+
+---
+
+
+
+### [brGDGT-IIa5me](#brGDGT-IIa5me){#brGDGT-IIa5me}
+
+
+#### Definition
+a glycerol dialkyl glycerol tetraether that has branched alkyl chains and that is of bacterial origin.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+brGDGT-IIa, brGDGTIia, IIa, br1036, Br1036
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">branched glycerol dialkyl glycerol tetraether</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=1675) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=1675)
+
+
+---
+
+
+
+### [brGDGT-IIa6me](#brGDGT-IIa6me){#brGDGT-IIa6me}
+
+
+#### Definition
+a glycerol dialkyl glycerol tetraether that has branched alkyl chains and that is of bacterial origin.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+brGDGT-IIa', IIa'
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">branched glycerol dialkyl glycerol tetraether</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=1675) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=1675)
+
+
+---
+
+
+
+### [brGDGT-IIb5me](#brGDGT-IIb5me){#brGDGT-IIb5me}
+
+
+#### Definition
+a glycerol dialkyl glycerol tetraether that has branched alkyl chains and that is of bacterial origin.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+brGDGT-IIb, brGDGTIib, IIb
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">branched glycerol dialkyl glycerol tetraether</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=1675) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=1675)
+
+
+---
+
+
+
+### [brGDGT-IIb6me](#brGDGT-IIb6me){#brGDGT-IIb6me}
+
+
+#### Definition
+a glycerol dialkyl glycerol tetraether that has branched alkyl chains and that is of bacterial origin.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+brGDGT-IIb', IIb'
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">branched glycerol dialkyl glycerol tetraether</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=1675) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=1675)
+
+
+---
+
+
+
+### [brGDGT-IIc5me](#brGDGT-IIc5me){#brGDGT-IIc5me}
+
+
+#### Definition
+a glycerol dialkyl glycerol tetraether that has branched alkyl chains and that is of bacterial origin.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+brGDGT-IIc, IIc
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">branched glycerol dialkyl glycerol tetraether</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=1675) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=1675)
+
+
+---
+
+
+
+### [brGDGT-IIc6me](#brGDGT-IIc6me){#brGDGT-IIc6me}
+
+
+#### Definition
+a glycerol dialkyl glycerol tetraether that has branched alkyl chains and that is of bacterial origin.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+brGDGT-IIc', IIc'
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">branched glycerol dialkyl glycerol tetraether</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=1675) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=1675)
+
+
+---
+
+
+
+### [brGDGT-IIIa5me](#brGDGT-IIIa5me){#brGDGT-IIIa5me}
+
+
+#### Definition
+a glycerol dialkyl glycerol tetraether that has branched alkyl chains and that is of bacterial origin.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+brGDGT-IIIa, brGDGTIIIa, IIIa, br1050, Br1050
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">branched glycerol dialkyl glycerol tetraether</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=1675) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=1675)
+
+
+---
+
+
+
+### [brGDGT-IIIa6me](#brGDGT-IIIa6me){#brGDGT-IIIa6me}
+
+
+#### Definition
+a glycerol dialkyl glycerol tetraether that has branched alkyl chains and that is of bacterial origin.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+brGDGT-IIIa', IIIa'
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">branched glycerol dialkyl glycerol tetraether</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=1675) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=1675)
+
+
+---
+
+
+
+### [brGDGT-IIIb5me](#brGDGT-IIIb5me){#brGDGT-IIIb5me}
+
+
+#### Definition
+a glycerol dialkyl glycerol tetraether that has branched alkyl chains and that is of bacterial origin.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+brGDGT-IIIb, brGDGTIIIb, IIIb, br1048, Br1048
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">branched glycerol dialkyl glycerol tetraether</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=1675) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=1675)
+
+
+---
+
+
+
+### [bubbleNumberDensity](#bubbleNumberDensity){#bubbleNumberDensity}
+
+
+#### Definition
+TBD
+
+
+*source: TBD*
+
+
+#### Known synonyms
+
+
+
+#### NOAA PaST Thesaurus term
+<font size="4">This concept doesn't exist on PaST, yet</font>
+
+
+---
+
+
+
+### [brGDGT-IIIb6me](#brGDGT-IIIb6me){#brGDGT-IIIb6me}
+
+
+#### Definition
+a glycerol dialkyl glycerol tetraether that has branched alkyl chains and that is of bacterial origin.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+brGDGT-IIIb', IIIb'
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">branched glycerol dialkyl glycerol tetraether</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=1675) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=1675)
+
+
+---
+
+
+
+### [brGDGT-IIIc5me](#brGDGT-IIIc5me){#brGDGT-IIIc5me}
+
+
+#### Definition
+a glycerol dialkyl glycerol tetraether that has branched alkyl chains and that is of bacterial origin.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+brGDGT-IIIc, IIIc
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">branched glycerol dialkyl glycerol tetraether</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=1675) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=1675)
+
+
+---
+
+
+
+### [brGDGT-IIIc6me](#brGDGT-IIIc6me){#brGDGT-IIIc6me}
+
+
+#### Definition
+a glycerol dialkyl glycerol tetraether that has branched alkyl chains and that is of bacterial origin.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+brGDGT-IIIc', IIIc'
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">branched glycerol dialkyl glycerol tetraether</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=1675) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=1675)
+
+
+---
+
+
+
+### [BSi](#BSi){#BSi}
+
+
+#### Definition
+a hydrated, amorphous form of silicon dioxide with the formula SiO2•nH20 that is biogenically precipitated by a variety of organisms including chrysophytes, diatoms, radiolarians, silicoflagellates, and sponges (Credit: Last et al. 2001 Tracking Environmental Change Using Lake Sediments).
+
+
+*source: PaST*
+
+
+#### Known synonyms
+Bsi_3pt, Bsi_Raw, Inferred BSi, BioSi
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">biogenic silica</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=4018) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=4018)
+
+
+---
+
+
+
+### [bulkDensity](#bulkDensity){#bulkDensity}
+
+
+#### Definition
+The density of bulk sediment measured in mass divided by volume
+
+
+*source: LinkedEarth*
+
+
+#### Known synonyms
+bulk density
+
+
+#### NOAA PaST Thesaurus term
+<font size="4">This concept doesn't exist on PaST, yet</font>
+
+
+---
+
+
+
+### [C25_2n-alkanoicAcid](#C25_2n-alkanoicAcid){#C25_2n-alkanoicAcid}
+
+
+#### Definition
+TBD
+
+
+*source: TBD*
+
+
+#### Known synonyms
+C25:2 concentration
+
+
+#### NOAA PaST Thesaurus term
+<font size="4">This concept doesn't exist on PaST, yet</font>
+
+
+---
+
+
+
+### [C/N](#C_N){#C_N}
+
+
+#### Definition
+the elemental ratio of carbon to nitrogen.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+molarCN, C_N, C/N organic
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">carbon/nitrogen</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=750) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=750)
+
+
+---
+
+
+
+### [C20n-alkanoicAcid](#C20n-alkanoicAcid){#C20n-alkanoicAcid}
+
+
+#### Definition
+a n-alkanoic acid with the formula C19H39COOH.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+C20 n, C20FAMEconcentration, C20 concentration, C20 FAME Concentration, C20concentration, C20n, C20SEM, C20 SEM, C20n-alkenoicAcid
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">C20 n-alkanoic acid</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3961) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3961)
+
+
+---
+
+
+
+### [C21n-alkanoicAcid](#C21n-alkanoicAcid){#C21n-alkanoicAcid}
+
+
+#### Definition
+a n-alkanoic acid with the formula C20H41COOH.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+C21FAMEconcentration, C21 concentration, C21 FAME Concentration
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">C21 n-alkanoic acid</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3962) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3962)
+
+
+---
+
+
+
+### [C22n-alkanoicAcid](#C22n-alkanoicAcid){#C22n-alkanoicAcid}
+
+
+#### Definition
+a n-alkanoic acid with the formula C21H43COOH.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+C22 n, C22FAMEconcentration, C22 FAME Concentration, C22concentration, C22n, C22SEM, C22 SEM
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">C22 n-alkanoic acid</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=2277) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=2277)
+
+
+---
+
+
+
+### [C23n-alkanoicAcid](#C23n-alkanoicAcid){#C23n-alkanoicAcid}
+
+
+#### Definition
+a n-alkanoic acid with the formula C22H45COOH.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+C23FAMEconcentration, C23 concentration, C23 FAME Concentration, C23 n, C23C31
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">C23 n-alkanoic acid</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3963) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3963)
+
+
+---
+
+
+
+### [C24n-alkanoicAcid](#C24n-alkanoicAcid){#C24n-alkanoicAcid}
+
+
+#### Definition
+a n-alkanoic acid with the formula C23H47COOH.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+nC24, C24 n, C24FAMEconcentration, C24 FAME Concentration, C24concentration, C24n, C24SEM, C24 concentration, C24 SEM, n C24
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">C24 n-alkanoic acid</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=2278) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=2278)
+
+
+---
+
+
+
+### [Cd/Mn](#Cd_Mn){#Cd_Mn}
+
+
+#### Definition
+TBD
+
+
+*source: TBD*
+
+
+#### Known synonyms
+ppm Cd/% Mn
+
+
+#### NOAA PaST Thesaurus term
+<font size="4">This concept doesn't exist on PaST, yet</font>
+
+
+---
+
+
+
+### [C25n-alkanoicAcid](#C25n-alkanoicAcid){#C25n-alkanoicAcid}
+
+
+#### Definition
+a n-alkanoic acid with the formula C24H49COOH.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+C25FAMEconcentration, C25 concentration, C25 FAME Concentration, C25 n
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">C25 n-alkanoic acid</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3964) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3964)
+
+
+---
+
+
+
+### [C26n-alkanoicAcid](#C26n-alkanoicAcid){#C26n-alkanoicAcid}
+
+
+#### Definition
+a n-alkanoic acid with the formula C25H51COOH.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+nC26, C26 n, C26FAMEconcentration, C26 FAME Concentration, C26concentration, C26n, C26OH0x2F0x28C26OH0x2BC290x29, C26SEM, C26 concentration, C26 SEM, n C26
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">C26 n-alkanoic acid</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=2279) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=2279)
+
+
+---
+
+
+
+### [C27n-alkanoicAcid](#C27n-alkanoicAcid){#C27n-alkanoicAcid}
+
+
+#### Definition
+a n-alkanoic acid with the formula C26H53COOH.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+C27FAMEconcentration, C27 concentration, C27 FAME Concentration, C27 n
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">C27 n-alkanoic acid</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3968) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3968)
+
+
+---
+
+
+
+### [C28n-alkanoicAcid](#C28n-alkanoicAcid){#C28n-alkanoicAcid}
+
+
+#### Definition
+a n-alkanoic acid with the formula C27H55COOH.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+nC28, C28 n, C28FAMEconcentration, n-C28, n C28, C28 FAME Concentration, C28concentration, C28n, C28SEM, nC28_err, nC28_rep, C28 concentration, C28 SEM
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">C28 n-alkanoic acid</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=2280) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=2280)
+
+
+---
+
+
+
+### [C29n-alkanoicAcid](#C29n-alkanoicAcid){#C29n-alkanoicAcid}
+
+
+#### Definition
+a n-alkanoic acid with the formula C28H57COOH.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+C29FAMEconcentration, C29 concentration, C29 FAME Concentration, C29 n
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">C29 n-alkanoic acid</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3965) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3965)
+
+
+---
+
+
+
+### [C30n-alkanoicAcid](#C30n-alkanoicAcid){#C30n-alkanoicAcid}
+
+
+#### Definition
+a n-alkanoic acid with the formula C29H59COOH.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+C30 n, C30FAMEconcentration, C30 FAME Concentration, C30concentration, C30n, C30SEM, nC30_rep, C30 concentration, C30 SEM
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">C30 n-alkanoic acid</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=2281) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=2281)
+
+
+---
+
+
+
+### [C31n-alkanoicAcid](#C31n-alkanoicAcid){#C31n-alkanoicAcid}
+
+
+#### Definition
+a n-alkanoic acid with the formula C30H61COOH.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+C31FAMEconcentration, C31 concentration, C32FAMEconcentration
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">C31 n-alkanoic acid</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3966) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3966)
+
+
+---
+
+
+
+### [C37:2Alkenone](#C37:2Alkenone){#C37:2Alkenone}
+
+
+#### Definition
+a C37 alkenone that is di-unsaturated.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+C37:2
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">C37:2 alkenone</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=4586) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=4586)
+
+
+---
+
+
+
+### [C37:3aAlkenone](#C37:3aAlkenone){#C37:3aAlkenone}
+
+
+#### Definition
+a C37 alkenone that is tri-unsaturated.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+C37:3a
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">C37:3 alkenone</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=4587) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=4587)
+
+
+---
+
+
+
+### [C37:3bAlkenone](#C37:3bAlkenone){#C37:3bAlkenone}
+
+
+#### Definition
+a C37 alkenone that is tri-unsaturated.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+C37:3b
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">C37:3 alkenone</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=4587) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=4587)
+
+
+---
+
+
+
+### [C37:4Alkenone](#C37:4Alkenone){#C37:4Alkenone}
+
+
+#### Definition
+a C37 alkenone that is tetra-unsaturated.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+C370x3A4, C34:4
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">C37:4 alkenone</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=4588) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=4588)
+
+
+---
+
+
+
+### [C37Alkenone](#C37Alkenone){#C37Alkenone}
+
+
+#### Definition
+an alkenone that contains 37 carbon atoms.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+C37.concentration, totalC37
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">C37 alkenone</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=4585) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=4585)
+
+
+---
+
+
+
+### [Ca](#Ca){#Ca}
+
+
+#### Definition
+a chemical element with atomic number 20.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+CaProp, % Ca-detr, % Ca-ex, Ca peak area, Ca__, Ca  peak area
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">calcium</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=848) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=848)
+
+
+---
+
+
+
+### [Ca/K](#Ca_K){#Ca_K}
+
+
+#### Definition
+the elemental ratio of calcium to potassium.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">calcium/potassium</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3783) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3783)
+
+
+---
+
+
+
+### [Ca/Sr](#Ca_Sr){#Ca_Sr}
+
+
+#### Definition
+the elemental ratio of calcium to strontium.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">calcium/strontium</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3684) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3684)
+
+
+---
+
+
+
+### [Ca/Mg](#Ca_Mg){#Ca_Mg}
+
+
+#### Definition
+TBD
+
+
+*source: TBD*
+
+
+#### Known synonyms
+
+
+
+#### NOAA PaST Thesaurus term
+<font size="4">This concept doesn't exist on PaST, yet</font>
+
+
+---
+
+
+
+### [Ca/Ti](#Ca_Ti){#Ca_Ti}
+
+
+#### Definition
+the elemental ratio of calcium to titanium.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+Ti/Ca, Ca/Ti-z
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">calcium/titanium</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=1635) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=1635)
+
+
+---
+
+
+
+### [CaCO3](#CaCO3){#CaCO3}
+
+
+#### Definition
+a carbonate with the chemical formula CaCO3 but of unspecified crystal structure.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+% CaCO3-ex, CaCO3-IC
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">calcium carbonate</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=980) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=980)
+
+
+---
+
+
+
+### [calcificationRate](#calcificationRate){#calcificationRate}
+
+
+#### Definition
+a formation rate that is a rate of skeletal growth in calcifying organisms, often expressed as a mass times unit area per time (e.g., g cm2/yr)
+
+
+*source: PaST*
+
+
+#### Known synonyms
+calcification
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">calcification rate</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=756) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=756)
+
+
+---
+
+
+
+### [calcite](#calcite){#calcite}
+
+
+#### Definition
+a calcium carbonate with rhombohedral crystal structure.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+Calcite
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">calcite</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=482) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=482)
+
+
+---
+
+
+
+### [CaO](#CaO){#CaO}
+
+
+#### Definition
+an inorganic compound that has the chemical formula CaO.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">calcium oxide</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=1661) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=1661)
+
+
+---
+
+
+
+### [carbon](#carbon){#carbon}
+
+
+#### Definition
+a chemical element with atomic number 6.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+C, % TC, % Total C, %_tc, x_C
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">carbon</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=841) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=841)
+
+
+---
+
+
+
+### [carbonate](#carbonate){#carbonate}
+
+
+#### Definition
+an identified mineral characterized by a fundamental anionic structure of CO3(2-) (Credit: Dictionary of Geological Terms).
+
+
+*source: PaST*
+
+
+#### Known synonyms
+% Carbonate
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">carbonate</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=692) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=692)
+
+
+---
+
+
+
+### [CBT](#CBT){#CBT}
+
+
+#### Definition
+an organic compound index that is calculated from the ratio of branched tetraethers with one cyclopentane moiety to those with none and that is correlated to soil pH.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">cyclization index of branched tetraethers</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=1678) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=1678)
+
+
+---
+
+
+
+### [CCA1](#CCA1){#CCA1}
+
+
+#### Definition
+a statistical variable that is calculated using eigenvector-based methods to combine multiple data variables for data compression and dimensionality reduction.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+caaxis1
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">multivariate eigenvector-based variable</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=4060) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=4060)
+
+
+---
+
+
+
+### [CCA2](#CCA2){#CCA2}
+
+
+#### Definition
+a statistical variable that is calculated using eigenvector-based methods to combine multiple data variables for data compression and dimensionality reduction.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+caaxis2
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">multivariate eigenvector-based variable</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=4060) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=4060)
+
+
+---
+
+
+
+### [Cd](#Cd){#Cd}
+
+
+#### Definition
+a chemical element with atomic number 48.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+Cd MAR (ug/cm2/ky), ppm Cd
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">cadmium</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=846) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=846)
+
+
+---
+
+
+
+### [core](#core){#core}
+
+
+#### Definition
+TBD
+
+
+*source: TBD*
+
+
+#### Known synonyms
+CoreName, Core ID, core name, DUNE_A, Core Name, Core Section, Core_number, CoreSect1H, originalCoreName, Stal.ID, Core name, Core
+
+
+#### NOAA PaST Thesaurus term
+<font size="4">This concept doesn't exist on PaST, yet</font>
+
+
+---
+
+
+
+### [charcoal](#charcoal){#charcoal}
+
+
+#### Definition
+a bulk biological material that consists of any black-colored plant-derived material that has had its chemical composition and structure altered as a result of heating in a fire, and retains recognizable anatomic structure of the plant material, even if only in a fragmentary form (Credit: Smol et al. 2001 Tracking Environmental Change Using Lake Sediments).
+
+
+*source: PaST*
+
+
+#### Known synonyms
+chacoal_influx
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">charcoal</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=630) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=630)
+
+
+---
+
+
+
+### [chloride](#chloride){#chloride}
+
+
+#### Definition
+chlorine that has acquired a negative one charge as the result of gaining an electron.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">chloride</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=852) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=852)
+
+
+---
+
+
+
+### [circulationIndex](#circulationIndex){#circulationIndex}
+
+
+#### Definition
+a circulation variable that describes or quantifies a climate pattern with identifiable characteristics, specific regional effects, and often oscillatory behavior (Credit: Wikipedia).
+
+
+*source: PaST*
+
+
+#### Known synonyms
+GoE, GoF
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">circulation index</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=2270) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=2270)
+
+
+---
+
+
+
+### [Cl](#Cl){#Cl}
+
+
+#### Definition
+a chemical element with atomic number 17.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+Cl_
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">chlorine</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=850) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=850)
+
+
+---
+
+
+
+### [chlorin](#chlorin){#chlorin}
+
+
+#### Definition
+an organic pigment with the formula C20H16N4.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">chlorin</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3244) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3244)
+
+
+---
+
+
+
+### [clay](#clay){#clay}
+
+
+#### Definition
+the abundance or concentration of particles with a diameter less than 0.004 millimeters.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+%_clay, Clay, x_Clay
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">clay</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=1532) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=1532)
+
+
+---
+
+
+
+### [cluster](#cluster){#cluster}
+
+
+#### Definition
+a variable that is derived through the analysis of numerical data.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+cluster2
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">statistical variable</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=1101) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=1101)
+
+
+---
+
+
+
+### [Co](#Co){#Co}
+
+
+#### Definition
+a chemical element with atomic number 27.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+ppm Co
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">cobalt</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=859) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=859)
+
+
+---
+
+
+
+### [composite](#composite){#composite}
+
+
+#### Definition
+a statistical variable that results from compositing multiple, usually normalized, proxy time series.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+hybrid, Hybrid
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">proxy composite</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3909) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3909)
+
+
+---
+
+
+
+### [concentration](#concentration){#concentration}
+
+
+#### Definition
+a unit which represents a standard measurement of how much of a given substance there is mixed with another substance (Credit: Units of measurement ontology).
+
+
+*source: PaST*
+
+
+#### Known synonyms
+Concentration (C25-35), Friedel-3-ene concentration, Hop-17(21)-ene concentration
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">concentration unit</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3908) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3908)
+
+
+---
+
+
+
+### [d2HUncertaintyHigh80](#d2HUncertaintyHigh80){#d2HUncertaintyHigh80}
+
+
+#### Definition
+TBD
+
+
+*source: TBD*
+
+
+#### Known synonyms
+Precip dD 90 CI
+
+
+#### NOAA PaST Thesaurus term
+<font size="4">This concept doesn't exist on PaST, yet</font>
+
+
+---
+
+
+
+### [correction](#correction){#correction}
+
+
+#### Definition
+a data transformation that involves correcting one or more values in a time series for known, often non-climatic, factors.  These factors include, for example, changes in ice volume through time, the Suess effect, and biological offsets.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+hasAragoniteCorrection, hasAragoniteCorrectionComposite, Iso adjustment for ocean calibration, Years for ocean correction
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">corrected</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=675) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=675)
+
+
+---
+
+
+
+### [correlationCoefficient](#correlationCoefficient){#correlationCoefficient}
+
+
+#### Definition
+a goodness-of-fit measure that quantifies the strength and direction of the linear relationship between two variables and that is defined as the (sample) covariance of the variables divided by the product of their (sample) standard deviations.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+corrs
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">correlation coefficient</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3427) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3427)
+
+
+---
+
+
+
+### [count](#count){#count}
+
+
+#### Definition
+a dimensionless unit that denotes a simple count of things (Credit: Units of measurement ontology).
+
+
+*source: PaST*
+
+
+#### Known synonyms
+abundance, Numbe_counted, number, Number_counted, numInZone, Slide count, Varve_number, count_analyses_B3, count_analyses_C2, count_analyses_C3, count_analyses_C5, count_analyses_C6, sampleDensity, total, Total_grains_counted, total_non_Chaetoceros_counted, total_xount, TotalAmmoniaBeccarii
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">count</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=704) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=704)
+
+
+---
+
+
+
+### [CPI](#CPI){#CPI}
+
+
+#### Definition
+an organic compound index that is based on n-alkanes to quantify preservation/degradation patterns in sediments and/or source material of organic matter.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+CarbonPreferenceIndex20to30, CarbonPreferenceIndex20to32, CPI (27-33), CPI_25-33, CPI22-30
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">carbon preference index</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=2125) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=2125)
+
+
+---
+
+
+
+### [Cr](#Cr){#Cr}
+
+
+#### Definition
+a chemical element with atomic number 24.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+ppm Cr
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">chromium</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=854) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=854)
+
+
+---
+
+
+
+### [Cu](#Cu){#Cu}
+
+
+#### Definition
+a chemical element with atomic number 29.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+ppm Cu
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">copper</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=284) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=284)
+
+
+---
+
+
+
+### [d13C](#d13C){#d13C}
+
+
+#### Definition
+the ratio of two isotopes of carbon, 13C/12C, in a sample compared to that of a standard, typically the Pee Dee Belemnite, as in: ((13C/12C sample)/(13C/12C standard) - 1) x 1000.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+d13CComposite, d13CPrecisionComposite, d13CStandardComposite, d13c_pachyderma, planktic.d13C, d13c_bulloides, d13c_sacculifer, d13c_ruber_pink, C29 δ13C, d13c_ruber, C31 δ13C, D13C, d13CPisid, C33 δ13C, d13C bulk calcite, d13C C18 FAME, d13C C18 FAME SEM, d13C C20 FAME, d13C C20 FAME SEM, d13C C21 alkane, d13C C21 alkane SEM, d13C C22 FAME, d13C C22 FAME SEM, d13C C23 alkane, d13C C23 alkane SEM, d13C C24 FAME, d13C C24 FAME SEM, d13C C25 alkane, d13C C25 alkane SEM, d13C C26 FAME, d13C C26 FAME SEM, d13C C27 alkane, d13C C27 alkane SEM, d13C C28 FAME, d13C C28 FAME SEM, d13C C29 alkane, d13C C29 alkane SEM, d13C C30 FAME, d13C C30 FAME SEM, d13C C31 alkane, d13C C31 alkane SEM, d13C C32 FAME, d13C C32 FAME SEM, d13C C33 alkane, d13C C33 alkane SEM, d13C C34 FAME, d13C C34 FAME SEM, d13C C35 alkane, d13C C35 alkane SEM, d13C carbonate, D13C_C30, d13C organic, d13C ostracod, d13C_C31, d13c_dutertrei, d13C_org, d13c_pachyderma_d, d13Ccarb, d13CleafwaxC27, d13CleafwaxC27err, d13CleafwaxC29, d13CleafwaxC29err, d13CleafwaxC31, d13CleafwaxC31err, d13CleafwaxC33, d13CleafwaxC33err, d13CMean, Friedel-3-ene d13C, Hop-17(21)-ene d13C, Bulk OM d13C, C21 d13C, C23 d13C, C25:2 d13C, C28 d13C vs. VPDB, C29 d13C, C31 d13C, CDR3_d13C, d13/12C, Taraxer-14-ene d13C, δ13C n-alkanes, δ13C n-alkanes std dev, d13C bulk, d13C C25, d13C C27, d13C C29, d13C C31, d13C VPDB, D13C_C28, D13C_FAME, d13Cwax, C13bulk, C25 d13C, C27 d13C, C31d13C_PDB
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">delta 13C</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=320) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=320)
+
+
+---
+
+
+
+### [d2HUncertaintyLow80](#d2HUncertaintyLow80){#d2HUncertaintyLow80}
+
+
+#### Definition
+TBD
+
+
+*source: TBD*
+
+
+#### Known synonyms
+Precip dD 10 CI
+
+
+#### NOAA PaST Thesaurus term
+<font size="4">This concept doesn't exist on PaST, yet</font>
+
+
+---
+
+
+
+### [d15N](#d15N){#d15N}
+
+
+#### Definition
+the ratio of two isotopes of nitrogen, 15N/14N, in a sample compared to that of a standard, typically modern air ratios, as in: ((15N/14N sample)/(15N/14N standard) - 1) x 1000.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+d15N/14N, dN15, dN15_corrected, Bulk OM d15N
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">delta 15N</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=322) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=322)
+
+
+---
+
+
+
+### [d18O](#d18O){#d18O}
+
+
+#### Definition
+the ratio of two isotopes of oxygen, 18O/16O, in a sample compared to that of a standard, typically either Pee Dee Belemnite or standard mean ocean water, as in: ((18O/16O sample)/(18O/16O standard) - 1) x 1000.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+D18OIVC, d18o_ruber, d18o_pachyderma, d18OComposite, planktic.d18O, d18o_bulloides, d18o_sacculifer, d18O_sw, d18O_annual, D18O, d18o_ruber_pink, d18o_dutertrei, d18o_pachyderma_d, d18O_sw_annual, d18o_inflata, d18O_PDB, d18o_obliquiloculata, d18O_SMOW, d18O_swcorr, d18Ocarb, d18OPisid, d18Osw-sl-g.rubw, bagd18O, d180_corrc, d18O  encrustation, d18O Avg, d18O bulk calcite, d18O carbonate, d18O carbonate corrected for dolomite, d18O Chironomid, d18O ostracod, d18O pore ice sw corr, d18O_210yr, d18o_acicula, d18o_crassaformis, d18O_Gb, d18o_mabahethi, d18o_marginata, d18o_menardii, d18o_peregrina, d18o_quinqueloba, d18o_ruber_lato, d18o_ruber_stricto, d18o_tumida, d18O_vPDB, d18OBsi, d18Odiatom, d18Og.rub, d18Omean, d18Osw-g.rub, d18OTerrestrialGastropods, d18Otr, d18Otr-, d18Otr+, G. ruber w δ18O [‰ PDB], Gbulloidesd18O, CDR3_d18O, dd18O5pt, Ndutertreid18O, nonReliabled18O, ruberD18, WR11_d18O, x18O, x18ORub_, δ18O, Chironomid d18O, d18O (Sea Level Corrected), d18O VPDB, d18O_Grass_leaf, d18O_Sphagnum, d18O_vp–sp, d18O chironomid, d18O Lake water, d18O pore ice, d18Osw
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">delta 18O</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=323) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=323)
+
+
+---
+
+
+
+### [d2H](#d2H){#d2H}
+
+
+#### Definition
+the ratio of two isotopes of hydrogen, 2H/1H, in a sample compared to that of a standard, typically standard mean ocean water, as in: ((2H/1H sample)/(2H/1H standard) - 1) x 1000.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+dD, C29 δD, dDwax_iv, C31 δD, dDP, d2H C29, C26 d2H, C30 d2H, d2H C27, dD_C31, dD_swcorr, bagdD, C22 d2H, C24 d2H, C25 d2H, C28 d2H, C28_dD, C29 dD, d2H C20, d2H C23, dDC29, dDC31, d2H avg, d2H C20 FAME, d2H C20 FAME SEM, d2H C21 alkane, d2H C21 alkane SEM, d2H C22 FAME, d2H C22 FAME SEM, d2H C23 alkane, d2H C23 alkane SEM, d2H C24 FAME, d2H C24 FAME SEM, d2H C25, d2H C25 alkane, d2H C25 alkane SEM, d2H C25 error, d2H C26 FAME, d2H C26 FAME SEM, d2H C27 alkane, d2H C27 alkane SEM, d2H C27 error, d2H C28 FAME, d2H C28 FAME SEM, d2H C29 alkane, d2H C29 alkane SEM, d2H C29 error, d2H C30 FAME, d2H C30 FAME SEM, d2H C31, d2H C31 alkane, d2H C31 alkane SEM, d2H C31 error, d2H C32 FAME, d2H C32 FAME SEM, d2H C33 alkane, d2H C33 alkane SEM, d2H pore ice, d2H pore ice sw corr, d2H_C16, d2H_C26, d2H_C28, d2H_C30, d2HC30, d2HleafwaxC29, d2HleafwaxC29err, d2HleafwaxC31, d2HleafwaxC31err, d2HleafwaxC33, d2HleafwaxC33err, d2Hsw, dD IV, dDwax_IVC, dD_C31_sd, dD_IVandbio, dD_IVonly, dD_iceVolCorrected, dDwax, dDwax Corrected, dDwax_corr, Friedel-3-ene d2H, Hop-17(21)-ene d2H, C20 d2H, C20 d2H SEM, C21 d2H, C22 d2H SEM, C23 δD, C25 δD, C26 d2H SEM, C27 d2H, C28 d2H SEM, C28_dDIV, C29 d2H, C29 δD Corrected, C29 δD ice volume adjusted, C29 δD ice volume and vegetation adjusted, C29-C31 δD, C30 d2H SEM, C30 dD, dD_C30, C30 dD IV corrected  (3°C), C30 dD IV corrected  (7°C), C31 d2H, C31dD, C31dDsd, C32 dD, C33 δD, nC28_dD, nC30_dD, Taraxer-14-ene d2H, δDaq, δDterr, C31 dD, d2H C22, d2H C25:2, d2H C30, d2H precip, dD_C29, Long chain n-acid avg d2H, Long Chain n-alkane avg d2H, Mid-chain n-acid avg d2H, Midchain n-alkane avg d2H, d2HC24, d2HC26, d2HC28, d2HC29, C20d2H, C22d2H, C23 d2H, C24d2H, C25:2 d2H, C26d2H, C28d2H, C30d2H, Dd, Precip d2H
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">delta 2H</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=324) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=324)
+
+
+---
+
+
+
+### [Dd2H](#Dd2H){#Dd2H}
+
+
+#### Definition
+TBD
+
+
+*source: TBD*
+
+
+#### Known synonyms
+ΔδDterr-aq
+
+
+#### NOAA PaST Thesaurus term
+<font size="4">This concept doesn't exist on PaST, yet</font>
+
+
+---
+
+
+
+### [deleteThisColumn](#deleteThisColumn){#deleteThisColumn}
+
+
+#### Definition
+TBD
+
+
+*source: TBD*
+
+
+#### Known synonyms
+average C26 C28, CAL, A, Calibrated, IMON1953/3, interval, SAUG/3, SETE/3, SFEV/3, SHIV/3, TETE/3, TFEV/3, THIV/3, hobdob, LazerProfiler, noID, RCS.ars, UnkownColumn
+
+
+#### NOAA PaST Thesaurus term
+<font size="4">This concept doesn't exist on PaST, yet</font>
+
+
+---
+
+
+
+### [deltaRelativeHumidity](#deltaRelativeHumidity){#deltaRelativeHumidity}
+
+
+#### Definition
+TBD
+
+
+*source: TBD*
+
+
+#### Known synonyms
+∆RH_mid
+
+
+#### NOAA PaST Thesaurus term
+<font size="4">This concept doesn't exist on PaST, yet</font>
+
+
+---
+
+
+
+### [deltaTemperature](#deltaTemperature){#deltaTemperature}
+
+
+#### Definition
+TBD
+
+
+*source: TBD*
+
+
+#### Known synonyms
+deltaT
+
+
+#### NOAA PaST Thesaurus term
+<font size="4">This concept doesn't exist on PaST, yet</font>
+
+
+---
+
+
+
+### [dryBulkDensity](#dryBulkDensity){#dryBulkDensity}
+
+
+#### Definition
+TBD
+
+
+*source: TBD*
+
+
+#### Known synonyms
+DBD, Dry Bulk Density, dbd, dry_bd, EstDryBD
+
+
+#### NOAA PaST Thesaurus term
+<font size="4">This concept doesn't exist on PaST, yet</font>
+
+
+---
+
+
+
+### [density](#density){#density}
+
+
+#### Definition
+a physical property that quantifies the compactness of a substance.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+Density
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">density</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=681) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=681)
+
+
+---
+
+
+
+### [depth](#depth){#depth}
+
+
+#### Definition
+the location of the midpoint of a sample measured as a distance from some datum, usually the core top.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+depthComposite, Depth, depth_merged, depthice, depthwe, MidpointDepth, Depth blf, depthComp, Composite depth, compositeDepth, Composite Depth, Section depth, depth corrected, depth_cmbs, depth_core1, depth_corr_cm, depth_merge, Composite Depth in Core, Composite depth mid, Composite_depth, cor_depth_cm, depthByCore, DrillHole Depth, mean depth, originalCoreDepth, Section Depth, Core depth, depth_core, Adjusted Depth, drive-depth
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">depth</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=242) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=242)
+
+
+---
+
+
+
+### [depthBottom](#depthBottom){#depthBottom}
+
+
+#### Definition
+the location of the oldest end of a sample measured as a distance from some datum, usually the core top.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+depth.bottom, depth_bot, bottomDepth, depth_bottom, bot, Bot, Bottom Depth, Composite depth bottom, Section depth bottom, uncorrected_depth_bot, bottom depth in section, Bottom_depth
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">depth at sample start</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=1291) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=1291)
+
+
+---
+
+
+
+### [depthTop](#depthTop){#depthTop}
+
+
+#### Definition
+an organooxygen compound with the chemical formula C2H3O2.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+depth.top, depth_top_m, depth_top, Composite depth top, Section depth top, top, Top, Top Depth, topDepth, uncorrected_depth_top, top depth in section, Top_depth, logdepthtop, logdepthtop-EDC99, logdepttop
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">acetic acid</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=1224) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=1224)
+
+
+---
+
+
+
+### [deuteriumExcess](#deuteriumExcess){#deuteriumExcess}
+
+
+#### Definition
+a measure of how different a delta 2H value is from the value expected from the Global Meteoric Water Line, that is delta 2H - 8* delta 18O.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+d-excess, bagDexcess, d-excess_swcorr, deutEx, dxs, d-excess pore ice, d-excess pore ice sw corr, d-excess sw
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">deuterium excess</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=1426) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=1426)
+
+
+---
+
+
+
+### [diatom](#diatom){#diatom}
+
+
+#### Definition
+an identifiable organism that is a unicellular phytoplankton and that belongs to the kingdom Chromista, phylum Ochrophyta, class Bacillariophyceae.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+%Benthic, %fresh, %Indif., %Saline, %benth.dia, %plank.dia, %saline.dia, SumDiatoms
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">diatom</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=1601) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=1601)
+
+
+---
+
+
+
+### [diatomCount](#diatomCount){#diatomCount}
+
+
+#### Definition
+a measurement of diatoms, such as a ratio or count, that is derived from a series of observations and that is used as an indicator or measure.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+seaIceDiatoms, diatom_abundance, Diatoms_per_traverse
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">diatom index</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3772) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3772)
+
+
+---
+
+
+
+### [dinocyst](#dinocyst){#dinocyst}
+
+
+#### Definition
+the total count of dinocysts in a sample.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+flux_dino
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">total dinocysts</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3259) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3259)
+
+
+---
+
+
+
+### [dolomite](#dolomite){#dolomite}
+
+
+#### Definition
+a carbonate with the formula CaMg(CO3)2.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+% Dolomite
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">dolomite</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=990) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=990)
+
+
+---
+
+
+
+### [epsilonC28C22](#epsilonC28C22){#epsilonC28C22}
+
+
+#### Definition
+TBD
+
+
+*source: TBD*
+
+
+#### Known synonyms
+Epsilon C28-C22, Epsilon28-22
+
+
+#### NOAA PaST Thesaurus term
+<font size="4">This concept doesn't exist on PaST, yet</font>
+
+
+---
+
+
+
+### [duration](#duration){#duration}
+
+
+#### Definition
+a time unit that measures the duration of a period of time.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+yearsPerSample
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">duration unit</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=278) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=278)
+
+
+---
+
+
+
+### [dust](#dust){#dust}
+
+
+#### Definition
+a bulk geological material that consists of organic or inorganic particles of typically clay and silt size that are transportable by wind.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+DMAR, dustFlux, 0.50_quantile_dust_flux
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">dust</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=867) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=867)
+
+
+---
+
+
+
+### [DWHI](#DWHI){#DWHI}
+
+
+#### Definition
+a measurement of ecosystem quantities or properties, such as a ratio or count, that is derived from a series of observations and that is used as an indicator or measure.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">ecosystem index</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=4940) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=4940)
+
+
+---
+
+
+
+### [effectivePrecipitation](#effectivePrecipitation){#effectivePrecipitation}
+
+
+#### Definition
+the hydroclimate rate that is the difference in rate between precipitation and evaporation at the earth's surface.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+effectiveMoisture, Moisture_index, waterBalance
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">precipitation minus evaporation</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=2312) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=2312)
+
+
+---
+
+
+
+### [elevation](#elevation){#elevation}
+
+
+#### Definition
+sampling metadata that identifies the elevation, either above or below sea level, at which a sample was collected or a reconstruction was generated.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+elevation sample, elevation a.s.l.
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">collection elevation</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=537) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=537)
+
+
+---
+
+
+
+### [ElNinoEvent](#ElNinoEvent){#ElNinoEvent}
+
+
+#### Definition
+an index of the El Niño Southern Oscillation that quantifies the occurrence of anomalously warm sea surface temperatures in the eastern tropical Pacific.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+ENSO_events
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">El Niño event</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=2301) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=2301)
+
+
+---
+
+
+
+### [EPS](#EPS){#EPS}
+
+
+#### Definition
+an extension of the correlation coefficient that quantifies how well a chronology based on a finite number of samples represents the hypothetical perfect or true chronology and that is calculated as: (n*RBAR)/(n*RBAR + 1-RBAR) where n is the number of samples and RBAR is the mean intersample correlation coefficient.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">expressed population signal</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=2359) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=2359)
+
+
+---
+
+
+
+### [epsilonC28C24](#epsilonC28C24){#epsilonC28C24}
+
+
+#### Definition
+TBD
+
+
+*source: TBD*
+
+
+#### Known synonyms
+Epsilon C28-C24
+
+
+#### NOAA PaST Thesaurus term
+<font size="4">This concept doesn't exist on PaST, yet</font>
+
+
+---
+
+
+
+### [epsilonC29C23](#epsilonC29C23){#epsilonC29C23}
+
+
+#### Definition
+TBD
+
+
+*source: TBD*
+
+
+#### Known synonyms
+Epsilon C29-C23
+
+
+#### NOAA PaST Thesaurus term
+<font size="4">This concept doesn't exist on PaST, yet</font>
+
+
+---
+
+
+
+### [Eu/Zr](#Eu_Zr){#Eu_Zr}
+
+
+#### Definition
+TBD
+
+
+*source: TBD*
+
+
+#### Known synonyms
+Eu/Zr-z
+
+
+#### NOAA PaST Thesaurus term
+<font size="4">This concept doesn't exist on PaST, yet</font>
+
+
+---
+
+
+
+### [event](#event){#event}
+
+
+#### Definition
+TBD
+
+
+*source: TBD*
+
+
+#### Known synonyms
+
+
+
+#### NOAA PaST Thesaurus term
+<font size="4">This concept doesn't exist on PaST, yet</font>
+
+
+---
+
+
+
+### [equilibriumLineAltitude](#equilibriumLineAltitude){#equilibriumLineAltitude}
+
+
+#### Definition
+a cryospheric quantity that is the elevation at which the mass balance of an ice sheet or glacier is zero over the year, that is where ablation equals accumulation.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+ELA, ELA_alt
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">equilibrium line altitude</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=2303) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=2303)
+
+
+---
+
+
+
+### [facies](#facies){#facies}
+
+
+#### Definition
+TBD
+
+
+*source: TBD*
+
+
+#### Known synonyms
+lithology, Facies, lithologic unit
+
+
+#### NOAA PaST Thesaurus term
+<font size="4">This concept doesn't exist on PaST, yet</font>
+
+
+---
+
+
+
+### [eventLayer](#eventLayer){#eventLayer}
+
+
+#### Definition
+a formation property that describes or quantifies layers within a sample that formed due to unusual environmental or climatic events.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+layer, layer_type
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">event layer</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=2233) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=2233)
+
+
+---
+
+
+
+### [flood](#flood){#flood}
+
+
+#### Definition
+TBD
+
+
+*source: TBD*
+
+
+#### Known synonyms
+M-flood, M-flood 200 yr avg, M-flood 30 yr sum, P-flood, P-flood 200 yr avg, P-flood 30 yr sum, floods
+
+
+#### NOAA PaST Thesaurus term
+<font size="4">This concept doesn't exist on PaST, yet</font>
+
+
+---
+
+
+
+### [Fe](#Fe){#Fe}
+
+
+#### Definition
+a chemical element with atomic number 26.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+Fe peak area, FeProp
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">iron</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=285) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=285)
+
+
+---
+
+
+
+### [Fe/Al](#Fe_Al){#Fe_Al}
+
+
+#### Definition
+the elemental ratio of iron to aluminum.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">iron/aluminum</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=2416) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=2416)
+
+
+---
+
+
+
+### [Fe/Ca](#Fe_Ca){#Fe_Ca}
+
+
+#### Definition
+the elemental ratio of iron to calcium.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+ln(Fe/Ca), FeCa_log, FeCa, log(Fe/Ce)
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">iron/calcium</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=1637) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=1637)
+
+
+---
+
+
+
+### [Fe/K](#Fe_K){#Fe_K}
+
+
+#### Definition
+the elemental ratio of iron to potassium.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+ln(Fe/K)
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">iron/potassium</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3785) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3785)
+
+
+---
+
+
+
+### [Fe/Mn](#Fe_Mn){#Fe_Mn}
+
+
+#### Definition
+the elemental ratio of iron to manganese.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">iron/manganese</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=1638) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=1638)
+
+
+---
+
+
+
+### [Fe2O3](#Fe2O3){#Fe2O3}
+
+
+#### Definition
+an inorganic compound that has the chemical formula Fe2O3.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">iron(III) oxide</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=1663) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=1663)
+
+
+---
+
+
+
+### [feldspar](#feldspar){#feldspar}
+
+
+#### Definition
+a silicate mineral with the general formula XAl(Al,Si)3O8 where X can be K, Na, Ca, Ba, Rb, Sr, or Fe.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">feldspar group</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=992) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=992)
+
+
+---
+
+
+
+### [GDGT-0/Cren](#GDGT-0_Cren){#GDGT-0_Cren}
+
+
+#### Definition
+TBD
+
+
+*source: TBD*
+
+
+#### Known synonyms
+
+
+
+#### NOAA PaST Thesaurus term
+<font size="4">This concept doesn't exist on PaST, yet</font>
+
+
+---
+
+
+
+### [glacierCoverage](#glacierCoverage){#glacierCoverage}
+
+
+#### Definition
+TBD
+
+
+*source: TBD*
+
+
+#### Known synonyms
+
+
+
+#### NOAA PaST Thesaurus term
+<font size="4">This concept doesn't exist on PaST, yet</font>
+
+
+---
+
+
+
+### [fluorine](#fluorine){#fluorine}
+
+
+#### Definition
+a chemical element with atomic number 9.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+F_, F
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">fluorine</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=870) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=870)
+
+
+---
+
+
+
+### [foraminifera](#foraminifera){#foraminifera}
+
+
+#### Definition
+an identifiable organism that belongs to the kingdom Protozoa, order Foraminiferida.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+Foram
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">foraminifer</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=1778) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=1778)
+
+
+---
+
+
+
+### [gamma](#gamma){#gamma}
+
+
+#### Definition
+an electromagnetic property that measures the emission of gamma radiation by a material.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">gamma radiation</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=1619) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=1619)
+
+
+---
+
+
+
+### [GDGT](#GDGT){#GDGT}
+
+
+#### Definition
+an organooxygen compound that is a tetraether membrane lipid and that contains between 0 and 4 cyclopentane moieties, with an increasing number of cyclopentane moieties related to the temperature of formation.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+brGDGT
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">glycerol dialkyl glycerol tetraether</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=1103) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=1103)
+
+
+---
+
+
+
+### [hasGap](#hasGap){#hasGap}
+
+
+#### Definition
+TBD
+
+
+*source: TBD*
+
+
+#### Known synonyms
+
+
+
+#### NOAA PaST Thesaurus term
+<font size="4">This concept doesn't exist on PaST, yet</font>
+
+
+---
+
+
+
+### [hasHiatus](#hasHiatus){#hasHiatus}
+
+
+#### Definition
+Is there a hiatus at this level
+
+
+*source: LinkedEarth*
+
+
+#### Known synonyms
+hasHiatusComposite
+
+
+#### NOAA PaST Thesaurus term
+<font size="4">This concept doesn't exist on PaST, yet</font>
+
+
+---
+
+
+
+### [globigerinoidesRuber](#globigerinoidesRuber){#globigerinoidesRuber}
+
+
+#### Definition
+a particular species of the genus Globigerinoides.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+Gruber
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">Globigerinoides ruber</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=2621) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=2621)
+
+
+---
+
+
+
+### [grainSize](#grainSize){#grainSize}
+
+
+#### Definition
+the diameter of individual grains of a material such as sediment, dust, or ice.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+<4 um, >63 um, GrainSizeMode, D50, <2 um, <2um, Grain size mean, <16 μm, 250-31 um, 63-4 um
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">grain size</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=1233) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=1233)
+
+
+---
+
+
+
+### [grayscale](#grayscale){#grayscale}
+
+
+#### Definition
+reflectance that is quantified only according to intensity, or the amount of light, with low values indicating black and high values indicating white.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+grayscale20lp_detrended, grey_scale
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">grayscale</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=548) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=548)
+
+
+---
+
+
+
+### [growing degree days](#growing_degree_days){#growing_degree_days}
+
+
+#### Definition
+a temperature index that integrates warmth above a base temperature (usually 10 degrees Celsius) through time.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+GDD5
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">growing degree days</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=1386) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=1386)
+
+
+---
+
+
+
+### [growthRate](#growthRate){#growthRate}
+
+
+#### Definition
+a formation rate that is the rate of linear growth of a deposit (e.g., speleothem, mollusk shell), sometimes calculated from the width of an annual growth band.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+GrowthRate
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">growth rate</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=547) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=547)
+
+
+---
+
+
+
+### [hole](#hole){#hole}
+
+
+#### Definition
+TBD
+
+
+*source: TBD*
+
+
+#### Known synonyms
+
+
+
+#### NOAA PaST Thesaurus term
+<font size="4">This concept doesn't exist on PaST, yet</font>
+
+
+---
+
+
+
+### [isReliable](#isReliable){#isReliable}
+
+
+#### Definition
+TBD
+
+
+*source: TBD*
+
+
+#### Known synonyms
+ReliabIeYN1, reliable, ReliabIeYN2, reliable 1, reliable 2, reliable_1, reliable_2, reliable_3, reliable_4, Reliable?
+
+
+#### NOAA PaST Thesaurus term
+<font size="4">This concept doesn't exist on PaST, yet</font>
+
+
+---
+
+
+
+### [humidificationIndex](#humidificationIndex){#humidificationIndex}
+
+
+#### Definition
+a measure of the extent to which a peat sample has undergone decomposition and humic acids have been produced.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+HumidificationIndex, HIndex, Hindex
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">humification index</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=2129) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=2129)
+
+
+---
+
+
+
+### [iceMelt](#iceMelt){#iceMelt}
+
+
+#### Definition
+the ice mass loss from a glacier, ice-cap, ice-sheet, or ice-shelf through phase transformation to liquid water.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+melt, ice_melt_fraction, meltLayerFrequency, meltLayers
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">ice melt</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=4951) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=4951)
+
+
+---
+
+
+
+### [iceRaftedDebris](#iceRaftedDebris){#iceRaftedDebris}
+
+
+#### Definition
+mineral matter that was transported over a body of water on ice.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+IRD
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">ice rafted debris</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=1544) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=1544)
+
+
+---
+
+
+
+### [inc/coh](#inc_coh){#inc_coh}
+
+
+#### Definition
+a ratio of scattering in x-ray fluorescence analysis, that can be used as a proxy for the amount of organic matter in a sample.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+Inc/Coh
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">incoherent:coherent scattering</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3720) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3720)
+
+
+---
+
+
+
+### [RAN15](#RAN15){#RAN15}
+
+
+#### Definition
+a measurement of specific organic compounds, such as a ratio or count, that is derived from a series of observations and that is used as an indicator or measure of environmental conditions.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">organic compound index</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3954) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3954)
+
+
+---
+
+
+
+### [index](#index){#index}
+
+
+#### Definition
+a variable that is derived through the analysis of numerical data.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+PLS-1, PLS-2, SM/IlliteChlorite
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">statistical variable</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=1101) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=1101)
+
+
+---
+
+
+
+### [IP25](#IP25){#IP25}
+
+
+#### Definition
+a highly-branched isoprenoid alkene that contains 25 carbon atoms and that is produced selectively by sea ice diatoms (Credit: Belt et al. 2013, 10.1016/j.quascirev.2012.12.001).
+
+
+*source: PaST*
+
+
+#### Known synonyms
+IP25_flux
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">ice proxy with 25 carbon atoms</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=2493) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=2493)
+
+
+---
+
+
+
+### [IRM](#IRM){#IRM}
+
+
+#### Definition
+the remanent magnetization that is acquired without the aid of changes in temperature, generally from the application and subsequent removal of an applied direct current field (Credit: Encyclopedia of Geomagnetism and Paleomagnetism).
+
+
+*source: PaST*
+
+
+#### Known synonyms
+irm, IRM_softFlux
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">isothermal remanent magnetization</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=1085) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=1085)
+
+
+---
+
+
+
+### [JulianDay](#JulianDay){#JulianDay}
+
+
+#### Definition
+TBD
+
+
+*source: TBD*
+
+
+#### Known synonyms
+
+
+
+#### NOAA PaST Thesaurus term
+<font size="4">This concept doesn't exist on PaST, yet</font>
+
+
+---
+
+
+
+### [K37](#K37){#K37}
+
+
+#### Definition
+TBD
+
+
+*source: TBD*
+
+
+#### Known synonyms
+K37s
+
+
+#### NOAA PaST Thesaurus term
+<font size="4">This concept doesn't exist on PaST, yet</font>
+
+
+---
+
+
+
+### [ITCZ](#ITCZ){#ITCZ}
+
+
+#### Definition
+a circulation index that measures some aspect of the belt of low pressure where trade winds converge, such as its latitudinal position.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+ITCZ_index
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">Intertropical Convergence Zone index</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=1000118) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=1000118)
+
+
+---
+
+
+
+### [K/Al](#K_Al){#K_Al}
+
+
+#### Definition
+the elemental ratio of potassium to aluminum.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+ln(K/Al)
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">potassium/aluminum</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=2422) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=2422)
+
+
+---
+
+
+
+### [K2O](#K2O){#K2O}
+
+
+#### Definition
+an inorganic compound that has the chemical formula K2O.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">potassium oxide</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=1666) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=1666)
+
+
+---
+
+
+
+### [lakeTrend](#lakeTrend){#lakeTrend}
+
+
+#### Definition
+TBD
+
+
+*source: TBD*
+
+
+#### Known synonyms
+
+
+
+#### NOAA PaST Thesaurus term
+<font size="4">This concept doesn't exist on PaST, yet</font>
+
+
+---
+
+
+
+### [lakeVolume](#lakeVolume){#lakeVolume}
+
+
+#### Definition
+TBD
+
+
+*source: TBD*
+
+
+#### Known synonyms
+
+
+
+#### NOAA PaST Thesaurus term
+<font size="4">This concept doesn't exist on PaST, yet</font>
+
+
+---
+
+
+
+### [La](#La){#La}
+
+
+#### Definition
+a chemical element with atomic number 57.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+ppm La
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">lanthanum</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=286) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=286)
+
+
+---
+
+
+
+### [lakeArea](#lakeArea){#lakeArea}
+
+
+#### Definition
+a geographic variable that quantifies the surface area of one or multiple lakes.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">lake area</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=4050) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=4050)
+
+
+---
+
+
+
+### [lakeLevel](#lakeLevel){#lakeLevel}
+
+
+#### Definition
+a geographic variable that quantifies the height of the lake water surface relative to some datum.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+depth.lake, lakeStatus, lakeLevelRelative, LakeDepth, LakeLevel_cm_, Lake Level, Lake Level a.s.l.
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">lake level</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=2137) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=2137)
+
+
+---
+
+
+
+### [Mn/Fe](#Mn_Fe){#Mn_Fe}
+
+
+#### Definition
+the elemental ratio of manganese to iron.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+MnFe
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">manganese/iron</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=1013) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=1013)
+
+
+---
+
+
+
+### [Mn/Mo](#Mn_Mo){#Mn_Mo}
+
+
+#### Definition
+TBD
+
+
+*source: TBD*
+
+
+#### Known synonyms
+
+
+
+#### NOAA PaST Thesaurus term
+<font size="4">This concept doesn't exist on PaST, yet</font>
+
+
+---
+
+
+
+### [Mn/Ti](#Mn_Ti){#Mn_Ti}
+
+
+#### Definition
+the elemental ratio of manganese to titanium.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+MnTi
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">manganese/titanium</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=1640) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=1640)
+
+
+---
+
+
+
+### [N/C](#N_C){#N_C}
+
+
+#### Definition
+TBD
+
+
+*source: TBD*
+
+
+#### Known synonyms
+NC
+
+
+#### NOAA PaST Thesaurus term
+<font size="4">This concept doesn't exist on PaST, yet</font>
+
+
+---
+
+
+
+### [landscapeCover](#landscapeCover){#landscapeCover}
+
+
+#### Definition
+an ecosystem variable that quantifies some aspect of the components of an ecosystem.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+OpenVegetation___
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">ecosystem quantity</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=4934) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=4934)
+
+
+---
+
+
+
+### [latitude](#latitude){#latitude}
+
+
+#### Definition
+sampling metadata that identifies the latitude at which a sample was collected or a reconstruction was generated.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+latitude sample
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">latitude</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=453) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=453)
+
+
+---
+
+
+
+### [layerThickness](#layerThickness){#layerThickness}
+
+
+#### Definition
+a measure of raw, or true, ice layer thickness, i.e. uncorrected for compaction and flow.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+eventLayerThick, Fld lay thick, Flood lay (annual), Flood lay (fall), Flood lay (spring), Flood lay (summer), Flood lay (winter), floodLayThick, debrisLayThick, Lamina_thickness, LaminaThickenss
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">layer thickness</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=603) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=603)
+
+
+---
+
+
+
+### [LDI](#LDI){#LDI}
+
+
+#### Definition
+an organic compound index calculated based on the relative abundance of long chain alkyl 1,13- and 1,15-diols.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">long-chain diol index</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=5705) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=5705)
+
+
+---
+
+
+
+### [lithics](#lithics){#lithics}
+
+
+#### Definition
+the diameter of individual grains of a material such as sediment, dust, or ice.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+%_lithics, Lithic Flux, Lithics
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">grain size</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=1233) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=1233)
+
+
+---
+
+
+
+### [LOI](#LOI){#LOI}
+
+
+#### Definition
+pyrolysis that involves strongly heating ('igniting') a sample of material at a specified temperature, allowing volatile substances to escape, until its mass ceases to change. This may be done in air, or in some other reactive or inert atmosphere (Credit: Wikipedia).
+
+
+*source: PaST*
+
+
+#### Known synonyms
+
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">loss on ignition</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=703) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=703)
+
+
+---
+
+
+
+### [longitude](#longitude){#longitude}
+
+
+#### Definition
+sampling metadata that describes the longitude at which a sample was collected or a reconstruction was generated.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+longitude sample
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">longitude</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=454) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=454)
+
+
+---
+
+
+
+### [MAR](#MAR){#MAR}
+
+
+#### Definition
+a rate unit that is a standard measure of the accumulation or flow of mass per unit area per time.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+Bulk MAR, bulkMAR, CordMAR, Mo MAR (ug/cm2/ky), massacum
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">mass per area per time unit</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=4704) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=4704)
+
+
+---
+
+
+
+### [material](#material){#material}
+
+
+#### Definition
+a material that is used in a statistically-based climate reconstruction.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+Material
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">reconstruction material</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=4857) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=4857)
+
+
+---
+
+
+
+### [MBT](#MBT){#MBT}
+
+
+#### Definition
+an organic compound index that is calculated as the ratio of various branched tetraethers and that reflects temperature and/or soil pH.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+MBT', MBT'5Me
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">methylation index of branched tetraethers</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=1683) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=1683)
+
+
+---
+
+
+
+### [Mg](#Mg){#Mg}
+
+
+#### Definition
+a chemical element with atomic number 12.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+% Mg, %Mg, detrendMg, Mg__, MgDetrended
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">magnesium</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=891) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=891)
+
+
+---
+
+
+
+### [Mg/Ca](#Mg_Ca){#Mg_Ca}
+
+
+#### Definition
+the elemental ratio of magnesium to calcium.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+mgca_pachyderma, mgca_bulloides, mgca_dutertrei, mgca_sacculifer, mgca_inflata, mgca_ruber_lato, mgca_ruber_pink, mgca_ruber_stricto, mgca_crassaformis, mgca_obliquiloculata, mgca_pachyderma_d, CDR3_MgCa, Mg/Ca Raw, MgCa, mgca_truncatulinoides, NdutertreiMg/Ca, mgca_ruber, Mg_Ca, planktic.MgCa
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">magnesium/calcium</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=4392) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=4392)
+
+
+---
+
+
+
+### [MgO](#MgO){#MgO}
+
+
+#### Definition
+an inorganic compound that has the chemical formula MgO.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">magnesium oxide</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=307) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=307)
+
+
+---
+
+
+
+### [mineralogy](#mineralogy){#mineralogy}
+
+
+#### Definition
+a geological material that has been identified based on composition and crystal structure as a specific mineral or as belonging to a certain mineral class.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+mineral_flux, mineralogyComposite
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">identified mineral</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=1001) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=1001)
+
+
+---
+
+
+
+### [Mn](#Mn){#Mn}
+
+
+#### Definition
+a chemical element with atomic number 25.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+ppm Mn, % Mn
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">manganese</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=287) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=287)
+
+
+---
+
+
+
+### [needsToBeChanged](#needsToBeChanged){#needsToBeChanged}
+
+
+#### Definition
+https://doi.org/10.1023/B:JOPL.0000042907.90500.5aa
+
+
+*source: LinkedEarth*
+
+
+#### Known synonyms
+aridity, d13o_pachyderma, distance, 10%max, 10%min, 20%max, 20%min, 30%max, 30%min, 50%max, 50%min, 80%max, 80%min, C170x2D28, calibrated, CI, CMT, CT, JulT-eSEP, Laminae, PPexp, RRA, tempSource, TSAR5pt, water, WMT, thisShouldntBeEmpty, TS, Unit, unnamed, BS, BS_COMX, BS_Landscape_Openness, Di, DryElements, E2Hterr-2Haq, Eaq-p, eSEP_PLS_C2, eSEP_WMAT, HC/G, HII (H-set), HII (N-set), HII std (H-set), HII std (N-set), HulunNuur, -, ((( null ))) AC Ratio? /// pollenRatio, 100yrSum, 10YrRun.Avg., A odd (25-35), A/C, A/C Ratio, Alkenones, Analogues, Analogues#, bag, Bag, bagDepth, benth, Benthic, Cal, CAST1, CAST2, CMT_max, CMT_min, CMTmax, CMTmin, D, d0x2800x2E10x29, d0x2800x2E50x29, d0x2800x2E90x29, DEC, dln, Intv0x2E, kyryr BP2, log[EM3/(EM1+EM2)], LORCA, lower band, LSR (cm/ky), Lyc.added, Mag0x2E, Mark add, Mark found, Mean consensus, Mean_anomaly, mineral, Minidiscus?, Mode, MoistElements, MST, n-Alkane, NE.ars, OEP, s, S52, stage, Taraxer-14-ene concentration, TCT, Th13C, thin-mid, TOTC, Ts, TSAR, TT, Water/relict ice age, x00x2E020xB5m0x2D30x2E890xB5m, x10000x2E010xB5m0x2D20000x2E000xB5m, x1250x2E000xB5m0x2D2490x2E990xB5m, x150x2E600xB5m0x2D300x2E990xB5m, x2500x2E000xB5m0x2D4990x2E990xB5m, x30x2E900xB5m0x2D70x2E790xB5m, x310x2E000xB5m0x2D620x2E490xB5m, x5000x2E000xB5m0x2D10000x2E000xB5m, x620x2E500xB5m0x2D1240x2E990xB5m, x70x2E800xB5m0x2D150x2E590xB5m, drive-type, EM1, EM2, EM3, EMI, IMI, MG0, MShellCrn, Reconstructed, thisShouldntBeEmpty1, WACLS, WACLS_total, WAINV, WAINV_total, WAPLS-2, U_xs
+
+
+#### NOAA PaST Thesaurus term
+<font size="4">This concept doesn't exist on PaST</font>
+
+
+---
+
+
+
+### [MnO](#MnO){#MnO}
+
+
+#### Definition
+an inorganic compound that is any of the oxides of manganese, containing oxygen and manganese atoms.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">manganese oxide</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=1668) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=1668)
+
+
+---
+
+
+
+### [Mo](#Mo){#Mo}
+
+
+#### Definition
+a chemical element with atomic number 42.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+Mo_xs, ppm Mo
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">molybdenum</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=897) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=897)
+
+
+---
+
+
+
+### [MS](#MS){#MS}
+
+
+#### Definition
+a magnetic moment that is the degree to which a material can be magnetized in an external magnetic field.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+Avg_MS, AVG_MS_DRS1_2A_3_2B_4, MassMagSus, SI, Magnetic Susceptibility
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">magnetic susceptibility</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=1793) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=1793)
+
+
+---
+
+
+
+### [MXD](#MXD){#MXD}
+
+
+#### Definition
+the density of xylem cells in wood that formed near the end of the growing season and that tend to be small and thick-walled.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">latewood density</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=1573) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=1573)
+
+
+---
+
+
+
+### [Na2O](#Na2O){#Na2O}
+
+
+#### Definition
+an inorganic compound that has the chemical formula Na2O.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">sodium oxide</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=1670) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=1670)
+
+
+---
+
+
+
+### [Ni](#Ni){#Ni}
+
+
+#### Definition
+a chemical element with atomic number 28.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+ppm Ni
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">nickel</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=899) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=899)
+
+
+---
+
+
+
+### [nitrate](#nitrate){#nitrate}
+
+
+#### Definition
+an inorganic compound that has the chemical formula NO3(-).
+
+
+*source: PaST*
+
+
+#### Known synonyms
+
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">nitrate</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=971) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=971)
+
+
+---
+
+
+
+### [nitrogen](#nitrogen){#nitrogen}
+
+
+#### Definition
+a chemical element with atomic number 7.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+N
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">nitrogen</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=1014) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=1014)
+
+
+---
+
+
+
+### [NO3](#NO3){#NO3}
+
+
+#### Definition
+an inorganic compound that has the chemical formula NO3(-).
+
+
+*source: PaST*
+
+
+#### Known synonyms
+NO3_
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">nitrate</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=971) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=971)
+
+
+---
+
+
+
+### [notes](#notes){#notes}
+
+
+#### Definition
+sampling metadata that describes study-specific aspects of sample collection and/or analysis.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+entityName, Commentregardingreliability1, CommentRegardingReliability, Commentregardingreliability2, BSi_regime, BSI_regime, CodeName, color, Commentregardingreliability3, Commentregardingreliability4, note, repeats, Reworked, notes_C5
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">notes</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=1483) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=1483)
+
+
+---
+
+
+
+### [organicCarbon](#organicCarbon){#organicCarbon}
+
+
+#### Definition
+carbon that is derived from an organic source.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+C_organic_flux, Corg dens, Acc Rate TOC, TOC, Corg, % OC, % Organic carbon, OC-MAR (g), OC-MAR (mg), TOC_flux, TOCmg, Organic carbon concentration, Total Organic Carbon
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">organic carbon</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=995) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=995)
+
+
+---
+
+
+
+### [organicMatter](#organicMatter){#organicMatter}
+
+
+#### Definition
+a bulk biological material that consists of complex substances of mainly carbon, hydrogen, and oxygen with subordinate amounts of nitrogen, sulfur, and other elements, produced by the growth of organisms (Credit: Smol et al. 2001 Tracking Environmental Change Using Lake Sediments).
+
+
+*source: PaST*
+
+
+#### Known synonyms
+OM, organic, %_tom, OM dens
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">organic matter</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=1551) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=1551)
+
+
+---
+
+
+
+### [oxygen](#oxygen){#oxygen}
+
+
+#### Definition
+a chemical element with atomic number 8.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+%O
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">oxygen</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=1016) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=1016)
+
+
+---
+
+
+
+### [Paq](#Paq){#Paq}
+
+
+#### Definition
+an organic compound index that measures the relative predominance of submerged versus emergent aquatic plants and that is generally calculated from n-alkanes as (C23 + C25)/(C23 + C25 + C29 + C31).
+
+
+*source: PaST*
+
+
+#### Known synonyms
+
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">P-aqueous</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=1000103) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=1000103)
+
+
+---
+
+
+
+### [Pb](#Pb){#Pb}
+
+
+#### Definition
+a chemical element with atomic number 82.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+ppm Pb
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">lead</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=758) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=758)
+
+
+---
+
+
+
+### [PC1](#PC1){#PC1}
+
+
+#### Definition
+a multivariate eigenvector-based variable that is one of a set of linearly uncorrelated spatial patterns that are derived using an orthogonal transformation on a set of continuous data observations.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+droughtIndex (PC1), P1, PC1gs, PCA1
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">empirical orthogonal function</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=1368) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=1368)
+
+
+---
+
+
+
+### [PC2](#PC2){#PC2}
+
+
+#### Definition
+a multivariate eigenvector-based variable that is one of a set of linearly uncorrelated spatial patterns that are derived using an orthogonal transformation on a set of continuous data observations.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+PCA2
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">empirical orthogonal function</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=1368) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=1368)
+
+
+---
+
+
+
+### [PC3](#PC3){#PC3}
+
+
+#### Definition
+a multivariate eigenvector-based variable that is one of a set of linearly uncorrelated spatial patterns that are derived using an orthogonal transformation on a set of continuous data observations.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">empirical orthogonal function</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=1368) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=1368)
+
+
+---
+
+
+
+### [peat](#peat){#peat}
+
+
+#### Definition
+a bulk biological material that consists of an unconsolidated combustible deposit of partially carbonized plant remains, common in bogs, fens, and lakes in tundra or periglacial regions (Credit: Smol et al. 2001 Tracking Environmental Change Using Lake Sediments).
+
+
+*source: PaST*
+
+
+#### Known synonyms
+Peat, peatFlux
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">peat</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=1623) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=1623)
+
+
+---
+
+
+
+### [percent](#percent){#percent}
+
+
+#### Definition
+an ecosystem variable that quantifies some aspect of the components of an ecosystem.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+WoodyCover___
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">ecosystem quantity</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=4934) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=4934)
+
+
+---
+
+
+
+### [pH](#pH){#pH}
+
+
+#### Definition
+a measure of acidity that is calculated as the negative logarithm of the hydrogen ion concentration.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+pHsoil, soilPH
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">pH</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=569) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=569)
+
+
+---
+
+
+
+### [phosphorus](#phosphorus){#phosphorus}
+
+
+#### Definition
+a chemical element with atomic number 15.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+%P
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">phosphorus</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=1018) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=1018)
+
+
+---
+
+
+
+### [potassium](#potassium){#potassium}
+
+
+#### Definition
+a chemical element with atomic number 19.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+K_, K, KProp, %K, % K, K peak area
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">potassium</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=911) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=911)
+
+
+---
+
+
+
+### [precipitation](#precipitation){#precipitation}
+
+
+#### Definition
+the hydroclimatic rate of rain, snow, sleet or hail that falls to the ground.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+Pannom, Panom, Precipitation, MAP, P, precip51yr, precip5yr, precipitation (with H-set), precipobs, Summer precipitation, Annual Precipitation, Summer Precipitation, Winter Precipitation, Precip
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">precipitation</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=560) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=560)
+
+
+---
+
+
+
+### [productivity](#productivity){#productivity}
+
+
+#### Definition
+an ecosystem process variable that quantifies the rate of generation of biomass in an ecosystem.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">productivity</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3293) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3293)
+
+
+---
+
+
+
+### [pyrite](#pyrite){#pyrite}
+
+
+#### Definition
+a sulfide mineral with the formula FeS2.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">pyrite</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=2467) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=2467)
+
+
+---
+
+
+
+### [quartz](#quartz){#quartz}
+
+
+#### Definition
+a silicate mineral with the formula SiO2.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">quartz</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=4379) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=4379)
+
+
+---
+
+
+
+### [CIA](#CIA){#CIA}
+
+
+#### Definition
+TBD
+
+
+*source: TBD*
+
+
+#### Known synonyms
+chemical index of alteration
+
+
+#### NOAA PaST Thesaurus term
+<font size="4">This concept doesn't exist on PaST</font>
+
+
+---
+
+
+
+### [Rb](#Rb){#Rb}
+
+
+#### Definition
+a chemical element with atomic number 37.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+Rb peak area
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">rubidium</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=913) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=913)
+
+
+---
+
+
+
+### [Rb87/Sr86](#Rb87_Sr86){#Rb87_Sr86}
+
+
+#### Definition
+the ratio of a radioactive isotope of rubidium with 50 neutrons and a stable isotope of strontium with 48 neutrons.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+Rb/Sr
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">87Rb/86Sr</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=2430) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=2430)
+
+
+---
+
+
+
+### [RBAR](#RBAR){#RBAR}
+
+
+#### Definition
+an extension of the correlation coefficent that measures the common variance between series in a tree ring chronology and that is calculated by taking the average of the correlations calculated between all series.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+RBar
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">average correlation coefficient</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=2358) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=2358)
+
+
+---
+
+
+
+### [reflectance](#reflectance){#reflectance}
+
+
+#### Definition
+an electromagnetic property that measures the amount of light that reflects from the surface of a material.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+blueIntensity, redness, Brightness, X_radiograph_dark_layer, L, red_color_intensity_units
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">reflectance</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=1005) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=1005)
+
+
+---
+
+
+
+### [relativeHumidity](#relativeHumidity){#relativeHumidity}
+
+
+#### Definition
+the hydroclimate ratio of water vapor present in air to the amount of water needed to achieve saturation at the local temperature.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+RH
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">relative humidity</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=2314) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=2314)
+
+
+---
+
+
+
+### [residualChronology](#residualChronology){#residualChronology}
+
+
+#### Definition
+a tree ring chronology method that uses Program ARSTAN, developed by Dr. Edward R. Cook at the Tree-Ring Laboratory, Lamont-Doherty Earth Observatory of Columbia University, Palisades, New York (Cook 1985), in its standard configuration but additionally using autoregressive modeling to remove autocorrelation.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+residual
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">residual chronology method</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=1592) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=1592)
+
+
+---
+
+
+
+### [ringWidth](#ringWidth){#ringWidth}
+
+
+#### Definition
+a physical measurement of the width of all or of some subcomponent of one annual ring from a tree.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+trsgi, TRW
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">ring width</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3639) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3639)
+
+
+---
+
+
+
+### [salinity](#salinity){#salinity}
+
+
+#### Definition
+a solution property that is the amount of salt dissolved in a body of water.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+SAUG, SETE, SFEV, SHIV, logSalinity, sss
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">salinity</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=4396) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=4396)
+
+
+---
+
+
+
+### [sampleCount](#sampleCount){#sampleCount}
+
+
+#### Definition
+a dimensionless unit that denotes a simple count of things (Credit: Units of measurement ontology).
+
+
+*source: PaST*
+
+
+#### Known synonyms
+num_samples
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">count</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=704) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=704)
+
+
+---
+
+
+
+### [sampleID](#sampleID){#sampleID}
+
+
+#### Definition
+sampling metadata that designates either a widely-used or lab-specific name for a sample and which can contain such attributes as core, section, and/or site.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+Sample, sisalSampleID, sisalSampleIDComposite, OriginalSampleID, Sample ID, plotName, label, ID, Lab ID, sample_code, sampleNumber, DateID, Lab Code, sambleID, Sample interval, Sample label, sample_number, sampleIDa, sampleIDb, sampleIDc, samples, smapleID, sample # in section, Sample Label, sample
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">sample identification</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=1482) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=1482)
+
+
+---
+
+
+
+### [sand](#sand){#sand}
+
+
+#### Definition
+the abundance or concentration of particles with a diameter between 0.0625 and 2 millimeters.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+%_sand, x_Sand, Sand
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">sand</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=1537) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=1537)
+
+
+---
+
+
+
+### [Sc](#Sc){#Sc}
+
+
+#### Definition
+a chemical element with atomic number 21.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+ppm Sc
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">scandium</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=915) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=915)
+
+
+---
+
+
+
+### [seaIce](#seaIce){#seaIce}
+
+
+#### Definition
+a cryospheric quantity that is a measure of the extent to which the ocean surface is covered by sea ice.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+IMON1953, Sea_Ice_conc, Sea_Ice_months
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">sea ice cover</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=2317) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=2317)
+
+
+---
+
+
+
+### [sedimentationRate](#sedimentationRate){#sedimentationRate}
+
+
+#### Definition
+a formation rate that is the amount of sediment deposited during a certain time span, normally expressed as a length per time (e.g., cm/yr).
+
+
+*source: PaST*
+
+
+#### Known synonyms
+sedRate, sed rate, Mean Sedim rate, Sedim rate
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">sedimentation rate</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=1007) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=1007)
+
+
+---
+
+
+
+### [sedimentDry](#sedimentDry){#sedimentDry}
+
+
+#### Definition
+sediment from which all water has been removed.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+clastic, clastic_flux, mass dry, mass dry >1mm, mass dry 106 to 1000 um, mass dry 63 to 106 um, massDry, massDry_1mm, dry sample mass, sedimentWeight
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">dry sediment</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=1502) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=1502)
+
+
+---
+
+
+
+### [needsToBeSplitIntoMultipleColumns](#needsToBeSplitIntoMultipleColumns){#needsToBeSplitIntoMultipleColumns}
+
+
+#### Definition
+TBD
+
+
+*source: TBD*
+
+
+#### Known synonyms
+depth-range, depthRange, depth_range
+
+
+#### NOAA PaST Thesaurus term
+<font size="4">This concept doesn't exist on PaST</font>
+
+
+---
+
+
+
+### [organicNitrogen](#organicNitrogen){#organicNitrogen}
+
+
+#### Definition
+TBD
+
+
+*source: TBD*
+
+
+#### Known synonyms
+Norg
+
+
+#### NOAA PaST Thesaurus term
+<font size="4">This concept doesn't exist on PaST, yet</font>
+
+
+---
+
+
+
+### [Picea/Artemisia](#Picea_Artemisia){#Picea_Artemisia}
+
+
+#### Definition
+TBD
+
+
+*source: TBD*
+
+
+#### Known synonyms
+Picea/Artemesia
+
+
+#### NOAA PaST Thesaurus term
+<font size="4">This concept doesn't exist on PaST, yet</font>
+
+
+---
+
+
+
+### [Picea/Pinus](#Picea_Pinus){#Picea_Pinus}
+
+
+#### Definition
+TBD
+
+
+*source: TBD*
+
+
+#### Known synonyms
+
+
+
+#### NOAA PaST Thesaurus term
+<font size="4">This concept doesn't exist on PaST, yet</font>
+
+
+---
+
+
+
+### [Pinus/Artemisia](#Pinus_Artemisia){#Pinus_Artemisia}
+
+
+#### Definition
+TBD
+
+
+*source: TBD*
+
+
+#### Known synonyms
+
+
+
+#### NOAA PaST Thesaurus term
+<font size="4">This concept doesn't exist on PaST, yet</font>
+
+
+---
+
+
+
+### [Poaceae/Ephedra](#Poaceae_Ephedra){#Poaceae_Ephedra}
+
+
+#### Definition
+TBD
+
+
+*source: TBD*
+
+
+#### Known synonyms
+
+
+
+#### NOAA PaST Thesaurus term
+<font size="4">This concept doesn't exist on PaST, yet</font>
+
+
+---
+
+
+
+### [pollen](#pollen){#pollen}
+
+
+#### Definition
+TBD
+
+
+*source: TBD*
+
+
+#### Known synonyms
+
+
+
+#### NOAA PaST Thesaurus term
+<font size="4">This concept doesn't exist on PaST, yet</font>
+
+
+---
+
+
+
+### [R570/R630](#R570_R630){#R570_R630}
+
+
+#### Definition
+TBD
+
+
+*source: TBD*
+
+
+#### Known synonyms
+R570_630
+
+
+#### NOAA PaST Thesaurus term
+<font size="4">This concept doesn't exist on PaST, yet</font>
+
+
+---
+
+
+
+### [R650/R700](#R650_R700){#R650_R700}
+
+
+#### Definition
+TBD
+
+
+*source: TBD*
+
+
+#### Known synonyms
+R650_700
+
+
+#### NOAA PaST Thesaurus term
+<font size="4">This concept doesn't exist on PaST, yet</font>
+
+
+---
+
+
+
+### [RABD660670](#RABD660670){#RABD660670}
+
+
+#### Definition
+TBD
+
+
+*source: TBD*
+
+
+#### Known synonyms
+R660_670, RABD660_670, RABD660;670 index
+
+
+#### NOAA PaST Thesaurus term
+<font size="4">This concept doesn't exist on PaST, yet</font>
+
+
+---
+
+
+
+### [section](#section){#section}
+
+
+#### Definition
+TBD
+
+
+*source: TBD*
+
+
+#### Known synonyms
+core_section, Section, section name, Sec label, Section [#], Section #, Section number
+
+
+#### NOAA PaST Thesaurus term
+<font size="4">This concept doesn't exist on PaST, yet</font>
+
+
+---
+
+
+
+### [segmentLength](#segmentLength){#segmentLength}
+
+
+#### Definition
+average segment length across multiple tree ring timeseries from a site
+
+
+*source: LinkedEarth*
+
+
+#### Known synonyms
+segment
+
+
+#### NOAA PaST Thesaurus term
+<font size="4">This concept doesn't exist on PaST, yet</font>
+
+
+---
+
+
+
+### [Si](#Si){#Si}
+
+
+#### Definition
+a chemical element with atomic number 14.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+SiProp, norm Silicon, Si peak area, silicon
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">silicon</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=1649) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=1649)
+
+
+---
+
+
+
+### [Si/Al](#Si_Al){#Si_Al}
+
+
+#### Definition
+the elemental ratio of silicon to aluminum.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">silicon/aluminum</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3685) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3685)
+
+
+---
+
+
+
+### [Si/Ti](#Si_Ti){#Si_Ti}
+
+
+#### Definition
+the elemental ratio of silicon to aluminum.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+norm Si/Ti
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">silicon/aluminum</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3685) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3685)
+
+
+---
+
+
+
+### [silt](#silt){#silt}
+
+
+#### Definition
+the abundance or concentration of particles with a diameter between 0.004 and 0.0625 millimeters.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+Silt, %_silt, x_Silt
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">silt</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=1538) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=1538)
+
+
+---
+
+
+
+### [sequence](#sequence){#sequence}
+
+
+#### Definition
+TBD
+
+
+*source: TBD*
+
+
+#### Known synonyms
+Pollen Sequence
+
+
+#### NOAA PaST Thesaurus term
+<font size="4">This concept doesn't exist on PaST, yet</font>
+
+
+---
+
+
+
+### [site](#site){#site}
+
+
+#### Definition
+TBD
+
+
+*source: TBD*
+
+
+#### Known synonyms
+LakeName, Site, CoreSite, siteName, SiteName, Drilling project, Region, site/hole
+
+
+#### NOAA PaST Thesaurus term
+<font size="4">This concept doesn't exist on PaST, yet</font>
+
+
+---
+
+
+
+### [SO4](#SO4){#SO4}
+
+
+#### Definition
+an inorganic compound that has the formula SO4(2-).
+
+
+*source: PaST*
+
+
+#### Known synonyms
+SO4__
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">sulfate</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=1339) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=1339)
+
+
+---
+
+
+
+### [sodium](#sodium){#sodium}
+
+
+#### Definition
+a chemical element with atomic number 11.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+Na, Na_
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">sodium</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=920) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=920)
+
+
+---
+
+
+
+### [solarIrradiance](#solarIrradiance){#solarIrradiance}
+
+
+#### Definition
+a forcing variable that is the radiation from the sun integrated over the whole electromagnetic spectrum and over the entire solar disk. The quantity applies outside the atmosphere, by default at a distance of one astronomical unit from the sun.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+SunFrac
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">solar irradiance</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=4376) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=4376)
+
+
+---
+
+
+
+### [Sr](#Sr){#Sr}
+
+
+#### Definition
+a chemical element with atomic number 38.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+ppm Sr, SR, Sr (ppm), Sr peak area
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">strontium</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=290) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=290)
+
+
+---
+
+
+
+### [Sr/Ca](#Sr_Ca){#Sr_Ca}
+
+
+#### Definition
+the elemental ratio of strontium to calcium.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+CDR3_SrCa, WR11_SrCa, SrCa, Sr_Ca, SrCa_annual
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">strontium/calcium</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3912) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3912)
+
+
+---
+
+
+
+### [siteCount](#siteCount){#siteCount}
+
+
+#### Definition
+TBD
+
+
+*source: TBD*
+
+
+#### Known synonyms
+#ofSites
+
+
+#### NOAA PaST Thesaurus term
+<font size="4">This concept doesn't exist on PaST, yet</font>
+
+
+---
+
+
+
+### [streamflow](#streamflow){#streamflow}
+
+
+#### Definition
+the hydroclimatic rate of flow of water in streams, rivers, and other channels.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+discharge, FebQ, AprQ, AugQ, DecQ, JanQ, JulyQ, JuneQ, MarchQ, MayQ, NovQ, OctQ, SeptQ
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">streamflow</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=1396) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=1396)
+
+
+---
+
+
+
+### [sulfate](#sulfate){#sulfate}
+
+
+#### Definition
+an inorganic compound that has the formula SO4(2-).
+
+
+*source: PaST*
+
+
+#### Known synonyms
+
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">sulfate</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=794) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=794)
+
+
+---
+
+
+
+### [sulfur](#sulfur){#sulfur}
+
+
+#### Definition
+a chemical element with atomic number 16.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+S, Sulfur, Sulphur
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">sulfur</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=902) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=902)
+
+
+---
+
+
+
+### [TDS](#TDS){#TDS}
+
+
+#### Definition
+a solution property that is the combined content of all inorganic and organic substances contained in a liquid in molecular, ionized or micro-granular (colloidal sol) suspended form (Credit: Wikipedia).
+
+
+*source: PaST*
+
+
+#### Known synonyms
+
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">total dissolved solids</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3911) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3911)
+
+
+---
+
+
+
+### [temperature](#temperature){#temperature}
+
+
+#### Definition
+an earth system variable that quantifies the degree or intensity of heat present in a material.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+t-source, temperatureComposite, nonReliabletemperature, Temperature, nonReliableTemperature, deep.temp, T anomaly, TETE, TFEV, THIV, JulTanom, JulTanomLoess, Pollen_T, SST_from_Uk37, Tanom, SST-d18O, APR, AUG, Feb, FRA06 Air Temperature, Ice_core_C, interpolatedTemperature, Jan, JUL, JUN, MAAT, MAT, MAY, MeanT, MSAT, MSAT Russell 2018, nonReliableTemperature 1, nonReliabletemperature 2, nonReliableTemperature_1, nonReliableTemperature_2, nonReliableTemperature_3, nonReliableTemperature_4, NOV, OCT, PLS_C2_temp, SBT, SEP, smoothedTemp, soilTemp, SST_amj, SST_from_planktic0x2Ed18O, SST_from_planktic0x2EMgCa, SST_LDI, subT, Temp Anom 10 CI, Temp Anom 25, Temp Anom 75, Temp Anom 90, Temp Anom Best, Temp Anom FOR15, Temp Anom FRA06, Temp Anom FRA06-TR, temp2, temp2s, tempAv0, tempAv8, temperature 1, temperature 2, temperature_1, temperature_2, temperature_3, temperature_4, temperaturer2, tempK, tempNoElevCorrection, tempNoSourceCorrection, tempPartialCorrect, tempSmooth5, SST, temp, Temp, Tsource
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">temperature variable</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=4633) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=4633)
+
+
+---
+
+
+
+### [TEX86](#TEX86){#TEX86}
+
+
+#### Definition
+an organic compound index that is calculated as the ratio of different isoprenoidal glycerol dialkyl glycerol tetraethers.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+tex86l
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">tetraether index of 86 carbon atoms</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=1599) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=1599)
+
+
+---
+
+
+
+### [thickness](#thickness){#thickness}
+
+
+#### Definition
+a physical property that is the height of a layer or object from top to bottom.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+thicknessComposite, Samp thick, sample_thickness, Thickness, Sample thickness
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">thickness</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3300) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3300)
+
+
+---
+
+
+
+### [Ti](#Ti){#Ti}
+
+
+#### Definition
+a chemical element with atomic number 22.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+Ti peak area, TiProp, Tiash, Titanium, % Ti, %Ti
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">titanium</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=292) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=292)
+
+
+---
+
+
+
+### [Ti/Al](#Ti_Al){#Ti_Al}
+
+
+#### Definition
+the elemental ratio of titanium to aluminum.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">titanium/aluminum</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3687) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3687)
+
+
+---
+
+
+
+### [Ti/Ca](#Ti_Ca){#Ti_Ca}
+
+
+#### Definition
+the elemental ratio of titanium to calcium.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+ln(Ti/Ca), ln(ti/ca), log(Ti/Ca)
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">titanium/calcium</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=2426) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=2426)
+
+
+---
+
+
+
+### [TIC](#TIC){#TIC}
+
+
+#### Definition
+carbon that is derived from an inorganic source.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+% IC
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">inorganic carbon</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=996) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=996)
+
+
+---
+
+
+
+### [TiO2](#TiO2){#TiO2}
+
+
+#### Definition
+an inorganic compound that has the chemical formula TiO2.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">titanium dioxide</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=1673) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=1673)
+
+
+---
+
+
+
+### [SSS](#SSS){#SSS}
+
+
+#### Definition
+TBD
+
+
+*source: TBD*
+
+
+#### Known synonyms
+
+
+
+#### NOAA PaST Thesaurus term
+<font size="4">This concept doesn't exist on PaST, yet</font>
+
+
+---
+
+
+
+### [TOC/TN](#TOC_TN){#TOC_TN}
+
+
+#### Definition
+TBD
+
+
+*source: TBD*
+
+
+#### Known synonyms
+
+
+
+#### NOAA PaST Thesaurus term
+<font size="4">This concept doesn't exist on PaST, yet</font>
+
+
+---
+
+
+
+### [totalCarbon](#totalCarbon){#totalCarbon}
+
+
+#### Definition
+TBD
+
+
+*source: TBD*
+
+
+#### Known synonyms
+TC
+
+
+#### NOAA PaST Thesaurus term
+<font size="4">This concept doesn't exist on PaST, yet</font>
+
+
+---
+
+
+
+### [totalPollen](#totalPollen){#totalPollen}
+
+
+#### Definition
+a data type that includes measurements of plant pollen and spores.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+TotalPollen, TreePollen
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">pollen</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=4549) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=4549)
+
+
+---
+
+
+
+### [totalNitrogen](#totalNitrogen){#totalNitrogen}
+
+
+#### Definition
+TBD
+
+
+*source: TBD*
+
+
+#### Known synonyms
+TN
+
+
+#### NOAA PaST Thesaurus term
+<font size="4">This concept doesn't exist on PaST, yet</font>
+
+
+---
+
+
+
+### [Uk37](#Uk37){#Uk37}
+
+
+#### Definition
+an alkenone unsaturation index that compares the amounts of C37:2, C37:3, and C37:4 alkenones, as (C37:2-C37:4)/(C37:2+C37:3+C37:4).
+
+
+*source: PaST*
+
+
+#### Known synonyms
+UK37-SFS Values, UK37
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">alkenone unsaturation index Uk37</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=4027) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=4027)
+
+
+---
+
+
+
+### [UK37](#UK37){#UK37}
+
+
+#### Definition
+an alkenone unsaturation index that compares the amounts of C37:2, C37:3, and C37:4 alkenones, as (C37:2-C37:4)/(C37:2+C37:3+C37:4).
+
+
+*source: PaST*
+
+
+#### Known synonyms
+sumUK37
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">alkenone unsaturation index Uk37</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=4027) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=4027)
+
+
+---
+
+
+
+### [Uk37'](#Uk37'){#Uk37'}
+
+
+#### Definition
+an alkenone unsaturation index that compares the amounts of C37:2 and C37:3 alkenones, as C37:2/(C37:2+C37:3).
+
+
+*source: PaST*
+
+
+#### Known synonyms
+UK'37
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">alkenone unsaturation index Uk37 prime</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=4028) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=4028)
+
+
+---
+
+
+
+### [uncertainty](#uncertainty){#uncertainty}
+
+
+#### Definition
+the value, that when added to and subtracted from the mean estimate, creates a interval that is believed to capture the true value according to an unspecified calculation.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+C20 Total Unc, C22 Total Unc, C30 Total Unc, bubbleNumberDensityError, ageUncertainty, Age_uncertainty, Age, uncertainty (±), ageError, ageUncertaintyOther, d13CPrecision, d13CStandard, d13C Error, d13C std dev, 13CleafwaxC29-33err, d13C_error, d18OPrecision, d18OStandard, d18OPrecisionComposite, d18OStandardComposite, d18OUncertainty, d18O_error, d18O error, d18O_Grass_leaf_error, d18O_Sphagnum_error, dDUncertainty, dD error, dD unc, nC30_err, d2HleafwaxC28err, DMAR_error, DMAR_uncertainty, Epsilon C28-C22 uncertainty, Epsilon28-22uncertainty, Epsilon C28-C24 uncertainty, Epsilon Uncertainty, lakeAreaError, lakeVolumeError, precipitationUncertainty, Annual Precipitation Error, Summer Precipitation Error, Winter Precipitation error, SrCaUncertainty, temperatureUncertainty, uncertainty.temperature, uncertainty_temperature, JAS_error, T_site_std, tempError, temperature_error, JASerror, UK_error, UK37_error, A_site_std, error, uncertainty_1, uncertainty_2, uncertainty_3, uncertainty_4, error1, error2, error3, err, range, TTerror, Calibration Error, C24 Total Unc, C26 Total Unc, C28 Total Unc
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">unspecified margin of error</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=2196) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=2196)
+
+
+---
+
+
+
+### [uncertainty1s](#uncertainty1s){#uncertainty1s}
+
+
+#### Definition
+the value, that when added to and subtracted from the mean estimate, creates a confidence interval that captures the true value 68% of the time.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+C23 stdev, stdev C24, C31 δ13C std dev, C31 δ13C Std Dev, C31d13Csd, C33 δ13C Std Dev, C29 d13C std dev, C31 d13C std dev, C29 δD std dev, dD std dev, C23 δD std dev, C24 d2H stdev, C25 δD std dev, C29 δD Std Dev, C29 δD std dev [±], C31 δD std dev, C31 δD Std Dev, C33 δD Std Dev, C29 dD std dev, StDev C28 dD, d excess stdev, MBTsd, Mg_Ca_sd, MAP1-sigma, precipitation std, precipitation std (with H-set), WMT1-sigma, U371sigmaUncertainty-, CBTsd, stdev weighted average, SD_anomaly, std, stdDev, stdDev___, SE, SD, stdevC24, stdevC26, stdevC28, from_68, 2H_dino_1sig, to_68, stdevC25, stdevC27, stdevC29, stdevC31, sd, C30 dD std dev, C31 dD std dev, C25 stdev, stdev C26, C27 stdev, stdev C28, C29 stdev, d13C_C31_sd, C29 δ13C std dev, C29 δ13C Std Dev, C29 δ13C std dev [±]
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">68% confidence interval margin of error</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3444) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3444)
+
+
+---
+
+
+
+### [uncertainty2s](#uncertainty2s){#uncertainty2s}
+
+
+#### Definition
+the value, that when added to and subtracted from the mean estimate, creates a confidence interval that captures the true value 95% of the time.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+MAP2-sigma, WMT2-sigma, from_95, 2 sigma, to_95
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">95% confidence interval margin of error</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=708) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=708)
+
+
+---
+
+
+
+### [uncertaintyHigh](#uncertaintyHigh){#uncertaintyHigh}
+
+
+#### Definition
+the upper (maximum) bound of the interval believed to capture the true value according to an unspecified calculation.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+SunFracMax, Acc max, ageOld, agelinInterpUncertaintyHigh, ageBchronUncertaintyHigh, agecopRaUncertaintyHigh, ageStalAgeUncertaintyHigh, ageBaconUncertaintyHigh, agelinRegUncertaintyHigh, ageOxCalUncertaintyHigh, ageUncertaintyHigh, AgeOld, age_max, cal_age_range_old, error_older_age, Age_max, max age, max Age, maxAge, age max, age_old, Chironomid d18O max, d18OUncertaintyHigh, D18O+, D13C+, D18Oivc+, ∆RH_upper, UncertaintyDust0x5B0x250x5D0x28Plus0x29, MaxElevM, meltUncertaintyHigh, lakeLevelMax, lakeLevelHi, Pmax, PanomMaxUncertainty, PannomMaxUncertainty, MAP_max, precip+, PannomMax, PanomMax, max RH, SAUG_s, SETE_s, SFEV_s, SHIV_s, IMON1953_s, TETE_s, TFEV_s, THIV_s, tempErrorUpper, JAS+, MAT_max, MATmax, temperatureWarm, tempErrorPlus, WMT_max, WMTmax, TreeCover_max, ageMax, errorUp, errorUp2, uncertainty_plus, upper band, upperErr, upperErr2, year_old
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">unspecified error upper bound</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=2197) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=2197)
+
+
+---
+
+
+
+### [uncertaintyHigh1s](#uncertaintyHigh1s){#uncertaintyHigh1s}
+
+
+#### Definition
+the upper (maximum) bound of the confidence interval that captures the true value 68% of the time.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+age_y_bp+1s, Q0.84, Q0.84, ice volume adjusted, Q0.84, ice volume and vegetation adjusted, dDP_1s_upper, deltaT + 1 sigma, p+SD, P+SD, precip_1s_uppper, T+SD, Temperature 1 sigma range high, T.PlusSD, precip_1s_upper
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">68% confidence interval upper bound</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=1371) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=1371)
+
+
+---
+
+
+
+### [uncertaintyHigh50](#uncertaintyHigh50){#uncertaintyHigh50}
+
+
+#### Definition
+the upper (maximum) bound of the confidence interval that captures the true value 50% of the time.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+0.25_quantile_dust_flux, Precip dD 75 CI, 0.75_quantile_dust_flux
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">50% confidence interval upper bound</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=5831) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=5831)
+
+
+---
+
+
+
+### [uncertaintyHigh90](#uncertaintyHigh90){#uncertaintyHigh90}
+
+
+#### Definition
+the upper (maximum) bound of the confidence interval that captures the true value 90% of the time.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+pcpanomCI95
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">90% confidence interval upper bound</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=496) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=496)
+
+
+---
+
+
+
+### [uncertaintyHigh95](#uncertaintyHigh95){#uncertaintyHigh95}
+
+
+#### Definition
+the upper (maximum) bound of the confidence interval that captures the true value 95% of the time.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+age_97.5, age_calBP95+, 95UpperAge, age95conMax, max_age_95, maxAge95, d13C_97.5, d18O_97.5, Q0.975, Q0.975, ice volume adjusted, Q0.975, ice volume and vegetation adjusted, 0.975_quantile_dust_flux, upper95
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">95% confidence interval upper bound</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=494) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=494)
+
+
+---
+
+
+
+### [uncertaintyLow](#uncertaintyLow){#uncertaintyLow}
+
+
+#### Definition
+the lower (minimum) bound of the interval believed to capture the true value according to an unspecified calculation.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+lowerErr, Acc min, ageMin, agelinInterpUncertaintyLow, ageBchronUncertaintyLow, agecopRaUncertaintyLow, ageYoung, ageStalAgeUncertaintyLow, ageBaconUncertaintyLow, agelinRegUncertaintyLow, ageOxCalUncertaintyLow, ageUncertaintyLow, age_min, cal_age_range_young, D18O-, D13C-, D18Oivc-, error_younger_age, Age_min, min age, min Age, minAge, age min, age_young, Chironomid d18O min, d18OUncertaintyLow, ∆RH_lower, UncertaintyDust0x5B0x250x5D0x28Minus0x29, MinElevM, meltUncertaintyLow, lakeLevelMin, lakeLevelLo, Pmin, PanomMinUncertainty, PannomMinUncertainty, MAP_min, precip-, PannomMin, PanomMin, min RH, SAUG_i, SETE_i, SFEV_i, SHIV_i, IMON1953_i, TETE_i, TFEV_i, THIV_i, tempErrorLower, JAS-, MAT_min, MATmin, temperatureCold, WMT_min, WMTmin, TreeCover_min, errorLow, errorLow2, undertainty_minus, yearBottom, SunFracMin, yearTop
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">unspecified error lower bound</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=2198) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=2198)
+
+
+---
+
+
+
+### [uncertaintyLow1s](#uncertaintyLow1s){#uncertaintyLow1s}
+
+
+#### Definition
+the lower (minimum) bound of the confidence interval that captures the true value 68% of the time.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+age_y_bp-1s, Q0.16, Q0.16, ice volume adjusted, Q0.16, ice volume and vegetation adjusted, dDP_1s_lower, deltaT - 1 sigma, precip_1s_lower, p-SD, P-SD, T.MinusSD, T-SD, Temperature 1 sigma range low
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">68% confidence interval lower bound</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=1370) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=1370)
+
+
+---
+
+
+
+### [uncertaintyLow95](#uncertaintyLow95){#uncertaintyLow95}
+
+
+#### Definition
+the lower (minimum) bound of the confidence interval that captures the true value 95% of the time.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+lowerErr2, pcpanomCI5, age_2.5, age2.5, age_calBP95-, 95LowerAge, age95ConfMin, minAge95, d13C_2.5, d18O_2.5, Q0.025, Q0.025, ice volume adjusted, Q0.025, ice volume and vegetation adjusted, Precip dD 25 CI, 0.025_quantile_dust_flux, lower95
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">95% confidence interval lower bound</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=495) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=495)
+
+
+---
+
+
+
+### [uncertaintyLow90](#uncertaintyLow90){#uncertaintyLow90}
+
+
+#### Definition
+the lower (minimum) bound of the confidence interval that captures the true value 90% of the time.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+age_5thpercentile, age_95thpercentile, age97.5
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">90% confidence interval lower bound</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=497) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=497)
+
+
+---
+
+
+
+### [upwelling](#upwelling){#upwelling}
+
+
+#### Definition
+a circulation index that is a measure of the volume of water upwelling in the ocean.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">Upwelling Index</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=4771) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=4771)
+
+
+---
+
+
+
+### [treeCover](#treeCover){#treeCover}
+
+
+#### Definition
+TBD
+
+
+*source: TBD*
+
+
+#### Known synonyms
+TreeCover
+
+
+#### NOAA PaST Thesaurus term
+<font size="4">This concept doesn't exist on PaST, yet</font>
+
+
+---
+
+
+
+### [uranium](#uranium){#uranium}
+
+
+#### Definition
+a chemical element with atomic number 92.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+U
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">uranium</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=928) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=928)
+
+
+---
+
+
+
+### [V](#V){#V}
+
+
+#### Definition
+a chemical element with atomic number 23.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+ppm V
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">vanadium</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=930) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=930)
+
+
+---
+
+
+
+### [V/Al](#V_Al){#V_Al}
+
+
+#### Definition
+the elemental ratio of vanadium to aluminum.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">vanadium/aluminum</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=2428) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=2428)
+
+
+---
+
+
+
+### [varveThickness](#varveThickness){#varveThickness}
+
+
+#### Definition
+the thickness of a sublayer of or an entire annually-resolved varve in a sediment sequence.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+Varve thickness, Varve_width
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">varve thickness</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=1630) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=1630)
+
+
+---
+
+
+
+### [volume](#volume){#volume}
+
+
+#### Definition
+a physical property that is a measure of the three-dimensional space filled by a sample.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+Samp vol
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">volume</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=608) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=608)
+
+
+---
+
+
+
+### [waterContent](#waterContent){#waterContent}
+
+
+#### Definition
+a measure of the amount of water that is contained within a material, often expressed as a weight percent.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">water content</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3313) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3313)
+
+
+---
+
+
+
+### [waterTableDepth](#waterTableDepth){#waterTableDepth}
+
+
+#### Definition
+a geographic variable that quantifies the depth from the land surface to the upper surface of the zone of saturation in the soil.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+Water Table, Water Table Detrended, water wm, water_table_depth, Water_tableDepth
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">water table depth</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=1398) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=1398)
+
+
+---
+
+
+
+### [wetBulkDensity](#wetBulkDensity){#wetBulkDensity}
+
+
+#### Definition
+TBD
+
+
+*source: TBD*
+
+
+#### Known synonyms
+WetBD
+
+
+#### NOAA PaST Thesaurus term
+<font size="4">This concept doesn't exist on PaST, yet</font>
+
+
+---
+
+
+
+### [Y](#Y){#Y}
+
+
+#### Definition
+a chemical element with atomic number 39.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+ppm Y
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">yttrium</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=293) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=293)
+
+
+---
+
+
+
+### [year](#year){#year}
+
+
+#### Definition
+a duration unit that is equal to 12 months which in science is taken to be equal to 365.25 days (Credit: Units of measurement ontology).
+
+
+*source: PaST*
+
+
+#### Known synonyms
+Year, year start, age_CE, Recon0x2EDate, yearRounded, yearEnsemble, Year b2k
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">year</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=273) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=273)
+
+
+---
+
+
+
+### [Zn](#Zn){#Zn}
+
+
+#### Definition
+a chemical element with atomic number 30.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+ppm Zn
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">zinc</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=315) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=315)
+
+
+---
+
+
+
+### [Zr](#Zr){#Zr}
+
+
+#### Definition
+a chemical element with atomic number 40.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+ppm Zr
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">zirconium</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=1022) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=1022)
+
+
+---
+
+
+
+### [Zr/Al](#Zr_Al){#Zr_Al}
+
+
+#### Definition
+the elemental ratio of zirconium to aluminum.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">zirconium/aluminum</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3689) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3689)
+
+
+---
+
+
+
+### [zscore](#zscore){#zscore}
+
+
+#### Definition
+sampling metadata that identifies the elevation, either above or below sea level, at which a sample was collected or a reconstruction was generated.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+Z_score
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">collection elevation</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=537) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=537)
+
+
+---
+

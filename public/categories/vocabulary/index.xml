@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>vocabulary on lipdverse</title>
+    <link>https://lipdverse.org/categories/vocabulary/</link>
+    <description>Recent content in vocabulary on lipdverse</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://lipdverse.org/categories/vocabulary/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>archiveType</title>
+      <link>https://lipdverse.org/vocabulary/archivetype/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lipdverse.org/vocabulary/archivetype/</guid>
+      <description>The physical medium in which the response of a proxy sensor to environmental forcing is recorded and upon which the proxy measurements were made.</description>
+    </item>
+    
+    <item>
+      <title>interpretation_seasonality</title>
+      <link>https://lipdverse.org/vocabulary/interpretation_seasonality/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lipdverse.org/vocabulary/interpretation_seasonality/</guid>
+      <description>The part of the year that proxy is sensitive to environmental or climatic conditions</description>
+    </item>
+    
+    <item>
+      <title>interpretation_variable</title>
+      <link>https://lipdverse.org/vocabulary/interpretation_variable/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lipdverse.org/vocabulary/interpretation_variable/</guid>
+      <description>The phenomenon that drove variability in this measured or inferred variable at the column level</description>
+    </item>
+    
+    <item>
+      <title>paleoData_proxy</title>
+      <link>https://lipdverse.org/vocabulary/paleodata_proxy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lipdverse.org/vocabulary/paleodata_proxy/</guid>
+      <description>Physical, chemical, and/or biological systems or components that react to environmental or climatic conditions, and imprint onto the archive.</description>
+    </item>
+    
+    <item>
+      <title>paleoData_proxyGeneral</title>
+      <link>https://lipdverse.org/vocabulary/paleodata_proxygeneral/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lipdverse.org/vocabulary/paleodata_proxygeneral/</guid>
+      <description>A generalized grouping of paleoData_proxy</description>
+    </item>
+    
+    <item>
+      <title>paleoData_units</title>
+      <link>https://lipdverse.org/vocabulary/paleodata_units/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lipdverse.org/vocabulary/paleodata_units/</guid>
+      <description>The units of a measured or inferred variable at the column level.</description>
+    </item>
+    
+    <item>
+      <title>paleoData_variableName</title>
+      <link>https://lipdverse.org/vocabulary/paleodata_variablename/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lipdverse.org/vocabulary/paleodata_variablename/</guid>
+      <description>The name of a measured or inferred variable at the column level.</description>
+    </item>
+    
+  </channel>
+</rss>

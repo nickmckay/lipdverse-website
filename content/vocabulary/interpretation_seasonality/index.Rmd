@@ -1,0 +1,3270 @@
+---
+title: interpretation_seasonality
+categories: [vocabulary]
+summary: The part of the year that proxy is sensitive to environmental or climatic conditions
+---
+
+
+# interpretation_seasonality
+
+The part of the year that proxy is sensitive to environmental or climatic conditions
+
+
+---
+
+
+
+### [Annual](#Annual){#Annual}
+
+
+#### Definition
+a reconstructed seasonality that consists of an average of twelve consecutive months of the calendar year.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+1,2,3,4,5,6,7,8,9,10,11,12, annual, 1 2 3 4 5 6 7 8 9 10 11 12, warmest + coldest months, not applicable (always), annual mean, annual calendar year (but 80% of precipitation from Nov to May), coldest + warmest month, warmest + coldest month, year round, Year-round, years, 1,2,3,4,5,6,7,8,9,10,11,117, 1,2,3,4,5,6,7,8,9,10,11,122, 1,2,3,4,5,6,7,8,9,10,11,138, 1,2,3,4,5,6,7,8,9,10,11,158, 1,2,3,4,5,6,7,8,9,10,11,190, 1,2,3,4,5,6,7,8,9,10,11,229, 1,2,3,4,5,6,7,8,9,10,11,291, 1,2,3,4,5,6,7,8,9,10,11,434, 1,2,3,4,5,6,7,8,9,10,11,464, 1,2,3,4,5,6,7,8,9,10,11,588, 1,2,3,4,5,6,7,8,9,10,11,646, 1,2,3,4,5,6,7,8,9,10,11,706, 12 1 2; 6 7 8, annual (*but recently would prob be interpreted as summer-biased), coldest month + summer, late summer/winter lake water (summer-biased mean annual precip), Mean annual (weighted toward OND and MAM), multi-annual, summer + winter, summer-biased/annual?, warmest + coldest, warmest month + winter, warmest month; coldest month, Winter, summer temperature
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">annual</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=35) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=35)
+
+
+---
+
+
+
+### [Apr](#Apr){#Apr}
+
+
+#### Definition
+a one month period that spans the month of April.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+4
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">Apr</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=80) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=80)
+
+
+---
+
+
+
+### [Apr-Aug](#Apr-Aug){#Apr-Aug}
+
+
+#### Definition
+a five month period that spans the months of April to August.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+April-May, June-August
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">Apr-Aug</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3324) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3324)
+
+
+---
+
+
+
+### [Apr-Dec](#Apr-Dec){#Apr-Dec}
+
+
+#### Definition
+a nine month period that spans the months of April to December.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+4 5 6 7 8 9 10 12
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">Apr-Dec</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3365) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3365)
+
+
+---
+
+
+
+### [Apr-Feb](#Apr-Feb){#Apr-Feb}
+
+
+#### Definition
+an eleven month period that spans the months of April to February.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">Apr-Feb</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3389) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3389)
+
+
+---
+
+
+
+### [Apr-Jan](#Apr-Jan){#Apr-Jan}
+
+
+#### Definition
+a ten month period that spans the months of April to January.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">Apr-Jan</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3377) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3377)
+
+
+---
+
+
+
+### [Apr-Jul](#Apr-Jul){#Apr-Jul}
+
+
+#### Definition
+a four month period that spans the months of April to July.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+4 5 6 7, AMJJ, spring-summer (April-July)
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">Apr-Jul</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=44) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=44)
+
+
+---
+
+
+
+### [Apr-Jun](#Apr-Jun){#Apr-Jun}
+
+
+#### Definition
+a three month period that spans the months of April to June.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+4 5 2006
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">Apr-Jun</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=14) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=14)
+
+
+---
+
+
+
+### [Apr-Mar](#Apr-Mar){#Apr-Mar}
+
+
+#### Definition
+TBD
+
+
+*source: TBD*
+
+
+#### Known synonyms
+April/June to April/March
+
+
+#### NOAA PaST Thesaurus term
+<font size="4">This concept doesn't exist on PaST</font>
+
+
+---
+
+
+
+### [Apr-May](#Apr-May){#Apr-May}
+
+
+#### Definition
+a two month period that spans the months of April and May.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">Apr-May</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=68) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=68)
+
+
+---
+
+
+
+### [Apr-Nov](#Apr-Nov){#Apr-Nov}
+
+
+#### Definition
+an eight month period that spans the months of April to November.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">Apr-Nov</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3353) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3353)
+
+
+---
+
+
+
+### [Apr-Oct](#Apr-Oct){#Apr-Oct}
+
+
+#### Definition
+a seven month period that spans the months of April to October.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+4,5,6,7,8,9,10, AMJJASO
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">Apr-Oct</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3337) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3337)
+
+
+---
+
+
+
+### [Apr-Sep](#Apr-Sep){#Apr-Sep}
+
+
+#### Definition
+a six month period that spans the months of April to September.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+4,5,6,7,8,9, AMJJAS, 4 5 6 7 8 9
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">Apr-Sep</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=56) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=56)
+
+
+---
+
+
+
+### [Aug](#Aug){#Aug}
+
+
+#### Definition
+a one month period that spans the month of August.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+8
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">Aug</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=84) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=84)
+
+
+---
+
+
+
+### [Aug-Apr](#Aug-Apr){#Aug-Apr}
+
+
+#### Definition
+a nine month period that spans the months of August to April.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">Aug-Apr</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3369) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3369)
+
+
+---
+
+
+
+### [Aug-Dec](#Aug-Dec){#Aug-Dec}
+
+
+#### Definition
+a five month period that spans the months of August to December.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">Aug-Dec</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3328) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3328)
+
+
+---
+
+
+
+### [Aug-Feb](#Aug-Feb){#Aug-Feb}
+
+
+#### Definition
+a seven month period that spans the months of August to February.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">Aug-Feb</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3341) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3341)
+
+
+---
+
+
+
+### [Aug-Jan](#Aug-Jan){#Aug-Jan}
+
+
+#### Definition
+a six month period that spans the months of August to January.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">Aug-Jan</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=60) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=60)
+
+
+---
+
+
+
+### [Aug-Jul](#Aug-Jul){#Aug-Jul}
+
+
+#### Definition
+TBD
+
+
+*source: TBD*
+
+
+#### Known synonyms
+-12 -11 -10 -9 -8 1 2 3 4 5 6 7, thermal year (Aug-Jul) (but 80% of precipitation from Nov to May)
+
+
+#### NOAA PaST Thesaurus term
+<font size="4">This concept doesn't exist on PaST</font>
+
+
+---
+
+
+
+### [Aug-Jun](#Aug-Jun){#Aug-Jun}
+
+
+#### Definition
+an eleven month period that spans the months of August to June.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">Aug-Jun</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3393) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3393)
+
+
+---
+
+
+
+### [Aug-Mar](#Aug-Mar){#Aug-Mar}
+
+
+#### Definition
+an eight month period that spans the months of August to March.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">Aug-Mar</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3357) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3357)
+
+
+---
+
+
+
+### [Aug-May](#Aug-May){#Aug-May}
+
+
+#### Definition
+a ten month period that spans the months of August to May.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">Aug-May</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3381) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3381)
+
+
+---
+
+
+
+### [Aug-Nov](#Aug-Nov){#Aug-Nov}
+
+
+#### Definition
+a four month period that spans the months of August to November.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">Aug-Nov</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=48) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=48)
+
+
+---
+
+
+
+### [Aug-Oct](#Aug-Oct){#Aug-Oct}
+
+
+#### Definition
+a three month period that spans the months of August to October.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">Aug-Oct</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=18) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=18)
+
+
+---
+
+
+
+### [Aug-Sep](#Aug-Sep){#Aug-Sep}
+
+
+#### Definition
+a two month period that spans the months of August and September.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">Aug-Sep</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=72) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=72)
+
+
+---
+
+
+
+### [Coldest Month](#Coldest_Month){#Coldest_Month}
+
+
+#### Definition
+a non-calendric period that encompasses the period during which rainfall and temperature allow plants to grow, without specification of certain days or months.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+coldest month, coldest
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">growing season</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3398) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3398)
+
+
+---
+
+
+
+### [Dec-Apr](#Dec-Apr){#Dec-Apr}
+
+
+#### Definition
+a five month period that spans the months of December to April.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+12,1,2,3,4
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">Dec-Apr</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3332) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3332)
+
+
+---
+
+
+
+### [Dec-Aug](#Dec-Aug){#Dec-Aug}
+
+
+#### Definition
+a nine month period that spans the months of December to August.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">Dec-Aug</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3373) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3373)
+
+
+---
+
+
+
+### [Dec-Feb](#Dec-Feb){#Dec-Feb}
+
+
+#### Definition
+a three month period that spans the months of December to February.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+12,1,2, DJF, -12 1 2, 1,2,12
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">Dec-Feb</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=22) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=22)
+
+
+---
+
+
+
+### [Dec-Jan](#Dec-Jan){#Dec-Jan}
+
+
+#### Definition
+a two month period that spans the months of December and January.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">Dec-Jan</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=76) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=76)
+
+
+---
+
+
+
+### [Dec-Jul](#Dec-Jul){#Dec-Jul}
+
+
+#### Definition
+an eight month period that spans the months of December to July.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">Dec-Jul</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3361) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3361)
+
+
+---
+
+
+
+### [Dec-Jun](#Dec-Jun){#Dec-Jun}
+
+
+#### Definition
+a seven month period that spans the months of December to June.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">Dec-Jun</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3345) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3345)
+
+
+---
+
+
+
+### [Dec-Mar](#Dec-Mar){#Dec-Mar}
+
+
+#### Definition
+a four month period that spans the months of December to March.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+12,1,2,3, -12 1 2 3, December - March (monsoon season)
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">Dec-Mar</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=52) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=52)
+
+
+---
+
+
+
+### [Dec-May](#Dec-May){#Dec-May}
+
+
+#### Definition
+a six month period that spans the months of December to May.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+DJFMAM
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">Dec-May</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=64) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=64)
+
+
+---
+
+
+
+### [Dec-Oct](#Dec-Oct){#Dec-Oct}
+
+
+#### Definition
+an eleven month period that spans the months of December to October.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">Dec-Oct</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3397) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3397)
+
+
+---
+
+
+
+### [Dec-Sep](#Dec-Sep){#Dec-Sep}
+
+
+#### Definition
+a ten month period that spans the months of December to September.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">Dec-Sep</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3385) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3385)
+
+
+---
+
+
+
+### [Fall](#Fall){#Fall}
+
+
+#### Definition
+a non-calendric period that encompasses the local period of transition between summer and winter without specification of certain days or months.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+Autumn
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">fall</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=1242) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=1242)
+
+
+---
+
+
+
+### [Feb](#Feb){#Feb}
+
+
+#### Definition
+a one month period that spans the month of February.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+2
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">Feb</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=78) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=78)
+
+
+---
+
+
+
+### [Feb-Apr](#Feb-Apr){#Feb-Apr}
+
+
+#### Definition
+a three month period that spans the months of February to April.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">Feb-Apr</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=12) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=12)
+
+
+---
+
+
+
+### [Feb-Aug](#Feb-Aug){#Feb-Aug}
+
+
+#### Definition
+a seven month period that spans the months of February to August.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+2 3 4 5 6 7 8, Feb
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">Feb-Aug</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3335) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3335)
+
+
+---
+
+
+
+### [Feb-Dec](#Feb-Dec){#Feb-Dec}
+
+
+#### Definition
+an eleven month period that spans the months of February to December.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">Feb-Dec</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3387) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3387)
+
+
+---
+
+
+
+### [Feb-Jul](#Feb-Jul){#Feb-Jul}
+
+
+#### Definition
+a six month period that spans the months of February to July.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">Feb-Jul</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=54) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=54)
+
+
+---
+
+
+
+### [Feb-Jun](#Feb-Jun){#Feb-Jun}
+
+
+#### Definition
+a five month period that spans the months of February to June.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">Feb-Jun</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3322) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3322)
+
+
+---
+
+
+
+### [Feb-Mar](#Feb-Mar){#Feb-Mar}
+
+
+#### Definition
+a two month period that spans the months of February and March.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">Feb-Mar</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=66) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=66)
+
+
+---
+
+
+
+### [Feb-May](#Feb-May){#Feb-May}
+
+
+#### Definition
+a four month period that spans the months of February to May.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">Feb-May</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=42) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=42)
+
+
+---
+
+
+
+### [Feb-Nov](#Feb-Nov){#Feb-Nov}
+
+
+#### Definition
+a ten month period that spans the months of February to November.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">Feb-Nov</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3375) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3375)
+
+
+---
+
+
+
+### [Feb-Oct](#Feb-Oct){#Feb-Oct}
+
+
+#### Definition
+a nine month period that spans the months of February to October.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">Feb-Oct</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3363) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3363)
+
+
+---
+
+
+
+### [Feb-Sep](#Feb-Sep){#Feb-Sep}
+
+
+#### Definition
+an eight month period that spans the months of February to September.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">Feb-Sep</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3351) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3351)
+
+
+---
+
+
+
+### [Growing Season](#Growing_Season){#Growing_Season}
+
+
+#### Definition
+a non-calendric period that is defined as the coldest month of the year, with the actual calendar month being specific to a given geographic location and era.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+growing season, growing season? (not stated), growth season, mainly growing season, with potential addition effects of snowmelt following wet winters
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">coldest month</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3399) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3399)
+
+
+---
+
+
+
+### [Jan](#Jan){#Jan}
+
+
+#### Definition
+a one month period that spans the month of January.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+1
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">Jan</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=77) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=77)
+
+
+---
+
+
+
+### [Jan-Apr](#Jan-Apr){#Jan-Apr}
+
+
+#### Definition
+a four month period that spans the months of January to April.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+January, February, March, April, JFMA
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">Jan-Apr</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=41) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=41)
+
+
+---
+
+
+
+### [Jan-Aug](#Jan-Aug){#Jan-Aug}
+
+
+#### Definition
+an eight month period that spans the months of January to August.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">Jan-Aug</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3350) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3350)
+
+
+---
+
+
+
+### [Jan-Feb](#Jan-Feb){#Jan-Feb}
+
+
+#### Definition
+a two month period that spans the months of January and February.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">Jan-Feb</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=65) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=65)
+
+
+---
+
+
+
+### [Jan-Jul](#Jan-Jul){#Jan-Jul}
+
+
+#### Definition
+a seven month period that spans the months of January to July.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+JFMAMJJ
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">Jan-Jul</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3334) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3334)
+
+
+---
+
+
+
+### [Jan-Jun](#Jan-Jun){#Jan-Jun}
+
+
+#### Definition
+a six month period that spans the months of January to June.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+January-June (spring)
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">Jan-Jun</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=53) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=53)
+
+
+---
+
+
+
+### [Jan-Mar](#Jan-Mar){#Jan-Mar}
+
+
+#### Definition
+a three month period that spans the months of January to March.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+1 2 2003
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">Jan-Mar</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=11) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=11)
+
+
+---
+
+
+
+### [Jan-May](#Jan-May){#Jan-May}
+
+
+#### Definition
+a five month period that spans the months of January to May.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">Jan-May</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3321) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3321)
+
+
+---
+
+
+
+### [Jan-Nov](#Jan-Nov){#Jan-Nov}
+
+
+#### Definition
+an eleven month period that spans the months of January to November.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">Jan-Nov</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3386) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3386)
+
+
+---
+
+
+
+### [Jan-Oct](#Jan-Oct){#Jan-Oct}
+
+
+#### Definition
+a ten month period that spans the months of January to October.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">Jan-Oct</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3374) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3374)
+
+
+---
+
+
+
+### [Jan-Sep](#Jan-Sep){#Jan-Sep}
+
+
+#### Definition
+a nine month period that spans the months of January to September.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">Jan-Sep</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3362) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3362)
+
+
+---
+
+
+
+### [Jul](#Jul){#Jul}
+
+
+#### Definition
+a one month period that spans the month of July.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+July, 7
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">Jul</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=83) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=83)
+
+
+---
+
+
+
+### [Jul-Apr](#Jul-Apr){#Jul-Apr}
+
+
+#### Definition
+a ten month period that spans the months of July to April.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">Jul-Apr</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3380) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3380)
+
+
+---
+
+
+
+### [Jul-Aug](#Jul-Aug){#Jul-Aug}
+
+
+#### Definition
+a two month period that spans the months of July and August.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">Jul-Aug</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=71) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=71)
+
+
+---
+
+
+
+### [Jul-Dec](#Jul-Dec){#Jul-Dec}
+
+
+#### Definition
+a six month period that spans the months of July to December.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+7 8 9 10 11 12
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">Jul-Dec</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=59) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=59)
+
+
+---
+
+
+
+### [Jul-Feb](#Jul-Feb){#Jul-Feb}
+
+
+#### Definition
+an eight month period that spans the months of July to February.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">Jul-Feb</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3356) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3356)
+
+
+---
+
+
+
+### [Jul-Jan](#Jul-Jan){#Jul-Jan}
+
+
+#### Definition
+a seven month period that spans the months of July to January.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">Jul-Jan</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3340) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3340)
+
+
+---
+
+
+
+### [Jul-Jun](#Jul-Jun){#Jul-Jun}
+
+
+#### Definition
+TBD
+
+
+*source: TBD*
+
+
+#### Known synonyms
+-12 -11 -10 -9 -8 -7 1 2 3 4 5 6
+
+
+#### NOAA PaST Thesaurus term
+<font size="4">This concept doesn't exist on PaST</font>
+
+
+---
+
+
+
+### [Jul-Mar](#Jul-Mar){#Jul-Mar}
+
+
+#### Definition
+a nine month period that spans the months of July to March.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">Jul-Mar</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3368) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3368)
+
+
+---
+
+
+
+### [Jul-May](#Jul-May){#Jul-May}
+
+
+#### Definition
+an eleven month period that spans the months of July to May.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">Jul-May</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3392) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3392)
+
+
+---
+
+
+
+### [Jul-Nov](#Jul-Nov){#Jul-Nov}
+
+
+#### Definition
+a five month period that spans the months of July to November.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">Jul-Nov</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3327) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3327)
+
+
+---
+
+
+
+### [Jul-Oct](#Jul-Oct){#Jul-Oct}
+
+
+#### Definition
+a four month period that spans the months of July to October.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+7,8,9,10
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">Jul-Oct</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=47) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=47)
+
+
+---
+
+
+
+### [Jul-Sep](#Jul-Sep){#Jul-Sep}
+
+
+#### Definition
+a three month period that spans the months of July to September.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+7 8 2009, 7,8,9, ((( 7 8 2009 ))) null /// 7 8 9, JAS, summer (JAS)
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">Jul-Sep</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=17) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=17)
+
+
+---
+
+
+
+### [Jun](#Jun){#Jun}
+
+
+#### Definition
+a one month period that spans the month of June.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+6
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">Jun</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=82) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=82)
+
+
+---
+
+
+
+### [Jun-Apr](#Jun-Apr){#Jun-Apr}
+
+
+#### Definition
+an eleven month period that spans the months of June to April.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">Jun-Apr</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3391) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3391)
+
+
+---
+
+
+
+### [Jun-Aug](#Jun-Aug){#Jun-Aug}
+
+
+#### Definition
+a three month period that spans the months of June to August.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+JJA, 6,7,8, 6 7 2008, ((( 6 7 2008 ))) null /// 6 7 8, summer (June-August), ((( 6 7 2008 ))) 39606 /// 6 7 8, June,July, August, Summer (JJA), summer (JJA)
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">Jun-Aug</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=16) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=16)
+
+
+---
+
+
+
+### [Jun-Dec](#Jun-Dec){#Jun-Dec}
+
+
+#### Definition
+a seven month period that spans the months of June to December.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">Jun-Dec</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3339) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3339)
+
+
+---
+
+
+
+### [Jun-Feb](#Jun-Feb){#Jun-Feb}
+
+
+#### Definition
+a nine month period that spans the months of June to February.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">Jun-Feb</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3367) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3367)
+
+
+---
+
+
+
+### [Jun-Jan](#Jun-Jan){#Jun-Jan}
+
+
+#### Definition
+an eight month period that spans the months of June to January.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">Jun-Jan</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3355) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3355)
+
+
+---
+
+
+
+### [Jun-Jul](#Jun-Jul){#Jun-Jul}
+
+
+#### Definition
+a two month period that spans the months of June and July.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+6 7, 6,7, June-July minimum
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">Jun-Jul</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=70) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=70)
+
+
+---
+
+
+
+### [Jun-Mar](#Jun-Mar){#Jun-Mar}
+
+
+#### Definition
+a ten month period that spans the months of June to March.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">Jun-Mar</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3379) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3379)
+
+
+---
+
+
+
+### [Jun-Nov](#Jun-Nov){#Jun-Nov}
+
+
+#### Definition
+a six month period that spans the months of June to November.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+JJASON
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">Jun-Nov</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=58) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=58)
+
+
+---
+
+
+
+### [Jun-Oct](#Jun-Oct){#Jun-Oct}
+
+
+#### Definition
+a five month period that spans the months of June to October.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+6,7,8,9,10, JJASO
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">Jun-Oct</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3326) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3326)
+
+
+---
+
+
+
+### [Jun-Sep](#Jun-Sep){#Jun-Sep}
+
+
+#### Definition
+a four month period that spans the months of June to September.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+JJAS, 6,7,8,9, 6 7 8 9, summer (June to September), growing season/JJAS, June, July, August, September, summer (JJAS), ((( warm season (June-Sept) ))) JJAS /// JJAS, June,July, August, September
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">Jun-Sep</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=46) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=46)
+
+
+---
+
+
+
+### [Mar](#Mar){#Mar}
+
+
+#### Definition
+a one month period that spans the month of March.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">Mar</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=79) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=79)
+
+
+---
+
+
+
+### [Mar-Apr](#Mar-Apr){#Mar-Apr}
+
+
+#### Definition
+a two month period that spans the months of March and April.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">Mar-Apr</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=67) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=67)
+
+
+---
+
+
+
+### [Mar-Aug](#Mar-Aug){#Mar-Aug}
+
+
+#### Definition
+a six month period that spans the months of March to August.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+3 4 5 6 7 8, 3,4,5,6,7,8
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">Mar-Aug</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=55) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=55)
+
+
+---
+
+
+
+### [Mar-Dec](#Mar-Dec){#Mar-Dec}
+
+
+#### Definition
+a ten month period that spans the months of March to December.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">Mar-Dec</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3376) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3376)
+
+
+---
+
+
+
+### [Mar-Jan](#Mar-Jan){#Mar-Jan}
+
+
+#### Definition
+an eleven month period that spans the months of March to January.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">Mar-Jan</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3388) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3388)
+
+
+---
+
+
+
+### [Mar-Jul](#Mar-Jul){#Mar-Jul}
+
+
+#### Definition
+a five month period that spans the months of March to July.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">Mar-Jul</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3323) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3323)
+
+
+---
+
+
+
+### [Mar-Jun](#Mar-Jun){#Mar-Jun}
+
+
+#### Definition
+a four month period that spans the months of March to June.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">Mar-Jun</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=43) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=43)
+
+
+---
+
+
+
+### [Mar-May](#Mar-May){#Mar-May}
+
+
+#### Definition
+a three month period that spans the months of March to May.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+3 4 2005, MAM
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">Mar-May</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=13) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=13)
+
+
+---
+
+
+
+### [Mar-Nov](#Mar-Nov){#Mar-Nov}
+
+
+#### Definition
+a nine month period that spans the months of March to November.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+March to November
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">Mar-Nov</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3364) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3364)
+
+
+---
+
+
+
+### [Mar-Oct](#Mar-Oct){#Mar-Oct}
+
+
+#### Definition
+an eight month period that spans the months of March to October.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+3 4 5 6 7 8 9 10 11 12 13 14, 3 4 5 6 7 8 9 10
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">Mar-Oct</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3352) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3352)
+
+
+---
+
+
+
+### [Mar-Sep](#Mar-Sep){#Mar-Sep}
+
+
+#### Definition
+a seven month period that spans the months of March to September.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">Mar-Sep</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3336) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3336)
+
+
+---
+
+
+
+### [May](#May){#May}
+
+
+#### Definition
+a one month period that spans the month of May.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+5
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">May</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=81) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=81)
+
+
+---
+
+
+
+### [May-Apr](#May-Apr){#May-Apr}
+
+
+#### Definition
+TBD
+
+
+*source: TBD*
+
+
+#### Known synonyms
+-5 -6 -7 -8 -9 -10 -11 -12 1 2 3 4
+
+
+#### NOAA PaST Thesaurus term
+<font size="4">This concept doesn't exist on PaST</font>
+
+
+---
+
+
+
+### [May-Aug](#May-Aug){#May-Aug}
+
+
+#### Definition
+a four month period that spans the months of May to August.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+MJJA, 5,6,7,8
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">May-Aug</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=45) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=45)
+
+
+---
+
+
+
+### [May-Dec](#May-Dec){#May-Dec}
+
+
+#### Definition
+an eight month period that spans the months of May to December.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+May, June, July, August, September, October, November, December, MJJASOND, 5 6 7 8 9 10 11 12
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">May-Dec</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3354) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3354)
+
+
+---
+
+
+
+### [May-Feb](#May-Feb){#May-Feb}
+
+
+#### Definition
+a ten month period that spans the months of May to February.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">May-Feb</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3378) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3378)
+
+
+---
+
+
+
+### [May-Jan](#May-Jan){#May-Jan}
+
+
+#### Definition
+a nine month period that spans the months of May to January.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">May-Jan</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3366) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3366)
+
+
+---
+
+
+
+### [May-Jul](#May-Jul){#May-Jul}
+
+
+#### Definition
+a three month period that spans the months of May to July.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+5 6 2007
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">May-Jul</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=15) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=15)
+
+
+---
+
+
+
+### [May-Jun](#May-Jun){#May-Jun}
+
+
+#### Definition
+a two month period that spans the months of May and June.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+MJ
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">May-Jun</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=69) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=69)
+
+
+---
+
+
+
+### [May-Mar](#May-Mar){#May-Mar}
+
+
+#### Definition
+an eleven month period that spans the months of May to March.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">May-Mar</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3390) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3390)
+
+
+---
+
+
+
+### [May-Nov](#May-Nov){#May-Nov}
+
+
+#### Definition
+a seven month period that spans the months of May to November.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">May-Nov</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3338) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3338)
+
+
+---
+
+
+
+### [May-Oct](#May-Oct){#May-Oct}
+
+
+#### Definition
+a six month period that spans the months of May to October.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+MJJASO, May, June, July, August, September, October, 5,6,7,8,9,10, May to October
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">May-Oct</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=57) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=57)
+
+
+---
+
+
+
+### [May-Sep](#May-Sep){#May-Sep}
+
+
+#### Definition
+a five month period that spans the months of May to September.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+MJJAS, May to Sept, May, June, July, August, September, 5,6,7,8,9
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">May-Sep</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3325) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3325)
+
+
+---
+
+
+
+### [deleteMe](#deleteMe){#deleteMe}
+
+
+#### Definition
+TBD
+
+
+*source: TBD*
+
+
+#### Known synonyms
+upwelling, unknown, N/A, 1,10, 1,11, changes depending on which season provides source moisture for plants, depends, inflow@surface, not indicated, under present conditions, wet years often have higehr amount of winter rain, but d18O may reflect high summer rain, winter rain, or both, upwelling season
+
+
+#### NOAA PaST Thesaurus term
+<font size="4">This concept doesn't exist on PaST</font>
+
+
+---
+
+
+
+### [Nov-Apr](#Nov-Apr){#Nov-Apr}
+
+
+#### Definition
+a six month period that spans the months of November to April.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+11,12,1,2,3,4, winter (Nov-April), -11 -12 1 2 3 4, NDJFMA
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">Nov-Apr</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=63) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=63)
+
+
+---
+
+
+
+### [Nov-Aug](#Nov-Aug){#Nov-Aug}
+
+
+#### Definition
+a ten month period that spans the months of November to August.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">Nov-Aug</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3384) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3384)
+
+
+---
+
+
+
+### [Nov-Dec](#Nov-Dec){#Nov-Dec}
+
+
+#### Definition
+a two month period that spans the months of November and December.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">Nov-Dec</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=75) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=75)
+
+
+---
+
+
+
+### [Nov-Feb](#Nov-Feb){#Nov-Feb}
+
+
+#### Definition
+a four month period that spans the months of November to February.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+-11 -12 1 2, 11,12,1,2, NDJF, November (previous year) to February (current year)
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">Nov-Feb</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=51) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=51)
+
+
+---
+
+
+
+### [Nov-Jan](#Nov-Jan){#Nov-Jan}
+
+
+#### Definition
+a three month period that spans the months of November to January.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+summer (NDJ)
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">Nov-Jan</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=21) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=21)
+
+
+---
+
+
+
+### [Nov-Jul](#Nov-Jul){#Nov-Jul}
+
+
+#### Definition
+a nine month period that spans the months of November to July.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">Nov-Jul</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3372) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3372)
+
+
+---
+
+
+
+### [Nov-Jun](#Nov-Jun){#Nov-Jun}
+
+
+#### Definition
+an eight month period that spans the months of November to June.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+11,12,1,2,3,4,5,6
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">Nov-Jun</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3360) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3360)
+
+
+---
+
+
+
+### [Nov-Mar](#Nov-Mar){#Nov-Mar}
+
+
+#### Definition
+a five month period that spans the months of November to March.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+11,12,1,2,3
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">Nov-Mar</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3331) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3331)
+
+
+---
+
+
+
+### [Nov-May](#Nov-May){#Nov-May}
+
+
+#### Definition
+a seven month period that spans the months of November to May.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+11,12,1,2,3,4,5, Winter (11,12,1,2,3,4,5)
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">Nov-May</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3344) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3344)
+
+
+---
+
+
+
+### [Nov-Oct](#Nov-Oct){#Nov-Oct}
+
+
+#### Definition
+TBD
+
+
+*source: TBD*
+
+
+#### Known synonyms
+-12 -11 1 2 3 4 5 6 7 8 9 10
+
+
+#### NOAA PaST Thesaurus term
+<font size="4">This concept doesn't exist on PaST</font>
+
+
+---
+
+
+
+### [Nov-Sep](#Nov-Sep){#Nov-Sep}
+
+
+#### Definition
+an eleven month period that spans the months of November to September.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">Nov-Sep</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3396) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3396)
+
+
+---
+
+
+
+### [Oct-Apr](#Oct-Apr){#Oct-Apr}
+
+
+#### Definition
+a seven month period that spans the months of October to April.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+10,11,12,1,2,3,4, -10 -11 -12 1 2 3 4, October-April (wet season), ONDJFMA
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">Oct-Apr</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3343) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3343)
+
+
+---
+
+
+
+### [Oct-Aug](#Oct-Aug){#Oct-Aug}
+
+
+#### Definition
+an eleven month period that spans the months of October to August.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">Oct-Aug</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3395) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3395)
+
+
+---
+
+
+
+### [Oct-Dec](#Oct-Dec){#Oct-Dec}
+
+
+#### Definition
+a three month period that spans the months of October to December.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+OND
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">Oct-Dec</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=20) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=20)
+
+
+---
+
+
+
+### [Oct-Feb](#Oct-Feb){#Oct-Feb}
+
+
+#### Definition
+a five month period that spans the months of October to February.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">Oct-Feb</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3330) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3330)
+
+
+---
+
+
+
+### [Oct-Jan](#Oct-Jan){#Oct-Jan}
+
+
+#### Definition
+a four month period that spans the months of October to January.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+10,11,12,1, ONDJ
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">Oct-Jan</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=50) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=50)
+
+
+---
+
+
+
+### [Oct-Jul](#Oct-Jul){#Oct-Jul}
+
+
+#### Definition
+a ten month period that spans the months of October to July.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">Oct-Jul</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3383) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3383)
+
+
+---
+
+
+
+### [Oct-Jun](#Oct-Jun){#Oct-Jun}
+
+
+#### Definition
+a nine month period that spans the months of October to June.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">Oct-Jun</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3371) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3371)
+
+
+---
+
+
+
+### [Oct-Mar](#Oct-Mar){#Oct-Mar}
+
+
+#### Definition
+a six month period that spans the months of October to March.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+ONDJFM, 10,11,12,1,2,3
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">Oct-Mar</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=62) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=62)
+
+
+---
+
+
+
+### [Oct-May](#Oct-May){#Oct-May}
+
+
+#### Definition
+an eight month period that spans the months of October to May.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+10, 11, 12, 1, 2, 3, 4, 5
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">Oct-May</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3359) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3359)
+
+
+---
+
+
+
+### [Oct-Nov](#Oct-Nov){#Oct-Nov}
+
+
+#### Definition
+a two month period that spans the months of October and November.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">Oct-Nov</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=74) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=74)
+
+
+---
+
+
+
+### [Oct-Sep](#Oct-Sep){#Oct-Sep}
+
+
+#### Definition
+TBD
+
+
+*source: TBD*
+
+
+#### Known synonyms
+Oct (previous year) to Sept (current year)
+
+
+#### NOAA PaST Thesaurus term
+<font size="4">This concept doesn't exist on PaST</font>
+
+
+---
+
+
+
+### [Sep-Apr](#Sep-Apr){#Sep-Apr}
+
+
+#### Definition
+an eight month period that spans the months of September to April.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+-9 -10 -11 -12 1 2 3 4
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">Sep-Apr</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3358) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3358)
+
+
+---
+
+
+
+### [Sep-Aug](#Sep-Aug){#Sep-Aug}
+
+
+#### Definition
+TBD
+
+
+*source: TBD*
+
+
+#### Known synonyms
+-12 -11 -10 -9 1 2 3 4 5 6 7 8
+
+
+#### NOAA PaST Thesaurus term
+<font size="4">This concept doesn't exist on PaST</font>
+
+
+---
+
+
+
+### [Sep-Dec](#Sep-Dec){#Sep-Dec}
+
+
+#### Definition
+a four month period that spans the months of September to December.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">Sep-Dec</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=49) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=49)
+
+
+---
+
+
+
+### [Sep-Feb](#Sep-Feb){#Sep-Feb}
+
+
+#### Definition
+a six month period that spans the months of September to February.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+-9 -10 -11 -12 1 2 2, SONDJF
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">Sep-Feb</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=61) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=61)
+
+
+---
+
+
+
+### [Sep-Jan](#Sep-Jan){#Sep-Jan}
+
+
+#### Definition
+a five month period that spans the months of September to January.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">Sep-Jan</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3329) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3329)
+
+
+---
+
+
+
+### [Sep-Jul](#Sep-Jul){#Sep-Jul}
+
+
+#### Definition
+an eleven month period that spans the months of September to July.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">Sep-Jul</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3394) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3394)
+
+
+---
+
+
+
+### [Sep-Jun](#Sep-Jun){#Sep-Jun}
+
+
+#### Definition
+a ten month period that spans the months of September to June.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">Sep-Jun</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3382) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3382)
+
+
+---
+
+
+
+### [Sep-Mar](#Sep-Mar){#Sep-Mar}
+
+
+#### Definition
+a seven month period that spans the months of September to March.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">Sep-Mar</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3342) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3342)
+
+
+---
+
+
+
+### [Sep-May](#Sep-May){#Sep-May}
+
+
+#### Definition
+a nine month period that spans the months of September to May.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">Sep-May</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3370) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3370)
+
+
+---
+
+
+
+### [Sep-Nov](#Sep-Nov){#Sep-Nov}
+
+
+#### Definition
+a three month period that spans the months of September to November.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+9 10 11
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">Sep-Nov</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=19) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=19)
+
+
+---
+
+
+
+### [Sep-Oct](#Sep-Oct){#Sep-Oct}
+
+
+#### Definition
+a two month period that spans the months of September and October.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+9 10
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">Sep-Oct</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=73) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=73)
+
+
+---
+
+
+
+### [Spr-Sum](#Spr-Sum){#Spr-Sum}
+
+
+#### Definition
+TBD
+
+
+*source: TBD*
+
+
+#### Known synonyms
+variable, probably spring/summer, spring summer, spring-summer
+
+
+#### NOAA PaST Thesaurus term
+<font size="4">This concept doesn't exist on PaST</font>
+
+
+---
+
+
+
+### [Spring](#Spring){#Spring}
+
+
+#### Definition
+a non-calendric period that encompasses the local period of transition between winter and summer without specification of certain days or months.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+spring
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">spring</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=1243) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=1243)
+
+
+---
+
+
+
+### [subannual](#subannual){#subannual}
+
+
+#### Definition
+The dataset is subannually resolved so seasonal variability is explicit in the timeseries
+
+
+*source: LinkedEarth*
+
+
+#### Known synonyms
+N/A (subannually resolved), not applicable (subannually resolved)
+
+
+#### NOAA PaST Thesaurus term
+<font size="4">This concept doesn't exist on PaST</font>
+
+
+---
+
+
+
+### [Summer](#Summer){#Summer}
+
+
+#### Definition
+a non-calendric period that encompasses the warmest period of the year without specification of certain days or months.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+summer, warm season, mostly summer, summer+, summer-bias, ice-free season, NH summer, ((( SummerOnly ))) summerOnly /// null, AM&JA, Austral summer (Oct-Jan), early summer, mean summer, P_amount (June), temperature (July, Aug), P_amount (June), temperature (May, June, Aug, Oct), summer?, T_air (July, August), P_amount (July), warmest quarter yr, Mar&Jul
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">summer</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=1244) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=1244)
+
+
+---
+
+
+
+### [Warmest Month](#Warmest_Month){#Warmest_Month}
+
+
+#### Definition
+the concentration of 231Pa that is produced by the decay of dissolved 235U in the water column, that is measured sedimentary 231Pa with any contributions from detrital material or decay of sedimentary 235U removed.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+warmest month, warmest
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">231Pa excess</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=4000) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=4000)
+
+
+---
+
+
+
+### [Wet Season](#Wet_Season){#Wet_Season}
+
+
+#### Definition
+TBD
+
+
+*source: TBD*
+
+
+#### Known synonyms
+monsoon, Andean wet season, Monsoon, monsoon season, wet season
+
+
+#### NOAA PaST Thesaurus term
+<font size="4">This concept doesn't exist on PaST</font>
+
+
+---
+
+
+
+### [Win-Spr](#Win-Spr){#Win-Spr}
+
+
+#### Definition
+TBD
+
+
+*source: TBD*
+
+
+#### Known synonyms
+winter/spring
+
+
+#### NOAA PaST Thesaurus term
+<font size="4">This concept doesn't exist on PaST</font>
+
+
+---
+
+
+
+### [Winter](#Winter){#Winter}
+
+
+#### Definition
+a non-calendric period that encompasses the coldest period of the year without specification of certain days or months.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+winter, winter+, mostly winter
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">winter</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=1245) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=1245)
+
+
+---
+

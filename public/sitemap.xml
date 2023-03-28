@@ -23,7 +23,7 @@
     <loc>https://lipdverse.org/categories/tutorial/</loc>
     <lastmod>2022-10-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lipdverse.org/categories/blog/</loc>
+    <loc>https://lipdverse.org/categories/news/</loc>
     <lastmod>2022-10-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lipdverse.org/blog/2022/10/21/2022-10-20-welcome-the-lipdverse/</loc>
@@ -50,8 +50,26 @@
     <loc>https://lipdverse.org/project/pages2k/</loc>
     <lastmod>2017-07-11T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://lipdverse.org/vocabulary/archivetype/</loc>
+  </url><url>
     <loc>https://lipdverse.org/contact/</loc>
   </url><url>
     <loc>https://lipdverse.org/faq/</loc>
+  </url><url>
+    <loc>https://lipdverse.org/vocabulary/interpretation_seasonality/</loc>
+  </url><url>
+    <loc>https://lipdverse.org/vocabulary/interpretation_variable/</loc>
+  </url><url>
+    <loc>https://lipdverse.org/vocabulary/paleodata_proxy/</loc>
+  </url><url>
+    <loc>https://lipdverse.org/vocabulary/paleodata_proxygeneral/</loc>
+  </url><url>
+    <loc>https://lipdverse.org/vocabulary/paleodata_units/</loc>
+  </url><url>
+    <loc>https://lipdverse.org/vocabulary/paleodata_variablename/</loc>
+  </url><url>
+    <loc>https://lipdverse.org/vocabulary/</loc>
+  </url><url>
+    <loc>https://lipdverse.org/categories/vocabulary/</loc>
   </url>
 </urlset>

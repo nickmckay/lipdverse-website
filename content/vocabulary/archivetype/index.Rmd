@@ -1,0 +1,366 @@
+---
+title: archiveType
+categories: [vocabulary]
+summary: The physical medium in which the response of a proxy sensor to environmental forcing is recorded and upon which the proxy measurements were made.
+---
+
+
+# archiveType
+
+The physical medium in which the response of a proxy sensor to environmental forcing is recorded and upon which the proxy measurements were made.
+
+
+---
+
+
+
+### [Borehole](#Borehole){#Borehole}
+
+
+#### Definition
+a data type that consists of direct measurements of subsurface temperature from boreholes drilled into materials such as rock and glacier ice.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">borehole</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=114) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=114)
+
+
+---
+
+
+
+### [Coral](#Coral){#Coral}
+
+
+#### Definition
+an identifiable organism that belongs to the kingdom Animalia, phylum Cnindaria.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">coral</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=245) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=245)
+
+
+---
+
+
+
+### [FluvialSediment](#FluvialSediment){#FluvialSediment}
+
+
+#### Definition
+Sediments that have been deposited by rivers or streams.
+
+
+*source: LinkedEarth*
+
+
+#### Known synonyms
+Creek, Fluvial, River, Stream
+
+
+#### NOAA PaST Thesaurus term
+<font size="4">This concept doesn't exist on PaST</font>
+
+
+---
+
+
+
+### [GlacierIce](#GlacierIce){#GlacierIce}
+
+
+#### Definition
+a data type that includes measurements made on land-based ice.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">ice cores</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=102) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=102)
+
+
+---
+
+
+
+### [GroundIce](#GroundIce){#GroundIce}
+
+
+#### Definition
+a hydrologic material that is a whole sample of recrystallized and compacted snow, without any separation of components.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">bulk ice</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=789) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=789)
+
+
+---
+
+
+
+### [LakeSediment](#LakeSediment){#LakeSediment}
+
+
+#### Definition
+Sediment deposited in a lake
+
+
+*source: LinkedEarth*
+
+
+#### Known synonyms
+Lagoon, Lake, Lake Sediment
+
+
+#### NOAA PaST Thesaurus term
+<font size="4">This concept doesn't exist on PaST</font>
+
+
+---
+
+
+
+### [MarineSediment](#MarineSediment){#MarineSediment}
+
+
+#### Definition
+Sediment deposited in the ocean
+
+
+*source: LinkedEarth*
+
+
+#### Known synonyms
+Marine, Delta, Marine Sediment, Ocean
+
+
+#### NOAA PaST Thesaurus term
+<font size="4">This concept doesn't exist on PaST</font>
+
+
+---
+
+
+
+### [Midden](#Midden){#Midden}
+
+
+#### Definition
+A refuse heap accumlated by a human or other animal (e.g. packrats)
+
+
+*source: LinkedEarth*
+
+
+#### Known synonyms
+
+
+
+#### NOAA PaST Thesaurus term
+<font size="4">This concept doesn't exist on PaST</font>
+
+
+---
+
+
+
+### [MolluskShell](#MolluskShell){#MolluskShell}
+
+
+#### Definition
+an identifiable organism including clams and mussels that belongs to the kingdom Animalia, phylum Mollusca, class Bivalvia.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+MolluskShells
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">bivalve</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=1772) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=1772)
+
+
+---
+
+
+
+### [Other](#Other){#Other}
+
+
+#### Definition
+An allowed term for a rare archiveType that doesn't fall into another category
+
+
+*source: LinkedEarth*
+
+
+#### Known synonyms
+Marl, Meadow, Archaeological, Coast, Farmland, Forest, Sediment, Spring, Valley
+
+
+#### NOAA PaST Thesaurus term
+<font size="4">This concept doesn't exist on PaST</font>
+
+
+---
+
+
+
+### [Peat](#Peat){#Peat}
+
+
+#### Definition
+a bulk biological material that consists of an unconsolidated combustible deposit of partially carbonized plant remains, common in bogs, fens, and lakes in tundra or periglacial regions (Credit: Smol et al. 2001 Tracking Environmental Change Using Lake Sediments).
+
+
+*source: PaST*
+
+
+#### Known synonyms
+Wetland, Bog, Fen, Marsh, Mire, Swamp
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">peat</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=1623) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=1623)
+
+
+---
+
+
+
+### [Sclerosponge](#Sclerosponge){#Sclerosponge}
+
+
+#### Definition
+an identifiable organism that belongs to kingdom Animalia, phylum Porifera, class Demospongiae.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">sclerosponge</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=4574) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=4574)
+
+
+---
+
+
+
+### [Shoreline](#Shoreline){#Shoreline}
+
+
+#### Definition
+a data type that quantifies past changes in lake elevation or lake depth, either directly or using reconstruction methods, based on shoreline deposits or sediment cores.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+LakeDeposit, LakeDeposits
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">lake levels</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=2298) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=2298)
+
+
+---
+
+
+
+### [Speleothem](#Speleothem){#Speleothem}
+
+
+#### Definition
+a data type that includes measurements made on cave deposits.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+Cave
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">speleothems</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=106) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=106)
+
+
+---
+
+
+
+### [TerrestrialSediment](#TerrestrialSediment){#TerrestrialSediment}
+
+
+#### Definition
+Sediment deposited on land
+
+
+*source: LinkedEarth*
+
+
+#### Known synonyms
+Paleosol, Dune, Loess, Terrestrial Sediment
+
+
+#### NOAA PaST Thesaurus term
+<font size="4">This concept doesn't exist on PaST</font>
+
+
+---
+
+
+
+### [Wood](#Wood){#Wood}
+
+
+#### Definition
+a data type that includes measurements made on the rings of trees.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">tree ring</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=116) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=116)
+
+
+---
+

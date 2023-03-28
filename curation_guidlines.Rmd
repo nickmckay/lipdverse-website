@@ -1,0 +1,14 @@
+---
+title: "Guidelines, tips and tricks for compilation data curation"
+author: "Cody Routson and Nick McKay"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Introduction
+
+![](images/WINGS.001.png)

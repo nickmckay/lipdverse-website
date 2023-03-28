@@ -1835,6 +1835,20 @@ fieldset[disabled] .btn-template-primary.active {
   margin-bottom: 20px;
   text-align: left;
 }
+.portfolio-vocabulary .project-more h4 {
+  color: #555555;
+  text-transform: uppercase;
+  margin-bottom: 0;
+  text-align: left;
+  font-size: 14px;
+  letter-spacing: 0.08em;
+}
+.portfolio-vocabulary .project-more p {
+  color: #999999;
+  padding: 10px 0;
+  margin-bottom: 20px;
+  text-align: left;
+}
 .portfolio-showcase {
   margin: 15px 0 60px;
 }
@@ -3183,8 +3197,8 @@ a:focus {
 hr {
   margin-top: 20px;
   margin-bottom: 20px;
-  border: 0;
-  border-top: 1px solid #eeeeee;
+  border:  0;
+  border-top: 3px solid #272727;
 }
 /* breadcrumbs */
 .breadcrumb {

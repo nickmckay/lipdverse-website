@@ -4,13 +4,13 @@ title: Welcome the LiPDverse
 author: Nick McKay
 date: '2022-10-21'
 slug: []
-categories: [blog]
+categories: [news]
 tags: []
 ---
 
 # Welcome to the LiPDverse!
 
-The LiPDverse has been around for awhile now, but we've redesigned the website, added a blog, and did a bit more, so if even if you're a regular, this looks a bit new. So now that you're here, what should you do?
+The LiPDverse has been around for awhile now, but we've redesigned the website, added articles, and did a bit more, so if even if you're a regular, this looks a bit new. So now that you're here, what should you do?
 
 ## 1. Explore LiPD datasets
 
@@ -20,7 +20,7 @@ We created the LiPDverse exists to be a simple and convenient way of accessing a
 
 A primary goal of LiPDverse is to support reproducibility. LiPD datasets and compilations frequently get updated as new data and metadata are added and as corrections are made. To accommodate the dynamic nature of these data sources, we've worked hard to develop a versioning system for both compilations and datasets. We've been gradually rolling this out and testing it over the past couple of years, so older compilations and datasets aren't as well versioned, but moving forward we aim to keep track of all the versions of both datasets and complations.
 
-A blog post detailing compilation and dataset versioning is coming soon.
+An article detailing compilation and dataset versioning is coming soon.
 
 ## 3. Annotate a dataset
 
@@ -38,7 +38,7 @@ The Throughput Annotation Engineis a community tool that's better the more it ge
 
 ## 4. Build LiPDverse into your workflows
 
-As we will showcase in the coming weeks and months with tutorials and examples in this blog, one of the most powerful ways to use LiPDverse is to build it into your scientific workflows. If you use R, you can already start your workflows with commands that access either the most recent or a specified version of a file or compilation. Every dataset page shows the code to load it directly into R:
+As we will showcase in the coming weeks and months with tutorials and examples in this article, one of the most powerful ways to use LiPDverse is to build it into your scientific workflows. If you use R, you can already start your workflows with commands that access either the most recent or a specified version of a file or compilation. Every dataset page shows the code to load it directly into R:
 
 ![](images/paste-7F093DCA.png){width="309" height="60"}
 

@@ -31,22 +31,28 @@ paginate = 10
     weight = 2
 
 [[menu.main]]
-    identifier="blog"
-    name = "Blog"
+    identifier="articles"
+    name = "Articles"
     url  = "/blog/"
     weight = 3
-
+    
+[[menu.main]]
+    identifier = "vocabulary"
+    name = "Vocabulary"
+    url  = "/vocabulary/"
+    weight = 4
+    
 [[menu.main]]
     identifier = "faq"
     name = "FAQ"
     url  = "/faq/"
-    weight = 4
+    weight = 5
 
 [[menu.main]]
     identifier = "About Us"
     name = "About Us"
     url  = "/contact/"
-    weight = 5
+    weight = 6
 
 # Top bar social links menu
 
@@ -72,7 +78,7 @@ paginate = 10
     viewMorePostLink = "/blog/"
     author = "Nick McKay"
     defaultKeywords = ["LiPD"]
-    mainSections = ["blog"]
+    mainSections = ["projects","articles","vocabulary"]
     defaultDescription = "The LiPDverse is a centralized way to share, visualize and distribute LiPD paleoclimate datasets."
 
     # Social media
@@ -180,5 +186,10 @@ paginate = 10
 
 [params.recent_posts]
     enable = true
-    title = "From our blog"
-    subtitle = "We use our blog to post updates about the LiPDverse, share tutorials, and highlight recent research that's been done using LiPD data or tools."
+    title = "Articles"
+    subtitle = "Articles include updates about the LiPDverse, share tutorials, and highlight recent research that's been done using LiPD data or tools."
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

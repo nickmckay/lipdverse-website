@@ -1,0 +1,366 @@
+---
+title: paleoData_proxyGeneral
+categories: [vocabulary]
+summary: A generalized grouping of paleoData_proxy
+---
+
+
+# paleoData_proxyGeneral
+
+A generalized grouping of paleoData_proxy
+
+
+---
+
+
+
+### [biogenic](#biogenic){#biogenic}
+
+
+#### Definition
+measurements of cells or collections of cells that partially or completely compose an organism or group of organisms.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">biological material</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=444) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=444)
+
+
+---
+
+
+
+### [biomarker](#biomarker){#biomarker}
+
+
+#### Definition
+a compound that consists of one or more atoms of carbon covalently linked to atoms of other elements, most commonly hydrogen, oxgen, or nitrogen.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">organic compound</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=1596) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=1596)
+
+
+---
+
+
+
+### [borehole](#borehole){#borehole}
+
+
+#### Definition
+a data type that consists of direct measurements of subsurface temperature from boreholes drilled into materials such as rock and glacier ice.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">borehole</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=114) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=114)
+
+
+---
+
+
+
+### [cryophysical](#cryophysical){#cryophysical}
+
+
+#### Definition
+Proxies based on physical measurements made on ice (e.g. bubble density, ice melt, and ice accumulation)
+
+
+*source: LinkedEarth*
+
+
+#### Known synonyms
+
+
+
+#### NOAA PaST Thesaurus term
+<font size="4">This concept doesn't exist on PaST</font>
+
+
+---
+
+
+
+### [dendrophysical](#dendrophysical){#dendrophysical}
+
+
+#### Definition
+Proxies based on physical measurements made on tree-rings (e.g. ring width, maximum latewood density)
+
+
+*source: LinkedEarth*
+
+
+#### Known synonyms
+
+
+
+#### NOAA PaST Thesaurus term
+<font size="4">This concept doesn't exist on PaST</font>
+
+
+---
+
+
+
+### [elemental](#elemental){#elemental}
+
+
+#### Definition
+Proxies  based on elements in the periodic table (e.g. Ti, Ti/Ca, Mg/Ca, Sr/Ca etc.)
+
+
+*source: LinkedEarth*
+
+
+#### Known synonyms
+
+
+
+#### NOAA PaST Thesaurus term
+<font size="4">This concept doesn't exist on PaST</font>
+
+
+---
+
+
+
+### [faunal assemblage](#faunal_assemblage){#faunal_assemblage}
+
+
+#### Definition
+Proxies based on a group of animal fossils (e.g. chironomid, dynocist, foraminifera, amoeba, etc.)
+
+
+*source: LinkedEarth*
+
+
+#### Known synonyms
+
+
+
+#### NOAA PaST Thesaurus term
+<font size="4">This concept doesn't exist on PaST</font>
+
+
+---
+
+
+
+### [floral assemblage](#floral_assemblage){#floral_assemblage}
+
+
+#### Definition
+Proxies based on a group of plant fossils (e.g. pollen, diatoms, cocolyths etc)
+
+
+*source: LinkedEarth*
+
+
+#### Known synonyms
+
+
+
+#### NOAA PaST Thesaurus term
+<font size="4">This concept doesn't exist on PaST</font>
+
+
+---
+
+
+
+### [historical](#historical){#historical}
+
+
+#### Definition
+a data type that includes measurements of past climatic conditions and climate-dependent phenomena as observed and recorded by humans not using modern meteorological instruments.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">historical</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3460) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3460)
+
+
+---
+
+
+
+### [isotopic](#isotopic){#isotopic}
+
+
+#### Definition
+a measure of chemical composition that relates to variants of a given element that differ in neutron number.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">isotope</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=4584) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=4584)
+
+
+---
+
+
+
+### [mineral](#mineral){#mineral}
+
+
+#### Definition
+Proxies based on minerals (e.g. calcium carbonate, total inorganic carbon, calcite, calcification rate etc)
+
+
+*source: LinkedEarth*
+
+
+#### Known synonyms
+
+
+
+#### NOAA PaST Thesaurus term
+<font size="4">This concept doesn't exist on PaST</font>
+
+
+---
+
+
+
+### [multiproxy](#multiproxy){#multiproxy}
+
+
+#### Definition
+a material used to create a climate reconstruction that consists of proxies from more than two proxy data types.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">multiple proxies</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3630) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3630)
+
+
+---
+
+
+
+### [pyrogenic](#pyrogenic){#pyrogenic}
+
+
+#### Definition
+a data type that includes measurements made to deduce the past history of fire, whether from tree rings, sediment, or other natural archives.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">fire history</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=115) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=115)
+
+
+---
+
+
+
+### [reflectance](#reflectance){#reflectance}
+
+
+#### Definition
+an electromagnetic property that measures the amount of light that reflects from the surface of a material.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">reflectance</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=1005) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=1005)
+
+
+---
+
+
+
+### [sedimentology](#sedimentology){#sedimentology}
+
+
+#### Definition
+Proxies based on physical sediment properties (e.g. Bulk Density, Magnetic properties etc)
+
+
+*source: LinkedEarth*
+
+
+#### Known synonyms
+
+
+
+#### NOAA PaST Thesaurus term
+<font size="4">This concept doesn't exist on PaST</font>
+
+
+---
+
+
+
+### [stratigraphy](#stratigraphy){#stratigraphy}
+
+
+#### Definition
+Proxies based on sediment layers (e.g. varves, flood layers, etc.)
+
+
+*source: LinkedEarth*
+
+
+#### Known synonyms
+
+
+
+#### NOAA PaST Thesaurus term
+<font size="4">This concept doesn't exist on PaST</font>
+
+
+---
+
