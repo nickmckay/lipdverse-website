@@ -36,6 +36,28 @@ the remanent magnetization that is acquired without the aid of changes in temper
 
 
 
+### [atoms/g](#atoms_g){#atoms_g}
+
+
+#### Definition
+TBD
+
+
+*source: TBD*
+
+
+#### Known synonyms
+
+
+
+#### NOAA PaST Thesaurus term
+<font size="4">This concept doesn't exist on PaST</font>
+
+
+---
+
+
+
 ### [atomic ratio](#atomic_ratio){#atomic_ratio}
 
 
@@ -784,6 +806,50 @@ a volume unit which is equal to one billion cubic meters or 10^[9] m^[3].
 
 
 
+### [liter](#liter){#liter}
+
+
+#### Definition
+a volume unit which is equal to one thousandth of a cubic meter or 10^[-3] m^[3], or to 1 decimeter (Credit: Units of measurement ontology).
+
+
+*source: PaST*
+
+
+#### Known synonyms
+L
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">liter</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=4478) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=4478)
+
+
+---
+
+
+
+### [lightness](#lightness){#lightness}
+
+
+#### Definition
+an axis of the CIE L*a*b* color system, with the darkest black at 0 and the brightest white at 100.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+L*, reflectance
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">lightness</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=2194) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=2194)
+
+
+---
+
+
+
 ### [log(mg/L)](#log(mg_L)){#log(mg_L)}
 
 
@@ -839,7 +905,7 @@ a specific volume unit which is equal to one cubic meter volume occupied by one 
 
 
 #### Known synonyms
-m^3 kg^-1, m3kg-1, m3kg1
+m^3 kg^-1, m3kg-1, m3kg1, 10^[-8] m3/kg
 
 
 #### NOAA PaST Thesaurus term
@@ -1169,7 +1235,7 @@ a mass fraction unit that measures the number of nanograms, or 10^[-9] g, of one
 
 
 #### Known synonyms
-ng/g sed
+ng/g sed, nanogram/gram
 
 
 #### NOAA PaST Thesaurus term
@@ -1356,22 +1422,44 @@ ratio cps, g/g, (mg/kg)/(mg/kg), cps/cps, grams/dry weight, sediment 130um, ((( 
 
 
 
-### [refelctance](#refelctance){#refelctance}
+### [log(ratio)](#log(ratio)){#log(ratio)}
 
 
 #### Definition
-an electromagnetic property that measures the amount of light that reflects from the surface of a material.
+TBD
 
 
-*source: PaST*
+*source: TBD*
 
 
 #### Known synonyms
-reflectance
+log(cps/cps)
 
 
 #### NOAA PaST Thesaurus term
-[<font size="4">reflectance</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=1005) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=1005)
+<font size="4">This concept doesn't exist on PaST</font>
+
+
+---
+
+
+
+### [ln(ratio)](#ln(ratio)){#ln(ratio)}
+
+
+#### Definition
+TBD
+
+
+*source: TBD*
+
+
+#### Known synonyms
+ln(cps/cps)
+
+
+#### NOAA PaST Thesaurus term
+<font size="4">This concept doesn't exist on PaST</font>
 
 
 ---

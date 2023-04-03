@@ -399,7 +399,7 @@ the elemental ratio of barium to calcium.
 
 
 #### Known synonyms
-Ba_Ca, BaCa
+Ba_Ca, log_BaCa, BaCa
 
 
 #### NOAA PaST Thesaurus term
@@ -2203,7 +2203,7 @@ the ratio of two isotopes of oxygen, 18O/16O, in a sample compared to that of a 
 
 
 #### Known synonyms
-D18OIVC, d18o_ruber, d18o_pachyderma, d18OComposite, planktic.d18O, d18o_bulloides, d18o_sacculifer, d18O_sw, d18O_annual, D18O, d18o_ruber_pink, d18o_dutertrei, d18o_pachyderma_d, d18O_sw_annual, d18o_inflata, d18O_PDB, d18o_obliquiloculata, d18O_SMOW, d18O_swcorr, d18Ocarb, d18OPisid, d18Osw-sl-g.rubw, bagd18O, d180_corrc, d18O  encrustation, d18O Avg, d18O bulk calcite, d18O carbonate, d18O carbonate corrected for dolomite, d18O Chironomid, d18O ostracod, d18O pore ice sw corr, d18O_210yr, d18o_acicula, d18o_crassaformis, d18O_Gb, d18o_mabahethi, d18o_marginata, d18o_menardii, d18o_peregrina, d18o_quinqueloba, d18o_ruber_lato, d18o_ruber_stricto, d18o_tumida, d18O_vPDB, d18OBsi, d18Odiatom, d18Og.rub, d18Omean, d18Osw-g.rub, d18OTerrestrialGastropods, d18Otr, d18Otr-, d18Otr+, G. ruber w δ18O [‰ PDB], Gbulloidesd18O, CDR3_d18O, dd18O5pt, Ndutertreid18O, nonReliabled18O, ruberD18, WR11_d18O, x18O, x18ORub_, δ18O, Chironomid d18O, d18O (Sea Level Corrected), d18O VPDB, d18O_Grass_leaf, d18O_Sphagnum, d18O_vp–sp, d18O chironomid, d18O Lake water, d18O pore ice, d18Osw
+D18OIVC, d18o_ruber, d18o_pachyderma, d18OComposite, planktic.d18O, d18o_bulloides, d18o_sacculifer, d18O_sw, d18O_annual, D18O, d18o_ruber_pink, d18o_dutertrei, d18o_pachyderma_d, d18O_sw_annual, d18o_inflata, d18O_PDB, d18o_obliquiloculata, d18O_SMOW, d18O_swcorr, d18Ocarb, d18OPisid, d18Osw-sl-g.rubw, bagd18O, d180_corrc, d18O  encrustation, d18O Avg, d18O bulk calcite, d18O carbonate, d18O carbonate corrected for dolomite, d18O Chironomid, d18O ostracod, d18O pore ice sw corr, d18O_210yr, d18o_acicula, d18o_crassaformis, d18O_Gb, d18o_mabahethi, d18o_marginata, d18o_menardii, d18o_peregrina, d18o_quinqueloba, d18o_ruber_lato, d18o_ruber_stricto, d18o_tumida, d18O_vPDB, d18OBsi, d18Odiatom, d18Og.rub, d18Omean, d18Osw-g.rub, d18OTerrestrialGastropods, d18Otr, d18Otr-, d18Otr+, G. ruber w δ18O [‰ PDB], Gbulloidesd18O, CDR3_d18O, dd18O5pt, Ndutertreid18O, nonReliabled18O, ruberD18, WR11_d18O, x18O, x18ORub_, δ18O, Chironomid d18O, d18O (Sea Level Corrected), D18O_corrected, d18O VPDB, d18O_Grass_leaf, d18O_Sphagnum, d18O_vp–sp, d18O chironomid, d18O Lake water, d18O pore ice, d18Osw
 
 
 #### NOAA PaST Thesaurus term
@@ -2379,7 +2379,7 @@ the location of the midpoint of a sample measured as a distance from some datum,
 
 
 #### Known synonyms
-depthComposite, Depth, depth_merged, depthice, depthwe, MidpointDepth, Depth blf, depthComp, Composite depth, compositeDepth, Composite Depth, Section depth, depth corrected, depth_cmbs, depth_core1, depth_corr_cm, depth_merge, Composite Depth in Core, Composite depth mid, Composite_depth, cor_depth_cm, depthByCore, DrillHole Depth, mean depth, originalCoreDepth, Section Depth, Core depth, depth_core, Adjusted Depth, drive-depth
+depthComposite, Depth, depth_merged, depthice, depthwe, MidpointDepth, Depth blf, depthComp, Composite depth, compositeDepth, Composite Depth, Section depth, depth corrected, depth_cmbs, depth_core1, depth_corr_cm, depth_merge, Composite Depth in Core, Composite depth mid, Composite_depth, Depth_eventFree, cor_depth_cm, depthByCore, DrillHole Depth, mean depth, originalCoreDepth, Section Depth, Core depth, depth_core, Adjusted Depth, drive-depth
 
 
 #### NOAA PaST Thesaurus term
@@ -2951,7 +2951,7 @@ the elemental ratio of iron to calcium.
 
 
 #### Known synonyms
-ln(Fe/Ca), FeCa_log, FeCa, log(Fe/Ce)
+ln(Fe/Ca), FeCa_log, FeCa, log(Fe/Ca)
 
 
 #### NOAA PaST Thesaurus term
@@ -3242,6 +3242,28 @@ Gruber
 
 #### NOAA PaST Thesaurus term
 [<font size="4">Globigerinoides ruber</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=2621) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=2621)
+
+
+---
+
+
+
+### [globigerinoidesBulloides](#globigerinoidesBulloides){#globigerinoidesBulloides}
+
+
+#### Definition
+a particular species of the genus Globigerina.
+
+
+*source: PaST*
+
+
+#### Known synonyms
+G. bulloides
+
+
+#### NOAA PaST Thesaurus term
+[<font size="4">Globigerina bulloides</font>](https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3149) (https://www.ncei.noaa.gov/access/paleo-search/cvterms?termId=3149)
 
 
 ---
@@ -3985,7 +4007,7 @@ pyrolysis that involves strongly heating ('igniting') a sample of material at a 
 
 
 #### Known synonyms
-
+LOI550, LOI950
 
 
 #### NOAA PaST Thesaurus term
@@ -4117,7 +4139,7 @@ the elemental ratio of magnesium to calcium.
 
 
 #### Known synonyms
-mgca_pachyderma, mgca_bulloides, mgca_dutertrei, mgca_sacculifer, mgca_inflata, mgca_ruber_lato, mgca_ruber_pink, mgca_ruber_stricto, mgca_crassaformis, mgca_obliquiloculata, mgca_pachyderma_d, CDR3_MgCa, Mg/Ca Raw, MgCa, mgca_truncatulinoides, NdutertreiMg/Ca, mgca_ruber, Mg_Ca, planktic.MgCa
+mgca_pachyderma, mgca_bulloides, mgca_dutertrei, mgca_sacculifer, mgca_inflata, mgca_ruber_lato, mgca_ruber_pink, mgca_ruber_stricto, mgca_crassaformis, mgca_obliquiloculata, mgca_pachyderma_d, CDR3_MgCa, Mg/Ca Raw, MgCa, mgca_truncatulinoides, NdutertreiMg/Ca, mgca_ruber, Mg_Ca, log_MgCa, planktic.MgCa
 
 
 #### NOAA PaST Thesaurus term
@@ -5657,7 +5679,7 @@ the elemental ratio of strontium to calcium.
 
 
 #### Known synonyms
-CDR3_SrCa, WR11_SrCa, SrCa, Sr_Ca, SrCa_annual
+CDR3_SrCa, WR11_SrCa, SrCa, log_SrCa, Sr_Ca, SrCa_annual
 
 
 #### NOAA PaST Thesaurus term
